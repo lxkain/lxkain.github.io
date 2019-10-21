@@ -1,0 +1,6050 @@
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass extarticle
+\begin_preamble
+%\usepackage[small,compact]{titlesec}
+
+\usepackage{enumitem}
+%\setlist[itemize]{noitemsep}
+\setlist[itemize]{itemsep=0.02in}
+
+\usepackage{soul}
+\end_preamble
+\use_default_options true
+\begin_modules
+enumitem
+\end_modules
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts true
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures false
+\graphics default
+\default_output_format pdf4
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize default
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 0
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 0
+\use_package mhchem 1
+\use_package stackrel 0
+\use_package stmaryrd 0
+\use_package undertilde 0
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\use_minted 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\leftmargin 1in
+\topmargin 1in
+\rightmargin 1in
+\bottommargin 1in
+\secnumdepth 3
+\tocdepth 1
+\paragraph_separation indent
+\paragraph_indentation default
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+Alexander Kain — Curriculum Vitae
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align left
+\begin_inset Graphics
+	filename self.jpg
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+ORCID 0000-0001-5807-9311
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset href
+LatexCommand href
+target "http://cslu.ohsu.edu/~kain"
+literal "false"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Present Positions
+\end_layout
+
+\begin_layout Subsection*
+Oregon Health & Science University
+\end_layout
+
+\begin_layout Standard
+\noindent
+Associate Professor
+\begin_inset Newline newline
+\end_inset
+
+Computer Science & Electrical Engineering (
+\begin_inset CommandInset href
+LatexCommand href
+name "CSEE"
+target "http://www.ohsu.edu/csee"
+literal "false"
+
+\end_inset
+
+)
+\begin_inset Newline newline
+\end_inset
+
+Center for Spoken Language Understanding (
+\begin_inset CommandInset href
+LatexCommand href
+name "CSLU"
+target "http://cslu.ohsu.edu"
+literal "false"
+
+\end_inset
+
+)
+\begin_inset Newline newline
+\end_inset
+
+Institute on Development and Disability (
+\begin_inset CommandInset href
+LatexCommand href
+name "IDD"
+target "http://www.ohsu.edu/xd/research/centers-institutes/institute-on-development-and-disability/"
+literal "false"
+
+\end_inset
+
+)
+\begin_inset Newline newline
+\end_inset
+
+Department of Otolaryngology and Department of Pediatrics
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Note Comment
+status collapsed
+
+\begin_layout Plain Layout
+\noindent
+Institute on Development & Disability (
+\begin_inset CommandInset href
+LatexCommand href
+name "IDD"
+target "http://www.ohsu.edu/xd/research/centers-institutes/institute-on-development-and-disability/index.cfm/reknew"
+literal "false"
+
+\end_inset
+
+)
+\end_layout
+
+\end_inset
+
+School of Medicine (
+\begin_inset CommandInset href
+LatexCommand href
+name "SOM"
+target "http://www.ohsu.edu/xd/education/schools/school-of-medicine"
+literal "false"
+
+\end_inset
+
+)
+\begin_inset Newline newline
+\end_inset
+
+Oregon Health & Science University (
+\begin_inset CommandInset href
+LatexCommand href
+name "OHSU"
+target "http://www.ohsu.edu"
+literal "false"
+
+\end_inset
+
+)
+\begin_inset Newline newline
+\end_inset
+
+3181 SW Sam Jackson Park Road
+\begin_inset Newline newline
+\end_inset
+
+Portland, Oregon 97239-3098
+\begin_inset Newline newline
+\end_inset
+
+Email: 
+\begin_inset CommandInset href
+LatexCommand href
+name "kaina@ohsu.edu"
+target "kaina@ohsu.edu"
+type "mailto:"
+literal "false"
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+Phone: (503)
+\begin_inset space ~
+\end_inset
+
+349-3750
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+\noindent
+Fax: (503)
+\begin_inset space ~
+\end_inset
+
+346-3754
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection*
+BioSpeech, Inc.
+\end_layout
+
+\begin_layout Standard
+Chief Technology Innovation Officer (CTIO)
+\begin_inset Newline newline
+\end_inset
+
+9946 SW 61st Ave
+\begin_inset Newline newline
+\end_inset
+
+Portland, Oregon 97239-3098
+\begin_inset Newline newline
+\end_inset
+
+Email: 
+\begin_inset CommandInset href
+LatexCommand href
+name "kain@biospeech.com"
+target "kain@biospeech.com"
+type "mailto:"
+literal "false"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Professional Education
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+in general: most recent first
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection*
+Undergraduate and Graduate
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+(Include Year, Degree, and Institution)
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+2001, Ph.
+\begin_inset space \thinspace{}
+\end_inset
+
+D.
+\begin_inset space ~
+\end_inset
+
+in Computer Science and Engineering
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset href
+LatexCommand href
+name "Oregon Graduate Institute"
+target "http://www.ogi.edu"
+literal "false"
+
+\end_inset
+
+, Portland, OR
+\end_layout
+
+\begin_layout Itemize
+1995, B.
+\begin_inset space \thinspace{}
+\end_inset
+
+A.
+\begin_inset space ~
+\end_inset
+
+in Computer Science and B.
+\begin_inset space \thinspace{}
+\end_inset
+
+A.
+\begin_inset space ~
+\end_inset
+
+in Mathematics
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset href
+LatexCommand href
+name "Rockford College"
+target "http://www.rockford.edu"
+literal "false"
+
+\end_inset
+
+, Rockford, IL
+\end_layout
+
+\begin_layout Subsection*
+Postgraduate
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+(Include Year, Degree, and Institution)
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+2002–2005, Postdoctoral Training,
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset href
+LatexCommand href
+target "OGI School of Science & Engineering"
+literal "false"
+
+\end_inset
+
+, Portland, OR
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Subsection
+Certification 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+(Include Board, Number, Date, and Recertification)
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Licenses 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+(Include State, Date, Status, Number, and Renewal Date)
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Professional Experience
+\end_layout
+
+\begin_layout Subsection*
+Academic
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+(Include Year, Position, and Institution)
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+2014–present, Associate Professor
+\begin_inset Newline newline
+\end_inset
+
+2007–2014, Assistant Professor
+\begin_inset Newline newline
+\end_inset
+
+2005–2007, Senior Research Associate
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset href
+LatexCommand href
+name "Oregon Health & Science University"
+target "http://www.ohsu.edu"
+literal "false"
+
+\end_inset
+
+, Portland, OR
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+Administrative
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+(Include Year, Position, and Institution)
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection*
+Other
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+(Include Year, Position, and Institution)
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+2018–present, Chief Technology Innovation Officer (CTIO)
+\begin_inset Newline newline
+\end_inset
+
+2005–2018, Chief Scientist
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset href
+LatexCommand href
+name "BioSpeech, Inc."
+target "http://www.biospeech.com"
+literal "false"
+
+\end_inset
+
+, Portland, OR
+\end_layout
+
+\begin_layout Itemize
+2001–2008, Lead Speech Synthesis Technologist
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset href
+LatexCommand href
+name "Sensory, Inc."
+target "http://www.sensoryinc.com"
+literal "false"
+
+\end_inset
+
+, Santa Clara, CA
+\end_layout
+
+\begin_layout Itemize
+1999, Visiting Researcher
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset href
+LatexCommand href
+name "AT&T Research Labs"
+target "http://www.research.att.com"
+literal "false"
+
+\end_inset
+
+, Florham Park, NJ
+\end_layout
+
+\begin_layout Section
+Scholarship
+\end_layout
+
+\begin_layout Subsection
+Areas of Research/Scholarly Interest
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+Artificial Intelligence (AI) is poised to have a revolutionary effect on
+ enterprises, job markets, and the economy.
+ One can distinguish between 
+\begin_inset CommandInset href
+LatexCommand href
+name "three waves of AI"
+target "https://www.youtube.com/watch?v=-O01G3tSYpU"
+literal "false"
+
+\end_inset
+
+.
+ The first wave featured expert-devised, rule-based algorithms, such as
+ navigation software finding an optimal route.
+ The second, and current, wave is characterized by 
+\series bold
+machine learning
+\series default
+, commonly implemented using artificial neural networks many layers deep.
+ Second wave systems now exceed human performance in many tasks, such as
+ playing chess, recognizing faces, and driving cars.
+ The third wave is predicted to feature systems that will discover the underlyin
+g rules that govern their decisions; this in turn will enable the possibility
+ of a more complete understanding of the problem.
+\end_layout
+
+\end_inset
+
+I am interested in 
+\series bold
+innovation
+\series default
+, 
+\series bold
+application
+\series default
+, and 
+\series bold
+education
+\series default
+ in computational biomedicine, drawing on many years of 
+\series bold
+machine learning
+\series default
+ and biological 
+\series bold
+signal processing
+\series default
+ experience.
+ Recent innovations include:
+\end_layout
+
+\begin_layout Itemize
+Representation learning is useful for transferring learned knowledge to
+ tasks for which few or no examples are given but a task representation
+ exists.
+ Specifically, many traditional approaches to high-dimensional regression
+ are deficient in representing the global variance of the targets without
+ additional post-processing.
+ We are exploring how a novel 
+\series bold
+joint autoencoder
+\series default
+ architecture can address this shortcoming.
+\end_layout
+
+\begin_layout Itemize
+We are experimenting with a novel 
+\series bold
+decomposing autoencoder
+\series default
+ architecture to decompose parallel data streams into separate aspects such
+ as 
+\begin_inset Quotes eld
+\end_inset
+
+content
+\begin_inset Quotes erd
+\end_inset
+
+ vs.
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+style
+\begin_inset Quotes erd
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+Recent applications include:
+\end_layout
+
+\begin_layout Itemize
+Phonological disorders affect 10% of preschool and school-age children,
+ adversely affecting their communication, academic performance, and interaction
+ level.
+ Effective pronunciation training requires prolonged supervised practice
+ and interaction.
+ Unfortunately, many children do not have access or only limited access
+ to a speech- language pathologist.
+ 
+\series bold
+Computer-assisted pronunciation training
+\series default
+ has the potential for being a highly effective teaching aid; however, to-date
+ such systems remain incapable of identifying pronunciation errors with
+ sufficient accuracy.
+ We are experimenting with a phonetic-feature-based speech recognizer that
+ allows for a very detailed classification of speech sounds.
+\end_layout
+
+\begin_layout Itemize
+Speech Intelligibility is the degree to which listeners can understand a
+ speech signal's message.
+ Historically, the specific acoustic sources of intelligibility are poorly
+ understood, and automatic approaches to modify the degree of intelligibility
+ were limited.
+ We invented a hybridization approach that allows for precisely measuring
+ the degree of contribution of one or more acoustic features to speech intelligi
+bility.
+ We applied this approach to find the most relevant acoustic features that
+ cause the intelligibility improvement in clearly-spoken typical and dysarthric
+ speech.
+ This allows a principled study of different remedial strategies.
+ We are also creating algorithms that 
+\series bold
+automatically improve the intelligibility of dysarthric or conversational
+ speech signals
+\series default
+, using approaches from speech analysis, machine learning, and speech synthesis.
+ These algorithms may be instrumental for next-generation hearing- and speaking-
+aids.
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Sleep-disordered breathing
+\series default
+ is a highly prevalent condition associated with many adverse health problems.
+ As the current means of diagnosis (polysomnography) is obtrusive and ill-suited
+ for mass screening of the population, we explore a minimal-contact, automatic
+ approach that uses acoustics-based methods in conjunction with pulse oximetry.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+Text-to-Speech synthesis is the process of generating human speech artificially
+ from textual input.
+ Although these systems are becoming more and more commonplace, many challenges
+ remain to produce natural-sounding, meaningful output.
+ We have created algorithms that significantly reduce audible artifacts
+ in the synthesis output, that improve the naturalness of the intonation
+ contour, and that allow remarkable data compression of acoustic inventories.
+\end_layout
+
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+Coarticulation refers to the phenomenon in which a conceptually isolated
+ speech sound becomes more similar to a preceding or following speech sound.
+ Modeling coarticulation in speech has been largely limited to short sequences
+ and/or limited phonetic context.
+ We introduce a methodology for modeling both formant frequencies and bandwidth
+ in continuous speech.
+ Applications of such a model include improved formant tracking, characterizatio
+n of conversational vs.
+ clear speech, and detection of typical vs.
+ disordered speech.
+\end_layout
+
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Itemize
+
+\series bold
+Voice conversion
+\series default
+ modifies a source speaker's utterance to sound as if a target speaker had
+ spoken it.
+ Its uses include entertainment and security applications, and, most importantly
+, adaptation of text-to-speech systems' voices to new speakers, especially
+ benefitting individuals who depend on speech-generating devices for communicati
+on.
+ Despite continuous research in the field, speech quality and mimic accuracy
+ is still insufficient for everyday usage.
+ We are experimenting with algorithms that allow immediate usage without
+ any training phase.
+\end_layout
+
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+Spirometry Flow
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+As an educator in machine learning, I have created the curriculum for, and
+ regularly teach, the course 
+\series bold
+CS627
+\begin_inset space ~
+\end_inset
+
+Data Science Programming
+\series default
+.
+ I also teach 
+\series bold
+EE 682 Digital Signal Processing
+\series default
+ and 
+\series bold
+EE 658
+\begin_inset space ~
+\end_inset
+
+Speech Signal Processing
+\series default
+.
+ My lectures make use of a python-based jupyter-notebook approach.
+\end_layout
+
+\begin_layout Subsection
+Current Collaborators
+\end_layout
+
+\begin_layout Itemize
+Matthew Brodsky and Linda Bryans (OHSU): Speech assessment protocol for
+ Deep Brain Stimulation
+\end_layout
+
+\begin_layout Itemize
+Marian Dale (OHSU): Speech analysis of patients with progressive supranuclear
+ palsy receiving cerebellar transcranial magnetic stimulation
+\end_layout
+
+\begin_layout Itemize
+Jeanne-Marie Guise (OHSU): Epidemiology of Preventable Safety Events
+\end_layout
+
+\begin_layout Itemize
+Jun Wang (University of Texas, Austin): Silent Speech Interface
+\end_layout
+
+\begin_layout Itemize
+Miranda Lim (OHSU): REM Sleep Behavior Disorder
+\end_layout
+
+\begin_layout Itemize
+Kris Tjaden, Fredrik Van Brenk (University at Buffalo): dysarthria
+\end_layout
+
+\begin_layout Itemize
+Deanna Britton (PSU/OHSU): dystussia
+\end_layout
+
+\begin_layout Itemize
+Derek Lam and Holden Richards (OHSU): airway obstruction
+\end_layout
+
+\begin_layout Itemize
+Lina Reiss and Nishad Sathe (OHSU): cochlear implants
+\end_layout
+
+\begin_layout Itemize
+Michelle Molis (VA): speech intelligibility
+\end_layout
+
+\begin_layout Itemize
+Frederick Shic (University of Washington), Tyler Duffield (OHSU), Trevor
+ Hall (OHSU): ASD and Virtual Reality
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+Aaron Ziegler (OHSU): vocal dosimeter
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Grants
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+(Include Title, Source, PI, Amount Period (and % Effort))
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+Planned/Pending
+\end_layout
+
+\begin_layout Enumerate
+National Institute of Health R01, 
+\begin_inset Quotes eld
+\end_inset
+
+Binaural Spectral Integration with Hearing Loss and Hearing Devices
+\begin_inset Quotes erd
+\end_inset
+
+, PI: Reiss (OHSU) scored 36 (23rd percentile) on 2018/03/05, resubmission
+ is planned.
+\end_layout
+
+\begin_layout Enumerate
+National Institute of Health R21, 
+\begin_inset Quotes eld
+\end_inset
+
+Utility of cough-related airflow measures in determining laryngeal impairment
+\begin_inset Quotes erd
+\end_inset
+
+, PI: Britton (OHSU) scored on 2017/06/12, resubmission is planned.
+\end_layout
+
+\begin_layout Enumerate
+National Institute of Health R01, 
+\begin_inset Quotes eld
+\end_inset
+
+Epidemiology of Preventable Safety Events in pre-hospital EMS for Children
+\begin_inset Quotes erd
+\end_inset
+
+, PI: Jeanne-Marie Guise (OHSU).
+\end_layout
+
+\begin_layout Enumerate
+National Institute of Health R01, 
+\begin_inset Quotes eld
+\end_inset
+
+Computer-Assisted Pronunciation Analysis and Training for children with
+ speech sound disorders
+\begin_inset Quotes erd
+\end_inset
+
+, PI: Kain (OHSU), in development.
+\end_layout
+
+\begin_layout Enumerate
+National Institute of Health R01, 
+\begin_inset Quotes eld
+\end_inset
+
+Automatic Detection of REM Sleep Behavior Disorder
+\begin_inset Quotes erd
+\end_inset
+
+, PI: Lim (OHSU), in development.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+National Institute of Health K23, 
+\begin_inset Quotes eld
+\end_inset
+
+Dose-Response of Respiratory and Laryngeal Systems in Older Adults: A Mechanisti
+c Investigation of Vocal Aging
+\begin_inset Quotes erd
+\end_inset
+
+, PI: Ziegler (OHSU), in submission.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+National Institute of Health K23, 
+\begin_inset Quotes eld
+\end_inset
+
+Cerebellar TMS affects speech
+\begin_inset Quotes erd
+\end_inset
+
+, PI: Dale (OHSU), in development.
+\end_layout
+
+\begin_layout Enumerate
+National Institute of Health, 
+\begin_inset Quotes eld
+\end_inset
+
+Unobtrusive Determination of the location of airway obstructions
+\begin_inset Quotes erd
+\end_inset
+
+, PI: Lam (OHSU), in development.
+\end_layout
+
+\begin_layout Subsubsection*
+Current
+\end_layout
+
+\begin_layout Enumerate
+2019/11/15-2024/07/31: National Institute of Health 1R01DC016621-01A1, 
+\begin_inset Quotes eld
+\end_inset
+
+Wearable Silent Speech Technology to Enhance Impaired Oral Communication
+\begin_inset Quotes erd
+\end_inset
+
+, PI: Jun Wang (University of Texas at Austin).
+ A silent speech interface (SSI) maps articulatory movement data to speech
+ output.
+ Although still in experimental stages, silent speech interfaces hold significan
+t potential for facilitating oral communication in persons after laryngectomy
+ or with other severe voice impairments.
+ Despite the recent efforts on silent speech recognition algorithm development
+ using offline data analysis, online test of SSIs have rarely been conducted.
+ In this paper, we present a preliminary, online test of a real-time, interactiv
+e SSI based on electromagnetic motion tracking.
+ The SSI played back synthesized speech sounds in response to the user’s
+ tongue and lip movements.
+ Three English talkers participated in this test, where they mouthed (silently
+ articulated) phrases using the device to complete a phrase-reading task.
+ Among the three participants, 96.67% to 100% of the mouthed phrases were
+ correctly recognized and corresponding synthesized sounds were played after
+ a short delay.
+ Furthermore, one participant demonstrated the feasibility of using the
+ SSI for a short conversation.
+ The experimental results demonstrated the feasibility and potential of
+ silent speech interfaces based on electromagnetic articulograph for future
+ clinical applications.
+ My role: I provide signal processing and machine-learning expertise.
+\end_layout
+
+\begin_layout Enumerate
+2015/09/01–2020/08/31: National Institute of Health 2R01DC004689-11A1, 
+\begin_inset Quotes eld
+\end_inset
+
+Therapeutic Approaches to Dysarthria: Acoustic and Perceptual Correlates
+\begin_inset Quotes erd
+\end_inset
+
+, PIs: Tjaden (State University of New York at Buffalo) and 
+\series bold
+Kain
+\series default
+ (OHSU).
+ 90% of the one million Americans living with idiopathic Parkinson’s disease
+ (PD) and 50% of the 500,000 Americans living with Multiple Sclerosis (MS)
+ will experience dysarthria at some point during the disease.
+ The perceptual sequelae of dysarthria have devastating consequences for
+ quality of life and participation in society by virtue of their effect
+ on social and psychological variables such as employment, leisure activities
+ and relationships.
+ Knowledge of therapy techniques for maximizing perceived speech adequacy,
+ as indexed by intelligibility, therefore is of paramount importance.
+ As a result of our incomplete knowledge of the comparative merits of dysarthria
+ therapy techniques and their variants, however, the choice of a particular
+ technique is not based on a rigorous research base, but is based on either
+ trial and error or the clinician’s educational and experience biases.
+ The proposed project will address these barriers by comparing the acoustic
+ and perceptual consequences of rate reduction, increased vocal intensity
+ and clear speech variants in MS and PD.
+ Our approach is to employ established acoustic measures and perceptual
+ paradigms as well as a state-of-the-art speech re-synthesis technique that
+ will permit conclusions concerning the underlying speech production characteris
+tics, as inferred from the acoustic signal, causing improved intelligibility.
+ Amount: $3.3M.
+\end_layout
+
+\begin_layout Enumerate
+2017/05/01–2020/04/30: National Institute of Health 4R44DC015145-02, 
+\begin_inset Quotes eld
+\end_inset
+
+SBIR Phase 2: Prosody Assessment Toolbox
+\begin_inset Quotes erd
+\end_inset
+
+, PI: Lindaas-Hamilton (BioSpeech).
+ Abnormal receptive or expressive prosody is present in a wide range of
+ disorders, including Autism Spectrum Disorder (ASD), Cognitive Impairment,
+ Down’s syndrome, dysarthria, Parkinson’s disease, depression, schizophrenia,
+ aphasia, Alzheimer’s disease, TBI, Language Impairment, bipolar disorder,
+ ADHD, and PTSD.
+ The characteristics of these prosodic abnormalities and underlying brain
+ dysfunction are still largely unknown, due to the dearth of instruments
+ for assessing prosodic deficits.
+ Building on our broad expertise in computerized prosody assessment, we
+ propose to build a system for researchers that performs automated scoring
+ and acoustic analysis of expressive prosody, allows stimuli to be acoustically
+ modified for detailed perceptual assessment of receptive prosody, and can
+ be extended by researchers to include novel tasks.
+ My role: I provide signal processing and machine-learning expertise, and
+ assist with all scientific aspects of the project.
+ Amount: $706K.
+\end_layout
+
+\begin_layout Subsubsection*
+Completed
+\end_layout
+
+\begin_layout Enumerate-Resume
+2015/12/10–2019/04/30: National Institute of Health 5R01DC013996-02, 
+\begin_inset Quotes eld
+\end_inset
+
+Automatic Voice-Based Assessment of Language Abilities
+\begin_inset Quotes erd
+\end_inset
+
+, PI: van Santen (OHSU).
+ Since untreated language disorder can lead to serious behavioral and educationa
+l problems, large-scale early language assessment is urgently needed not
+ only for early identification of language disorder but also for planning
+ interventions and tracking progress.
+ However, such large-scale efforts would pose a large burden on professional
+ staff and on other scarce resources.
+ As a result, clinicians, educators, and researchers have argued for the
+ use of computer based assessment.
+ Recently, progress has been made with computer based language assessment,
+ but it has been limited to language comprehension.
+ One contributing factor is that a key technology needed for this, Automatic
+ Speech Recognition (ASR), is perceived as inadequate for accurate scoring
+ of language tests since even the best ASR systems have word error rates
+ in excess of 20%.
+ However, this perception is based on a limited perspective of how ASR can
+ be used for assessment, in which a general-purpose ASR system provides
+ an (often inaccurate) transcript of the child's speech, which then would
+ be scored automatically according to conventional rules.
+ We take an alternative perspective, and propose an innovative approach
+ that comprises two core concepts: (1) creating a special-purpose, test-specific
+ ASR systems whose search space is carefully matched to the space of responses
+ a test may elicit, and (2) integrating these systems with machine-learning
+ based scoring algorithms whereby the latter operate not on the final, best
+ transcript generated by the ASR system, but on the rich layers of intermediate
+ representations that the ASR system computes in the process of recognizing
+ the input speech.
+ My role: (1) Developing automatic voice-based scoring methods for each
+ language test, (2) developing pronunciation screening methods to detect
+ atypical speech, and (3) evaluating the accuracy of automatic voice-based
+ scoring, stopping, and pronunciation screening systems, and comparing TD
+ group with groups with neuro-developmental disorders.
+ Amount: $638K.
+\end_layout
+
+\begin_layout Enumerate-Resume
+2014/09/01–2017/08/31: National Institute of Health 1R43MH101978-01A1, 
+\begin_inset Quotes eld
+\end_inset
+
+System for automatic classification of rodent vocalizations
+\begin_inset Quotes erd
+\end_inset
+
+, PI: Lahvis (BioSpeech).
+
+\series bold
+ 
+\series default
+Development of treatments for neuropsychiatric disorders presents a formidable
+ challenge.
+ To advance drug discovery, assessments of laboratory rodents are widely
+ employed by academia and industry to model neuropsychiatric disorders.
+ Substantial recent advances in digital recordings of rodent ultrasonic
+ vocalizations (USVs) have engendered interest in assessment of USVs to
+ measure behavior change.
+
+\series bold
+ 
+\series default
+A practical obstacle to USV assessment is that they are classified manually.
+
+\series bold
+ 
+\series default
+We propose a software system that allows a user to rapidly interrogate recording
+s of rodent USVs for prosodic content.
+ My role: I provide signal processing and machine-learning expertise, and
+ assist with all scientific aspects of the project.
+ Amount: $324K.
+\end_layout
+
+\begin_layout Enumerate-Resume
+2013/12/01–2017/08/31: National Institute of Health 
+\begin_inset CommandInset href
+LatexCommand href
+name "1R43DA037588-01A1"
+target "http://projectreporter.nih.gov/project_info_details.cfm?aid=8648375&icde=17801918"
+literal "false"
+
+\end_inset
+
+, 
+\begin_inset Quotes eld
+\end_inset
+
+Screening for Sleep Disordered Breathing with Minimally Obtrusive Sensors
+\begin_inset Quotes erd
+\end_inset
+
+, PI: Snider (BioSpeech).
+ Sleep disordered breathing (SDB) is believed to be a widespread, under-diagnose
+d condition associated with detrimental health problems, at a high cost
+ to society.
+ The current gold standard for diagnosis of SDB is a time-consuming, expensive,
+ and obtrusive (requiring many attached wires) sleep study, or polysomnography
+ (PSG).
+ The immediate objective of our research is to develop and evaluate a hardware
+ design and a set of algorithms for automatically detecting obstructive,
+ central, or mixed apneas and hypopneas from acoustic, peripheral oxygen
+ saturation (SpO2), and pulse rate data, using an ambient microphone and
+ a wireless pulse oximeter.
+ The long-term goal is to create a low-cost, easy-to-operate, minimally
+ obtrusive, at-home device that can be used for early and frequent screen
+ for SDB in patients' homes, significantly increasing patient comfort while
+ capturing more representative sleep data compared to a clinical sleep study.
+ In collaboration with Chad Hagen, M.
+\begin_inset space \thinspace{}
+\end_inset
+
+D.
+\begin_inset space ~
+\end_inset
+
+at the Sleep Disorders Program at OHSU, we aim to (1) develop a screening
+ system by selecting minimally obtrusive sensor hardware and extending state-of-
+the art algorithms for automatically detecting SDB from acoustic, SpO2,
+ and pulse rate data; (2) collect patient data in the sleep lab and at home
+ from representative populations using the proposed system; (3) determine
+ the screening accuracy by comparing the performance of the proposed system
+ on the collected data against standard PSG-derived clinical results; and
+ (4) measure the usability of an at-home screening device by the target
+ population, by asking subjects who participated in the at-home data collection
+ to complete a survey on various aspects of the setup and operation of the
+ proposed system.
+ My role: I provide signal-processing and machine-learning expertise, and
+ assist with all scientific aspects of the project.
+ Amount: $205K.
+\end_layout
+
+\begin_layout Enumerate-Resume
+2016/01/01–2017/04/01: National Institute of Health 1R44DC015145-01, 
+\begin_inset Quotes eld
+\end_inset
+
+SBIR Phase 1: Prosody Assessment Toolbox
+\begin_inset Quotes erd
+\end_inset
+
+, PI: Connors (BioSpeech).
+ Current instruments for assessing prosodic deficits are decades behind
+ those that are used for clinical assessment of other aspects of language.
+ We propose to build a system that addresses these shortcomings.
+ The system performs automated scoring and acoustic analysis of expressive
+ prosody, allows stimuli to be acoustically modified for detailed perceptual
+ assessment of receptive prosody, and can be extended by researchers to
+ include novel tasks.
+ It is evaluated with individuals who have ASD (adults and children), DS
+ (adults and children), or MCI, and a typically developing control group.
+ My role: I provide signal processing and machine-learning expertise, and
+ assist with all scientific aspects of the project.
+ Amount: $1.6M.
+\end_layout
+
+\begin_layout Enumerate-Resume
+2010/09/27–2016/09/30: National Science Foundation 
+\begin_inset CommandInset href
+LatexCommand href
+name "BCS-1027834"
+target "http://www.nsf.gov/awardsearch/showAward?AWD_ID=1027834"
+literal "false"
+
+\end_inset
+
+, "Computational Models for the Automatic Recognition of Non-Human Primate
+ Social Behaviors", PI: 
+\series bold
+Kain
+\series default
+ (OHSU).
+ To develop methods that will permit researchers to remotely and automatically
+ monitor behavior of primates and other highly social animals.
+ Amount: $578K.
+\end_layout
+
+\begin_layout Enumerate-Resume
+2012/04/01–2015/03/31: National Institute of Health 
+\begin_inset CommandInset href
+LatexCommand href
+name "5R44DC009515-03"
+target "http://projectreporter.nih.gov/project_info_details.cfm?aid=8249393&icde=17812441"
+literal "false"
+
+\end_inset
+
+, "SBIR Phase 2: Computer-based auditory skill building program for aural
+ (re)habilitation", PI: Connors (BioSpeech).
+ To extend an adaptive computer-guided software program that focuses on
+ learning phoneme discrimination and identification.
+ See Phase I description.
+ Amount: $400K.
+\end_layout
+
+\begin_layout Enumerate-Resume
+2011/12/01–2015/08/31: National Institute of Health 
+\begin_inset CommandInset href
+LatexCommand href
+name "R21DC012139"
+target "http://projectreporter.nih.gov/project_info_description.cfm?aid=8336853&icde=17803266"
+literal "false"
+
+\end_inset
+
+, "Computer-Based Pronunciation Analysis for Children with Speech Sound
+ Disorders", PI: 
+\series bold
+Kain
+\series default
+ (OHSU).
+ In this work we are developing speech-production assessment and pronunciation
+ training tools for children with speech sound disorders.
+ To-date, computer-assisted pronunciation training has not yet been successfully
+ extended to help children with speech sound disorders, primarily because
+ of a lack of accuracy in phoneme-level analysis of the speech signal.
+ My role: I am creating a set of algorithms that will reliably identify
+ and score the intelligibility of a phoneme within an isolated target word,
+ providing immediate, relevant, and understandable feedback about pronunciation
+ errors.
+ The use of human perceptual data during training is an important and new
+ component of the proposed approach.
+ As PI, I am also responsible for overall project supervision and management.
+ Amount: $416K.
+\end_layout
+
+\begin_layout Enumerate-Resume
+2010/06/09–2015/05/31: National Science Foundation 
+\begin_inset CommandInset href
+LatexCommand href
+name "IIS-0964102"
+target "http://nsf.gov/awardsearch/showAward?AWD_ID=0964102"
+literal "false"
+
+\end_inset
+
+, "Semi-Supervised Discriminative Training of Language Models", PI: 
+\series bold
+Kain
+\series default
+ (OHSU).
+ To conduct fundamental research in statistical language modeling to improve
+ human language technologies, including automatic speech recognition (ASR)
+ and machine translation (MT).
+ Amount: $519K.
+\end_layout
+
+\begin_layout Enumerate-Resume
+2010/05/15–2015/04/30: National Science Foundation 
+\begin_inset CommandInset href
+LatexCommand href
+name "IIS-0964468"
+target "http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=0964468"
+literal "false"
+
+\end_inset
+
+, "HCC: Medium: Synthesis and Perception of Speaker Identity", PI: 
+\series bold
+Kain
+\series default
+ (OHSU).
+ Millions of Americans with impaired or absent speech communication ability
+ rely on Augmentative and Alternative Communication devices with voice output
+ (Speech Generating Devices, or SGDs) to communicate.
+ A psychologically important and desirable feature is the ability to speak
+ with one's own voice, i.
+\begin_inset space \thinspace{}
+\end_inset
+
+e.
+\begin_inset space ~
+\end_inset
+
+the ability for the SGD to produce speech that mimics the individual's pre-morbi
+d speech or speech that the individual may be able to intermittently produce.
+ However, current text-to-speech (TTS) systems can only create speech with
+ one or very few supplied speaker characteristics, and cannot be trained
+ to take on the user's voice.
+ My role: Together with Ph.
+\begin_inset space \thinspace{}
+\end_inset
+
+D.
+\begin_inset space ~
+\end_inset
+
+students and co-investigators, I am creating a TTS synthesis system that
+ generates speech that sounds like that of a specific individual (Speaker
+ Identity Synthesis, or SIS).
+ In the process we are building and evaluating analysis and synthesis models
+ of the relevant acoustic features, including pitch, duration, and spectrum.
+ Since the system includes a trainability component, this project also involves
+ use of advanced mapping technology in the form of a joint-density Gaussian
+ mixture model.
+ I first proposed this approach in a 1998 publication which has since been
+ cited over 370 times.
+ As PI, I am also responsible for overall project supervision, management,
+ and mentorship of graduate student Mohammadi.
+ Amount: $905K.
+\end_layout
+
+\begin_layout Enumerate-Resume
+2011/04/01–2012/03/31: National Institute of Health 
+\begin_inset CommandInset href
+LatexCommand href
+name "5R42DC008712"
+target "http://projectreporter.nih.gov/project_info_details.cfm?aid=8061617&icde=10206352"
+literal "false"
+
+\end_inset
+
+, "User Adaptation of AAC Device Voices - Phase 2", PI: Klabbers (BioSpeech).
+ Developing and evaluating voice transformation and prosody modification
+ technologies to customize synthetic voices in AAC devices, mimicking the
+ individual user's pre-morbid speech.
+ See Phase 1 description.
+ Amount: $410K.
+\end_layout
+
+\begin_layout Enumerate-Resume
+2011/03/01–2013/03/31: National Institute of Health 
+\begin_inset CommandInset href
+LatexCommand href
+name "1R43DC011706-01"
+target "http://www.sbir.gov/sbirsearch/detail/368241"
+literal "false"
+
+\end_inset
+
+, "SBIR Phase 1: Computerized System for Phonemic Awareness Intervention",
+ PI: Connors (BioSpeech).
+ Phonemic awareness, defined as 
+\begin_inset Quotes eld
+\end_inset
+
+the ability to notice, think about, and work with the individual sounds
+ in spoken words
+\begin_inset Quotes erd
+\end_inset
+
+, is considered a necessary skill for literacy.
+ The financial and quality-of-life costs of these impairments are significant,
+ not only because of the link with reading difficulties and hence with future
+ employability, but also because there may exist further links between reading
+ difficulties and a range of psychiatric disorders.
+ This argues for phonemic awareness intervention beyond what can be taught
+ in a regular pre-school or elementary school curriculum.
+ Such intervention is typically provided in the form of one-on-one sessions
+ with a specialized professional (e.
+\begin_inset space \thinspace{}
+\end_inset
+
+g.
+\begin_inset space ~
+\end_inset
+
+a Speech Language Pathologist).
+ However, responding to cost concerns and poor access to these services,
+ and also recognizing the importance of frequent intervention sessions,
+ usage of computerized intervention systems is becoming more common.
+ These computerized intervention systems have been steadily improving.
+ However, one significant drawback continues to be their restricted response
+ modalities, typically consisting of the child using a touch screen or a
+ pointing device to select from a set of pictures.
+ By confining the phonemic awareness skills that the system addresses to
+ those that can be tapped into via picture-point-and-click , these systems
+ have a restricted scope of what they can teach.
+ A second drawback of many current systems is that their user interface
+ (e.
+\begin_inset space \thinspace{}
+\end_inset
+
+g.
+\begin_inset space ~
+\end_inset
+
+visual layout, tempo) is typically not tunable to the individual characteristics
+ of the child.
+ Given the prevalence of phonemic awareness issues in a broad range of neurodeve
+lopmental disorders, including Autism Spectrum Disorder and Developmental
+ Language Disorder, individual tuning may be critical to address individual
+ neurocognitive weaknesses, such as problems in memory, attention, visual
+ scanning, perceptual motor coordination, and processing speed.
+ We have addressed these drawbacks by (1) taking advantage of drag-and-drop
+ and other touch response modalities that current low-cost touch screen
+ computers are capable of processing and that children are increasingly
+ more familiar with, and (2) by incorporating multiple dimensions of individual
+ tune-ability into the system.
+ My role: Since 2005, I have been the primary developer of the BioSpeech
+ text-to-speech system, a medium-size software project comprised of approximatel
+y 10,000 lines of code.
+ For this project, I assisted with integration with the graphical user interface
+, as well as provided solutions to the problem of synthesizing illegal (i.
+\begin_inset space \thinspace{}
+\end_inset
+
+e.
+\begin_inset space ~
+\end_inset
+
+not found in normal use of English) phoneme sequences.
+ Amount: $216K.
+\end_layout
+
+\begin_layout Enumerate-Resume
+2009/09/01–2013/08/31: National Science Foundation 
+\begin_inset CommandInset href
+LatexCommand href
+name "IIS-0915754"
+target "http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=0915754"
+literal "false"
+
+\end_inset
+
+, "RI: Small: Modeling Coarticulation for Automatic Speech Recognition",
+ PI: 
+\series bold
+Kain
+\series default
+ (OHSU).
+ We have developed a data-driven, triphone formant trajectory model and
+ methodology for estimating its parameters.
+ In this model, formant targets are speaker dependent, but independent of
+ speaking style.
+ We have validated this model using perceptual listening tests.
+ An analysis of conversationally and clearly spoken speech confirmed that
+ (1) formant trajectories in clear vowels reach their targets more frequently,
+ (2) formants show considerable asynchronicity, and (3) phoneme formant
+ targets approximate their expected values.
+ We also found preliminary evidence that targets derived from clear speech
+ alone perform better at modeling both styles than targets from conversational
+ speech.
+ Having created and validated this model, we are now in the process of applying
+ the approach to disordered speech, paving the way for an objective diagnosis
+ of the degree of coarticulation of dysarthria.
+ Another application is an objective evaluation of the effectiveness of
+ specific speech interventions for certain kinds of dysarthria, e.
+\begin_inset space \thinspace{}
+\end_inset
+
+g.
+\begin_inset space ~
+\end_inset
+
+the Lee Silverman Voice Treatment.
+ Finally, this research may also provide an avenue for automatically transformin
+g conversationally-spoken speech to sound as if it had been spoken clearly,
+ thus increasing its intelligibility.
+ A real-time, transparent version of this algorithm would be a desirable
+ feature in many general telecommunications devices.
+ My role: As PI, I am responsible for all aspects of the project, including
+ overall project supervision and management, as well as mentoring of graduate
+ student Bush.
+ Amount: $466.
+\end_layout
+
+\begin_layout Enumerate-Resume
+2009/07/15–2012/06/30: National Science Foundation 
+\begin_inset CommandInset href
+LatexCommand href
+name "IIS-0905095"
+target "http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=0905095"
+literal "false"
+
+\end_inset
+
+, "HCC: Automatic detection of atypical patterns in cross-modal affect",
+ PI: van Santen (OHSU).The expression of affect in face-to-face situations
+ requires the ability to generate a complex, coordinated, cross-modal affective
+ signal, having gesture, facial expression, vocal prosody, and language
+ content modalities.
+ This ability is compromised in neurological disorders such as Parkinson's
+ disease and autism spectrum disorder (ASD).
+ The long term goal is to build computer-based interactive systems for remediati
+on of poor affect communication and diagnosis of the underlying neurological
+ disorders based on analysis of affective signals.
+ A requirement for such systems is technology to detect atypical patterns
+ in affective signals.
+ We developed a play situation for eliciting affect and collected audio-visual
+ data from approximately 60 children between the ages of 4–7 years old,
+ half of them with ASD and the other half constituting a control group of
+ typically developing children.
+ We labeled the data on relevant affective dimensions, developed algorithms
+ for the analysis of affective incongruity, and then tested the algorithms
+ against the labeled data in order to determine their ability to differentiate
+ between ASD and typical development.
+ My role: I created special 
+\emph on
+delexicalized
+\emph default
+ speech stimuli, using a novel delexicalization algorithm that rendered
+ the lexical content of an utterance unintelligible while preserving important
+ acoustic prosodic cues.
+ Preference tests showed that the proposed method preserved drastically
+ more speaker identity, and sounded more natural than conventional methods.
+ These delexicalized speech stimuli were used in perceptual tests to exclude
+ the effect of lexical content on affect.
+\end_layout
+
+\begin_layout Enumerate-Resume
+2009/07/17–2012/06/30: National Institute of Health 
+\begin_inset CommandInset href
+LatexCommand href
+name "5R21DC010035"
+target "http://projectreporter.nih.gov/project_info_details.cfm?aid=7895680&icde=10206236"
+literal "false"
+
+\end_inset
+
+, "Quantitative Modeling of Segmental Timing in Dysarthria", PI: van Santen
+ (OHSU).
+ The project seeks to apply a quantitative modeling framework to segment
+ durations in sentences produced by speakers with a variety of neurological
+ diagnoses and dysarthrias.
+ My role: I was responsible for software development for custom recording
+ of speech data and for the extension of my previously published hybridization
+ algorithm for the purposes of creating special perceptual speech stimuli.
+\end_layout
+
+\begin_layout Enumerate-Resume
+2008–2009: Nancy Lurie Marks Family Foundation 
+\begin_inset CommandInset href
+LatexCommand href
+name "award"
+target "http://nlmfoundation.org/grants/past_grants/communication_past.html"
+literal "false"
+
+\end_inset
+
+, "In Your Own Voice: Personal AAC Voices for Minimally Verbal Children
+ with Autism Spectrum Disorder", PI: van Santen (OHSU).
+ My role: I performed research and development to adapt a text-to-speech
+ voice to sound like a particular child's voice; a task made particularly
+ challenging by the difficulty of extracting reliable acoustic features
+ from children's speech.
+\end_layout
+
+\begin_layout Enumerate-Resume
+2007/09/01–2011/08/31: National Science Foundation 
+\begin_inset CommandInset href
+LatexCommand href
+name "IIS-0713617"
+target "http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=0713617"
+literal "false"
+
+\end_inset
+
+, "HCC: High-quality Compression, Enhancement, and Personalization of Text-to-Sp
+eech Voices", PI: 
+\series bold
+Kain
+\series default
+ (OHSU).
+ My role: Together with Ph.
+\begin_inset space \thinspace{}
+\end_inset
+
+D.
+\begin_inset space ~
+\end_inset
+
+students and co-investigators, I developed text-to-speech (TTS) technologies
+ that focus on elimination of concatenation errors and improved accuracy
+ in the areas of coarticulation, degree of articulation, prosodic effects,
+ and speaker characteristics, using an asynchronous interpolation model
+ that Jan van Santen and I proposed in 2002.
+ These algorithmic advances added to the general acceptability of Speech
+ Generating Devices (SGDs), used by individuals with impaired or absent
+ speech communication.
+\end_layout
+
+\begin_layout Enumerate-Resume
+2007/01/01–2008/06/30: National Institute of Health 
+\begin_inset CommandInset href
+LatexCommand href
+name "1R41DC008712"
+target "http://projectreporter.nih.gov/project_info_details.cfm?aid=7219057&icde=10206236"
+literal "false"
+
+\end_inset
+
+, "User Adaptation of AAC Device Voices - Phase 1", PI: van Santen (BioSpeech).
+ Speech communication ability is impaired or absent in millions of Americans
+ due to neurological disorders and diseases and to trauma, including autism,
+ Parkinson's disease, and stroke.
+ Augmentative and Alternative Communication (AAC) devices that are operated
+ via switches, keyboards, and a broad range of other input devices, and
+ that have synthetic speech as output, are often the only manner in which
+ these individuals can communicate.
+ A psychologically important feature that no currently available systems
+ have is the ability to speak with the user's voice, i.e., the ability to
+ produce speech that mimics the individual's pre-morbid speech or speech
+ that the individual may be able to intermittently produce.
+ This project used voice transformation (VT) technology to accomplish this
+ goal.
+ My role: I developed and evaluated voice transformation and prosody modificatio
+n technologies to customize synthetic voices using concatenative speech
+ synthesis technologies, with the aim of mimicking the individual user's
+ pre-morbid speech.
+\end_layout
+
+\begin_layout Enumerate-Resume
+2006/09/01–2008/03/31: National Institute of Health 
+\begin_inset CommandInset href
+LatexCommand href
+name "1R41DC007240"
+target "http://projectreporter.nih.gov/project_info_details.cfm?aid=7162050&icde=10206236"
+literal "false"
+
+\end_inset
+
+, "Voice Transformation for Dysarthria - Phase 1", PI: van Santen (BioSpeech).
+ Dysarthria is a motor speech disorder due to weakness or poor co- ordination
+ of the speech muscles.
+ Affected muscles include the lungs, larynx, oro- and nasopharynx, soft
+ palate, and articulators (lips, tongue, teeth, and jaw).
+ The degree to which these muscle groups are compromised determines the
+ particular pattern of speech impairment.
+ For example, poor lung function affects the overall volume or loudness,
+ while problems with specific articulators may cause mispronunciations of
+ certain phonemes.
+ There is a great variety of diseases that can cause dysarthria, including
+ Parkinson’s, Multiple Sclerosis, and strokes.
+ My role: I continued development of software that transforms speech compromised
+ by dysarthria into easier-to-understand and more natural-sounding speech.
+ In addition, I designed a hardware configuration that allowed the software
+ to reside on a wearable computer, with a headset microphone as input and
+ powered speaker as output, giving the user full mobility while wearing
+ the speaking-aid.
+\end_layout
+
+\begin_layout Enumerate-Resume
+2005/01/10–2010/12/31: National Institute of Health 
+\begin_inset CommandInset href
+LatexCommand href
+name "5R01DC007129"
+target "http://projectreporter.nih.gov/project_info_details.cfm?aid=7546551&icde=10206330"
+literal "false"
+
+\end_inset
+
+, "Expressive cross-modal affect integration in Autism", PI: van Santen
+ (OHSU).
+ Autistic Spectrum Disorders (ASD) form a group of neuropsychiatric conditions
+ whose core behavioral features include impairments in reciprocal social
+ interaction, in communication, and repetitive, stereotyped, or restricted
+ interests and behaviors.
+ The importance of prosodic deficits in the adaptive communicative competence
+ of speakers with ASD, as well as for a fuller understanding of the social
+ disabilities central to these disorders is generally recognized; yet current
+ studies are few in number and have significant methodological limitations.
+ The objective of the proposed project is to detail prosodic deficits in
+ young speakers with ASD through a series of experiments that address these
+ disabilities and related areas of function.
+ My role: I developed a delexicalization algorithm that rendered the lexical
+ content of an utterance unintelligible, while preserving important acoustic
+ prosodic cues.
+\end_layout
+
+\begin_layout Enumerate-Resume
+2005/01/01–2006/06/30: National Science Foundation 
+\begin_inset CommandInset href
+LatexCommand href
+name "IIP-0441125"
+target "http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=0441125"
+literal "false"
+
+\end_inset
+
+, "STTR Phase 1: Small Footprint Speech Synthesis", PI: 
+\series bold
+Kain
+\series default
+ (BioSpeech).
+ Text-to-speech (TTS) systems have recognized societal benefits for universal
+ access, education, and information access by voice.
+ For example, TTS-based augmentative devices are available for individuals
+ who have lost their voice; and reading machines for the blind have been
+ available for several decades.
+ My role: I developed and implemented a novel algorithm that led to dramatic
+ decreases in disk and memory requirements at a given speech quality level
+ and minimization of the amount of voice recordings needed to create a new
+ synthetic voice.
+ The latter point enabled building personalized TTS systems for individuals
+ with speech disorders who can only intermittently produce normal speech
+ sounds or for individuals who are about to undergo surgery that will irreversib
+ly alter their speech.
+\end_layout
+
+\begin_layout Enumerate-Resume
+2001/10/01–2005/09/30: National Science Foundation 
+\begin_inset CommandInset href
+LatexCommand href
+name "IIS-0117911"
+target "http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=0117911"
+literal "false"
+
+\end_inset
+
+, "Making Dysarthric Speech Intelligible", PI: van Santen (OHSU).
+ My role: I developed software that transforms speech compromised by dysarthria
+ into easier-to-understand and more natural-sounding speech.
+ The strategy for improving intelligibility is the manipulation of a small
+ set of highly relevant speech features; specifically the energy, pitch,
+ and formant frequencies of an input speech waveform.
+ Pitch and energy are appropriately smoothed, and formant frequencies are
+ mapped with a joint-density Gaussian mixture model, a technique I first
+ introduced in 1998 that since has become the most often used mapping technique
+ in the field.
+ Results from perceptual tests indicated that the transformation improved
+ intelligibility, and that the accompanying removal of the vocal fry improved
+ perceived naturalness.
+\end_layout
+
+\begin_layout Subsection
+Publications/Creative Work
+\end_layout
+
+\begin_layout Standard
+In the following lists, students or interns under my mentorship are underlined.
+\end_layout
+
+\begin_layout Subsubsection*
+Peer-reviewed Journal Articles and 4–5 page Conference Papers
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+TODO: Put this info into .bib file
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Paragraph
+In preparation / submitted
+\end_layout
+
+\begin_layout Itemize
+D.
+\begin_inset space ~
+\end_inset
+
+Britton, A.
+\begin_inset space ~
+\end_inset
+
+
+\series bold
+Kain
+\series default
+, Y-W.
+\begin_inset space ~
+\end_inset
+
+Chen, J.
+\begin_inset space ~
+\end_inset
+
+Wiedrick, J.
+\begin_inset space \thinspace{}
+\end_inset
+
+O.
+\begin_inset space ~
+\end_inset
+
+Benditt, A.
+\begin_inset space \thinspace{}
+\end_inset
+
+L.
+\begin_inset space ~
+\end_inset
+
+Merati, D.
+\begin_inset space ~
+\end_inset
+
+Graville, 
+\begin_inset Quotes eld
+\end_inset
+
+Extreme sawtooth sign in motor neuron disease (MND) suggests laryngeal resistanc
+e to forced airflow
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+
+\bar under
+N.
+\begin_inset space ~
+\end_inset
+
+Sathe
+\bar default
+, A.
+\begin_inset space ~
+\end_inset
+
+
+\series bold
+Kain
+\series default
+, and L.
+\begin_inset space ~
+\end_inset
+
+Reiss, 
+\begin_inset Quotes eld
+\end_inset
+
+Fusion and Identification of Dichotic Consonants in Normal-Hearing and Hearing-I
+mpaired Listeners
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+Journal of the Association for Research in Otolaryngology.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+B.
+\begin_inset space ~
+\end_inset
+
+
+\bar under
+Bush
+\bar default
+, A.
+\series bold
+
+\begin_inset space ~
+\end_inset
+
+Kain
+\series default
+, 
+\begin_inset Quotes eld
+\end_inset
+
+A Continuous Speech Coarticulation Model and Its Application to Conversational
+ and Clear Speech
+\begin_inset Quotes erd
+\end_inset
+
+, submitted to PLOS
+\end_layout
+
+\begin_layout Itemize
+K.
+\begin_inset space ~
+\end_inset
+
+Tjaden, A.
+\begin_inset space ~
+\end_inset
+
+
+\series bold
+Kain
+\series default
+, G.
+\begin_inset space ~
+\end_inset
+
+Wilding, 
+\begin_inset Quotes eld
+\end_inset
+
+Clear Speech Variants: An Investigation of Intelligibility in Parkinson’s
+ Disease
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+A.
+\begin_inset space ~
+\end_inset
+
+
+\series bold
+Kain
+\series default
+, T.
+\begin_inset space ~
+\end_inset
+
+
+\bar under
+Dinh
+\bar default
+, Y.
+\begin_inset space ~
+\end_inset
+
+
+\bar under
+Chen
+\bar default
+, J.
+\begin_inset space ~
+\end_inset
+
+
+\bar under
+Melanson
+\bar default
+, K.
+\begin_inset space ~
+\end_inset
+
+Tjaden, 
+\begin_inset Quotes eld
+\end_inset
+
+Intra- and Inter-Speaker Sub-Segmental Duration Conversion
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+B.
+\begin_inset space ~
+\end_inset
+
+
+\bar under
+Snider
+\bar default
+, A.
+\begin_inset space ~
+\end_inset
+
+
+\series bold
+Kain
+\series default
+, 
+\begin_inset Quotes eld
+\end_inset
+
+Automatic Sleep Apnea Detection
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+Molis, 
+\begin_inset Quotes eld
+\end_inset
+
+Time Compressed Speech
+\begin_inset Quotes erd
+\end_inset
+
+?
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Paragraph
+Published
+\end_layout
+
+\begin_layout Paragraph
+2019
+\end_layout
+
+\begin_layout Enumerate
+F.
+\begin_inset space ~
+\end_inset
+
+Van Brenk, K.
+\begin_inset space ~
+\end_inset
+
+Tjaden, A.
+\begin_inset space ~
+\end_inset
+
+
+\series bold
+Kain
+\series default
+, 
+\begin_inset Quotes eld
+\end_inset
+
+Identifying Acoustic Correlates of Speaker-Dependent Variation in Slowed
+ Speech Intelligibility: A Hybridization Approach
+\begin_inset Quotes erd
+\end_inset
+
+, International Congress of Phonetic Sciences (ICPhS), 2019.
+\end_layout
+
+\begin_layout Enumerate
+
+\bar under
+D.
+\begin_inset space ~
+\end_inset
+
+Tuan
+\bar default
+, A.
+\begin_inset space ~
+\end_inset
+
+
+\series bold
+Kain
+\series default
+, K.
+\begin_inset space ~
+\end_inset
+
+Tjaden, 
+\begin_inset Quotes eld
+\end_inset
+
+Using a Manifold Vocoder for Spectral Voice and Style Conversion
+\begin_inset Quotes erd
+\end_inset
+
+, Interspeech, 2019.
+\end_layout
+
+\begin_layout Paragraph
+2018
+\end_layout
+
+\begin_layout Enumerate-Resume
+S.
+\begin_inset space ~
+\end_inset
+
+
+\bar under
+Dudy
+\bar default
+, S.
+\begin_inset space ~
+\end_inset
+
+Bedrick, M.
+\begin_inset space ~
+\end_inset
+
+Asgari, A.
+\series bold
+
+\begin_inset space ~
+\end_inset
+
+Kain
+\series default
+, 
+\begin_inset Quotes eld
+\end_inset
+
+
+\begin_inset CommandInset href
+LatexCommand href
+name "Automatic Analysis of Pronunciations for Children with Speech Sound Disorders"
+target "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5884147/"
+literal "false"
+
+\end_inset
+
+
+\begin_inset Quotes erd
+\end_inset
+
+, Computer Speech & Language Journal, 2018.
+\end_layout
+
+\begin_layout Paragraph
+2017
+\end_layout
+
+\begin_layout Enumerate-Resume
+A.
+\begin_inset space ~
+\end_inset
+
+
+\series bold
+Kain
+\series default
+, M.
+\begin_inset space ~
+\end_inset
+
+
+\bar under
+Del Giudice
+\bar default
+, K.
+\begin_inset space ~
+\end_inset
+
+Tjaden, 
+\begin_inset Quotes eld
+\end_inset
+
+
+\begin_inset CommandInset href
+LatexCommand href
+name "A Comparison of Sentence-level Speech Intelligibility Metrics"
+target "http://www.isca-speech.org/archive/Interspeech_2017/pdfs/0567.PDF"
+literal "false"
+
+\end_inset
+
+
+\begin_inset Quotes erd
+\end_inset
+
+, Interspeech, 2017.
+\end_layout
+
+\begin_layout Enumerate-Resume
+S.
+\begin_inset space ~
+\end_inset
+
+
+\bar under
+Mohammadi
+\bar default
+, A.
+\begin_inset space ~
+\end_inset
+
+
+\series bold
+Kain
+\series default
+, 
+\begin_inset Quotes eld
+\end_inset
+
+
+\begin_inset CommandInset href
+LatexCommand href
+name "Siamese Autoencoders for Speech Style Extraction and Switching Applied to Voice Identification and Conversion"
+target "http://www.isca-speech.org/archive/Interspeech_2017/pdfs/1434.PDF"
+literal "false"
+
+\end_inset
+
+
+\begin_inset Quotes erd
+\end_inset
+
+, Interspeech, 2017.
+\end_layout
+
+\begin_layout Enumerate-Resume
+S.
+\begin_inset space ~
+\end_inset
+
+
+\bar under
+Mohammadi
+\bar default
+, A.
+\begin_inset space ~
+\end_inset
+
+
+\series bold
+Kain
+\series default
+, 
+\begin_inset Quotes eld
+\end_inset
+
+
+\begin_inset CommandInset href
+LatexCommand href
+name "An Overview of Voice Conversion Systems"
+target "http://cslu.ohsu.edu/~kain/pub/Mohammadi2017-SPECOM-Overview.pdf"
+literal "false"
+
+\end_inset
+
+
+\begin_inset Quotes erd
+\end_inset
+
+, Speech Communication, 2017.
+\end_layout
+
+\begin_layout Paragraph
+2016
+\end_layout
+
+\begin_layout Enumerate-Resume
+S.
+\begin_inset space ~
+\end_inset
+
+
+\bar under
+Mohammadi
+\bar default
+, A.
+\begin_inset space ~
+\end_inset
+
+
+\series bold
+Kain
+\series default
+, 
+\begin_inset Quotes eld
+\end_inset
+
+
+\begin_inset CommandInset href
+LatexCommand href
+name "A Voice Conversion Mapping Function based on a Stacked Joint-Autoencoder"
+target "http://cslu.ohsu.edu/~kain/pub/Mohammadi2016-Interspeech-SJAE%20Map.pdf"
+literal "false"
+
+\end_inset
+
+
+\begin_inset Quotes erd
+\end_inset
+
+, Interspeech, 2016.
+\end_layout
+
+\begin_layout Enumerate-Resume
+B.
+\begin_inset space ~
+\end_inset
+
+
+\bar under
+Snider
+\bar default
+ and A.
+\begin_inset space ~
+\end_inset
+
+
+\series bold
+Kain
+\series default
+, 
+\begin_inset Quotes eld
+\end_inset
+
+
+\begin_inset CommandInset href
+LatexCommand href
+name "Classification of Respiratory Effort and Disordered Breathing during Sleep from Audio and Pulse Oximetry Signals"
+target "http://cslu.ohsu.edu/~kain/pub/Snider2016-ICASSP-ClassificationApnea.pdf"
+literal "false"
+
+\end_inset
+
+
+\begin_inset Quotes erd
+\end_inset
+
+, ICASSP, 2016.
+\end_layout
+
+\begin_layout Paragraph
+2015
+\end_layout
+
+\begin_layout Enumerate-Resume
+M.
+\begin_inset space ~
+\end_inset
+
+Langarani, J.
+\begin_inset space ~
+\end_inset
+
+van Santen, S.
+\begin_inset space ~
+\end_inset
+
+
+\bar under
+Mohammadi
+\bar default
+, A.
+\begin_inset space ~
+\end_inset
+
+
+\series bold
+Kain
+\series default
+, 
+\begin_inset Quotes eld
+\end_inset
+
+
+\begin_inset CommandInset href
+LatexCommand href
+name "Data-driven Foot-based Intonation Generator for Text-to-Speech Synthesis"
+target "http://cslu.ohsu.edu/~kain/pub/Langarani2015-Interspeech-Intonation.pdf"
+literal "false"
+
+\end_inset
+
+
+\begin_inset Quotes erd
+\end_inset
+
+, Interspeech, 2015.
+\end_layout
+
+\begin_layout Enumerate-Resume
+S.
+\begin_inset space ~
+\end_inset
+
+
+\bar under
+Mohammadi
+\bar default
+, A.
+\series bold
+
+\begin_inset space ~
+\end_inset
+
+Kain
+\series default
+, 
+\begin_inset Quotes eld
+\end_inset
+
+
+\begin_inset CommandInset href
+LatexCommand href
+name "Semi-supervised Training of a Voice Conversion Mapping Function using a Joint-Autoencoder"
+target "http://cslu.ohsu.edu/~kain/pub/Mohammadi2015-Interspeech-semisupervised.pdf"
+literal "false"
+
+\end_inset
+
+
+\begin_inset Quotes erd
+\end_inset
+
+, Interspeech, 2015.
+\end_layout
+
+\begin_layout Enumerate-Resume
+S.
+\begin_inset space ~
+\end_inset
+
+
+\bar under
+Dudy
+\bar default
+, M.
+\begin_inset space ~
+\end_inset
+
+Asgari, and A.
+\begin_inset space ~
+\end_inset
+
+
+\series bold
+Kain
+\series default
+, 
+\begin_inset Quotes eld
+\end_inset
+
+
+\begin_inset CommandInset href
+LatexCommand href
+name "Pronunciation Analysis for Children with Speech Sound Disorders"
+target "http://cslu.ohsu.edu/~kain/pub/Dudy2015-EMBC-Pronunciation"
+literal "false"
+
+\end_inset
+
+
+\begin_inset Quotes erd
+\end_inset
+
+, IEEE Engineering in Medicine and Biology society (EMBC), Milan, 2015.
+ (PMC4710861).
+\end_layout
+
+\begin_layout Paragraph*
+2014
+\end_layout
+
+\begin_layout Enumerate-Resume
+A.
+\bar under
+
+\begin_inset space ~
+\end_inset
+
+Amano-Kusumoto
+\bar default
+, J.-P.
+\begin_inset space ~
+\end_inset
+
+Hosom, A.
+\begin_inset space ~
+\end_inset
+
+
+\series bold
+Kain
+\series default
+, J.
+\begin_inset space ~
+\end_inset
+
+Aronoff, 
+\begin_inset Quotes eld
+\end_inset
+
+
+\begin_inset CommandInset href
+LatexCommand href
+name "Determining the relevance of different aspects of formant contours to intelligibility"
+target "http://authors.elsevier.com/sd/article/S0167639313001684"
+literal "false"
+
+\end_inset
+
+
+\begin_inset Quotes erd
+\end_inset
+
+, Speech Communication, vol.
+\begin_inset space ~
+\end_inset
+
+59, April 2014.
+\end_layout
+
+\begin_layout Enumerate-Resume
+K.
+\begin_inset space ~
+\end_inset
+
+Tjaden, A.
+\begin_inset space ~
+\end_inset
+
+
+\series bold
+Kain
+\series default
+, J.
+\begin_inset space ~
+\end_inset
+
+Lam, 
+\begin_inset Quotes eld
+\end_inset
+
+
+\begin_inset CommandInset href
+LatexCommand href
+name "Hybridizing Conversational and Clear Speech to Investigate the Source of Increased Intelligibility in Parkinson’s Disease"
+target "http://jslhr.pubs.asha.org/article.aspx?articleID=1833542"
+literal "false"
+
+\end_inset
+
+
+\begin_inset Quotes erd
+\end_inset
+
+, Journal of Speech, Language, and Hearing Research, Volume 57, August 2014.
+\end_layout
+
+\begin_layout Enumerate-Resume
+S.
+\begin_inset space ~
+\end_inset
+
+
+\bar under
+Mohammadi
+\bar default
+, A.
+\begin_inset space ~
+\end_inset
+
+
+\series bold
+Kain
+\series default
+, 
+\begin_inset Quotes eld
+\end_inset
+
+
+\begin_inset CommandInset href
+LatexCommand href
+name "Voice conversion using Deep Neural Networks with speaker-independent pre-training"
+target "http://cslu.ohsu.edu/~kain/pub/Mohammadi2014-SLT-DNN.pdf"
+literal "false"
+
+\end_inset
+
+
+\begin_inset Quotes erd
+\end_inset
+
+, IEEE Spoken Language Technology Workshop (SLT), 2014.
+\end_layout
+
+\begin_layout Enumerate-Resume
+B.
+\begin_inset space ~
+\end_inset
+
+
+\bar under
+Bush
+\bar default
+, A.
+\begin_inset space ~
+\end_inset
+
+
+\series bold
+Kain
+\series default
+, 
+\begin_inset Quotes eld
+\end_inset
+
+
+\begin_inset CommandInset href
+LatexCommand href
+name "Modeling Coarticulation in Continuous Speech"
+target "http://cslu.ohsu.edu/~kain/pub/Bush2014-IS-Cont.pdf"
+literal "false"
+
+\end_inset
+
+
+\begin_inset Quotes erd
+\end_inset
+
+, Interspeech 2014.
+\end_layout
+
+\begin_layout Paragraph*
+2013
+\end_layout
+
+\begin_layout Enumerate-Resume
+S.
+\begin_inset space ~
+\end_inset
+
+
+\bar under
+Mohammadi
+\bar default
+, A.
+\begin_inset space ~
+\end_inset
+
+
+\series bold
+Kain
+\series default
+, 
+\begin_inset Quotes eld
+\end_inset
+
+
+\begin_inset CommandInset href
+LatexCommand href
+name "Transmutative Voice Conversion"
+target "http://cslu.ohsu.edu/~kain/pub/Mohammadi2013-ICASSP-Transmutative.pdf"
+literal "false"
+
+\end_inset
+
+
+\begin_inset Quotes erd
+\end_inset
+
+, ICASSP, 2013.
+\end_layout
+
+\begin_layout Enumerate-Resume
+B.
+\begin_inset space ~
+\end_inset
+
+
+\bar under
+Bush
+\bar default
+, A.
+\series bold
+
+\begin_inset space ~
+\end_inset
+
+Kain
+\series default
+, 
+\begin_inset Quotes eld
+\end_inset
+
+
+\begin_inset CommandInset href
+LatexCommand href
+name "Estimating Phoneme Formant Targets and Coarticulation Parameters of Conversational and Clear Speech"
+target "http://cslu.ohsu.edu/~kain/pub/Bush2013-ICASSP-CoarticulationBF.pdf"
+literal "false"
+
+\end_inset
+
+
+\begin_inset Quotes erd
+\end_inset
+
+, ICASSP, 2013.
+\end_layout
+
+\begin_layout Enumerate-Resume
+B.
+\begin_inset space ~
+\end_inset
+
+
+\bar under
+Snider
+\bar default
+ and A.
+\series bold
+
+\begin_inset space ~
+\end_inset
+
+Kain
+\series default
+, 
+\begin_inset Quotes eld
+\end_inset
+
+
+\begin_inset CommandInset href
+LatexCommand href
+name "Automatic Classification of Breathing Sounds during Sleep"
+target "http://cslu.ohsu.edu/~kain/pub/Snider2013-ICASSP-BreathingHMM.pdf"
+literal "false"
+
+\end_inset
+
+
+\begin_inset Quotes erd
+\end_inset
+
+, ICASSP, 2013.
+\end_layout
+
+\begin_layout Paragraph*
+2012
+\end_layout
+
+\begin_layout Enumerate-Resume
+S.
+\begin_inset space ~
+\end_inset
+
+
+\bar under
+Mohammadi
+\bar default
+, A.
+\begin_inset space ~
+\end_inset
+
+
+\series bold
+Kain
+\series default
+, J.
+\begin_inset space ~
+\end_inset
+
+van Santen, 
+\begin_inset Quotes eld
+\end_inset
+
+
+\begin_inset CommandInset href
+LatexCommand href
+name "Making Conversational Vowels More Clear"
+target "http://cslu.ohsu.edu/~kain/pub/Mohammadi2012-Interspeech-Clear%20Vowels.pdf"
+literal "false"
+
+\end_inset
+
+
+\begin_inset Quotes erd
+\end_inset
+
+, Proceedings of Interspeech, 2012.
+\end_layout
+
+\begin_layout Enumerate-Resume
+E.
+\begin_inset space ~
+\end_inset
+
+Morley, E.
+\begin_inset space ~
+\end_inset
+
+Klabbers, J.
+\begin_inset space ~
+\end_inset
+
+van Santen, A.
+\begin_inset space ~
+\end_inset
+
+
+\series bold
+Kain
+\series default
+, S.
+\begin_inset space ~
+\end_inset
+
+
+\bar under
+Mohammadi
+\bar default
+, 
+\begin_inset Quotes eld
+\end_inset
+
+
+\begin_inset CommandInset href
+LatexCommand href
+name "Synthetic F0 can Effectively Convey Speaker ID in Delexicalized Speech"
+target "http://cslu.ohsu.edu/~kain/pub/Morley2012-Interspeech-F0%20Speaker%20ID.pdf"
+literal "false"
+
+\end_inset
+
+
+\begin_inset Quotes erd
+\end_inset
+
+, Interspeech, 2012.
+\end_layout
+
+\begin_layout Paragraph*
+2011
+\end_layout
+
+\begin_layout Enumerate-Resume
+E.
+\begin_inset space ~
+\end_inset
+
+Morley, J.
+\begin_inset space ~
+\end_inset
+
+van Santen, E.
+\begin_inset space ~
+\end_inset
+
+Klabbers, A.
+\begin_inset space ~
+\end_inset
+
+
+\series bold
+Kain
+\series default
+, 
+\begin_inset Quotes eld
+\end_inset
+
+
+\begin_inset CommandInset href
+LatexCommand href
+name "F0 Range and Peak Alignment across Speakers and Emotions"
+target "http://cslu.ohsu.edu/~kain/pub/Morley2011-ICASSP-F0.pdf"
+literal "false"
+
+\end_inset
+
+
+\begin_inset Quotes erd
+\end_inset
+
+, ICASSP, 2011.
+\end_layout
+
+\begin_layout Enumerate-Resume
+B.
+\begin_inset space ~
+\end_inset
+
+
+\bar under
+Bush
+\bar default
+, J.-P.
+\begin_inset space ~
+\end_inset
+
+Hosom, A.
+\begin_inset space ~
+\end_inset
+
+
+\series bold
+Kain
+\series default
+, and A.
+\begin_inset space ~
+\end_inset
+
+
+\bar under
+Amano-Kusumoto
+\bar default
+, 
+\begin_inset Quotes eld
+\end_inset
+
+
+\begin_inset CommandInset href
+LatexCommand href
+name "Using a genetic algorithm to estimate parameters of a coarticulation model"
+target "http://cslu.ohsu.edu/~kain/pub/Bush2011-IS-GA.pdf"
+literal "false"
+
+\end_inset
+
+
+\begin_inset Quotes erd
+\end_inset
+
+, Interspeech, 2011.
+\end_layout
+
+\begin_layout Paragraph*
+2010
+\end_layout
+
+\begin_layout Enumerate-Resume
+A.
+\series bold
+
+\begin_inset space ~
+\end_inset
+
+Kain
+\series default
+ and T.
+\begin_inset space ~
+\end_inset
+
+Leen, 
+\begin_inset Quotes eld
+\end_inset
+
+
+\begin_inset CommandInset href
+LatexCommand href
+name "Compression of Line Spectral Frequency Parameters using the Asynchronous Interpolation Model"
+target "http://cslu.ohsu.edu/~kain/pub/Kain2010-SSW7-AIMLSF.pdf"
+literal "false"
+
+\end_inset
+
+
+\begin_inset Quotes erd
+\end_inset
+
+, Proceedings of 7th ISCA Workshop on Speech Synthesis, September 2010.
+\end_layout
+
+\begin_layout Enumerate-Resume
+A.
+\series bold
+
+\begin_inset space ~
+\end_inset
+
+Kain
+\series default
+ and J.
+\begin_inset space ~
+\end_inset
+
+van Santen, 
+\begin_inset Quotes eld
+\end_inset
+
+
+\begin_inset CommandInset href
+LatexCommand href
+name "Frequency-domain delexicalization using surrogate vowels"
+target "http://cslu.ohsu.edu/~kain/pub/Kain2010-IS-Delex.pdf"
+literal "false"
+
+\end_inset
+
+
+\begin_inset Quotes erd
+\end_inset
+
+, Interspeech, 2010.
+\end_layout
+
+\begin_layout Enumerate-Resume
+A.
+\begin_inset space ~
+\end_inset
+
+
+\bar under
+Amano-Kusumoto
+\bar default
+, J.-P.
+\begin_inset space ~
+\end_inset
+
+Hosom, and A.
+\begin_inset space ~
+\end_inset
+
+
+\series bold
+Kain
+\series default
+, 
+\begin_inset Quotes eld
+\end_inset
+
+
+\begin_inset CommandInset href
+LatexCommand href
+name "Speaking style dependency of formant targets"
+target "http://cslu.ohsu.edu/~kain/pub/Amano2010-IS-SpeakingStyle.pdf"
+literal "false"
+
+\end_inset
+
+
+\begin_inset Quotes erd
+\end_inset
+
+, Interspeech, 2010.
+\end_layout
+
+\begin_layout Enumerate-Resume
+E.
+\begin_inset space ~
+\end_inset
+
+Klabbers, A.
+\series bold
+
+\begin_inset space ~
+\end_inset
+
+Kain
+\series default
+, and J.
+\begin_inset space ~
+\end_inset
+
+van Santen, 
+\begin_inset Quotes eld
+\end_inset
+
+
+\begin_inset CommandInset href
+LatexCommand href
+name "Evaluation of speaker mimic technology for personalizing SGD voices"
+target "http://cslu.ohsu.edu/~kain/pub/Klabbers2010-IS-SGD.pdf"
+literal "false"
+
+\end_inset
+
+
+\begin_inset Quotes erd
+\end_inset
+
+, Interspeech, 2010.
+\end_layout
+
+\begin_layout Paragraph*
+2009
+\end_layout
+
+\begin_layout Enumerate-Resume
+A.
+\series bold
+
+\begin_inset space ~
+\end_inset
+
+Kain
+\series default
+, J.
+\begin_inset space ~
+\end_inset
+
+van Santen, 
+\begin_inset Quotes eld
+\end_inset
+
+
+\begin_inset CommandInset href
+LatexCommand href
+name "Using Speech Transformation to Increase Speech Intelligibility for the Hearing- and Speaking-impaired"
+target "http://cslu.ohsu.edu/~kain/pub/Kain2009-ICASSP-Transformation.pdf"
+literal "false"
+
+\end_inset
+
+
+\begin_inset Quotes erd
+\end_inset
+
+, Proceedings of ICASSP, April 2009.
+\end_layout
+
+\begin_layout Enumerate-Resume
+Q.
+\begin_inset space ~
+\end_inset
+
+
+\bar under
+Miao
+\bar default
+, A.
+\series bold
+
+\begin_inset space ~
+\end_inset
+
+Kain
+\series default
+, J.
+\begin_inset space ~
+\end_inset
+
+van Santen, 
+\begin_inset Quotes eld
+\end_inset
+
+
+\begin_inset CommandInset href
+LatexCommand href
+name "Perceptual Cost Function for Cross-fading Based Concatenation"
+target "http://cslu.ohsu.edu/~kain/pub/Miao2009-Interspeech-PerceptualTDXF.pdf"
+literal "false"
+
+\end_inset
+
+
+\begin_inset Quotes erd
+\end_inset
+
+, Proceedings of Interspeech, 2009.
+\end_layout
+
+\begin_layout Enumerate-Resume
+R.
+\begin_inset space ~
+\end_inset
+
+
+\bar under
+Moldover
+\bar default
+, A.
+\series bold
+
+\begin_inset space ~
+\end_inset
+
+Kain
+\series default
+, 
+\begin_inset Quotes eld
+\end_inset
+
+
+\begin_inset CommandInset href
+LatexCommand href
+name "Compression of Line Spectral Frequency Parameters with Asynchronous Interpolation"
+target "http://cslu.ohsu.edu/~kain/pub/Moldover2009-ICASSP-LSFAIM"
+literal "false"
+
+\end_inset
+
+
+\begin_inset Quotes erd
+\end_inset
+
+, Proceedings of ICASSP, April 2009.
+\end_layout
+
+\begin_layout Paragraph*
+2008
+\end_layout
+
+\begin_layout Enumerate-Resume
+A.
+\series bold
+
+\begin_inset space ~
+\end_inset
+
+Kain
+\series default
+, A.
+\begin_inset space ~
+\end_inset
+
+
+\bar under
+Amano-Kusumoto
+\bar default
+, and J.-P.
+\begin_inset space ~
+\end_inset
+
+Hosom, 
+\begin_inset Quotes eld
+\end_inset
+
+
+\begin_inset CommandInset href
+LatexCommand href
+name "Hybridizing Conversational and Clear Speech to Determine the Degree of Contribution of Acoustic Features to Intelligibility"
+target "http://cslu.ohsu.edu/~kain/pub/Kain2008-JASA-Hybridizing.pdf"
+literal "false"
+
+\end_inset
+
+
+\begin_inset Quotes erd
+\end_inset
+
+, Journal of the Acoustical Society of America, vol.
+\begin_inset space ~
+\end_inset
+
+124, issue 4, October 2008, pp.
+\begin_inset space ~
+\end_inset
+
+2308–2319.
+\end_layout
+
+\begin_layout Paragraph*
+2007
+\end_layout
+
+\begin_layout Enumerate-Resume
+A.
+\series bold
+
+\begin_inset space ~
+\end_inset
+
+Kain
+\series default
+, J.
+\begin_inset space ~
+\end_inset
+
+Hosom, X.
+\bar under
+
+\begin_inset space ~
+\end_inset
+
+Niu
+\bar default
+, J.
+\begin_inset space ~
+\end_inset
+
+van Santen, M.
+\begin_inset space ~
+\end_inset
+
+Fried-Oken, J.
+\begin_inset space ~
+\end_inset
+
+Staehely, 
+\begin_inset Quotes eld
+\end_inset
+
+
+\begin_inset CommandInset href
+LatexCommand href
+name "Improving the Intelligibility of Dysarthric Speech"
+target "http://dx.doi.org/10.1016/j.specom.2007.05.001"
+literal "false"
+
+\end_inset
+
+
+\begin_inset Quotes erd
+\end_inset
+
+, Speech Communication, vol.
+\begin_inset space ~
+\end_inset
+
+49, issue 9, September 2007, pp.
+\begin_inset space ~
+\end_inset
+
+743–759.
+\end_layout
+
+\begin_layout Enumerate-Resume
+E.
+\begin_inset space ~
+\end_inset
+
+Klabbers, J.
+\begin_inset space ~
+\end_inset
+
+van Santen, A.
+\series bold
+
+\begin_inset space ~
+\end_inset
+
+Kain
+\series default
+, 
+\begin_inset Quotes eld
+\end_inset
+
+
+\begin_inset CommandInset href
+LatexCommand href
+name "The Contribution of Various Sources of Spectral Mismatch to Audible Discontinuities in a Diphone Database"
+target "http://cslu.ohsu.edu/~kain/pub/Klabbers2006-IEEE-Spectral%20Mismatch.pdf"
+literal "false"
+
+\end_inset
+
+
+\begin_inset Quotes erd
+\end_inset
+
+, IEEE Transactions on Audio, Speech, and Language Processing Journal, Volume
+ 15, Issue 3, pp.
+\begin_inset space ~
+\end_inset
+
+949–956, March 2007.
+\end_layout
+
+\begin_layout Enumerate-Resume
+A.
+\bar under
+
+\begin_inset space ~
+\end_inset
+
+Kusumoto
+\bar default
+, A.
+\series bold
+
+\begin_inset space ~
+\end_inset
+
+Kain
+\series default
+, P.
+\begin_inset space ~
+\end_inset
+
+Hosom, and J.
+\begin_inset space ~
+\end_inset
+
+van Santen, 
+\begin_inset Quotes eld
+\end_inset
+
+
+\begin_inset CommandInset href
+LatexCommand href
+name "Hybridizing Conversational and Clear Speech"
+target "http://cslu.ohsu.edu/~kain/pub/Kusumoto2007-Interspeech-Hybridizing.pdf"
+literal "false"
+
+\end_inset
+
+
+\begin_inset Quotes erd
+\end_inset
+
+, Proceedings of Interspeech, August 2007.
+\end_layout
+
+\begin_layout Enumerate-Resume
+A.
+\series bold
+
+\begin_inset space ~
+\end_inset
+
+Kain
+\series default
+, Q.
+\bar under
+
+\begin_inset space ~
+\end_inset
+
+Miao
+\bar default
+, J.
+\begin_inset space ~
+\end_inset
+
+van Santen, 
+\begin_inset Quotes eld
+\end_inset
+
+
+\begin_inset CommandInset href
+LatexCommand href
+name "Spectral Control in Concatenative Speech Synthesis"
+target "http://cslu.ohsu.edu/~kain/pub/Kain2007-SSW6-Spectral%20Control.pdf"
+literal "false"
+
+\end_inset
+
+
+\begin_inset Quotes erd
+\end_inset
+
+, Proceedings of 6th ISCA Workshop on Speech Synthesis, August 2007.
+\end_layout
+
+\begin_layout Enumerate-Resume
+A.
+\series bold
+
+\begin_inset space ~
+\end_inset
+
+Kain
+\series default
+ and J.
+\begin_inset space ~
+\end_inset
+
+van Santen, 
+\begin_inset Quotes eld
+\end_inset
+
+
+\begin_inset CommandInset href
+LatexCommand href
+name "Unit-Selection Text-to-Speech Synthesis Using an Asynchronous Interpolation Model"
+target "http://cslu.ohsu.edu/~kain/pub/Kain2007-SSW6-AIM.pdf"
+literal "false"
+
+\end_inset
+
+
+\begin_inset Quotes erd
+\end_inset
+
+, Proceedings of 6th ISCA Workshop on Speech Synthesis, August 2007.
+\end_layout
+
+\begin_layout Paragraph*
+2006
+\end_layout
+
+\begin_layout Enumerate-Resume
+X.
+\bar under
+
+\begin_inset space ~
+\end_inset
+
+Niu
+\bar default
+, A.
+\series bold
+
+\begin_inset space ~
+\end_inset
+
+Kain
+\series default
+, J.
+\begin_inset space ~
+\end_inset
+
+van Santen, 
+\begin_inset Quotes eld
+\end_inset
+
+
+\begin_inset CommandInset href
+LatexCommand href
+name "A Noninvasive, Low-cost Device to Study the Velopharyngeal Port During Speech and Some Preliminary Results"
+target "http://cslu.ohsu.edu/~kain/pub/Niu2006-Interspeech-Velopharyngeal.pdf"
+literal "false"
+
+\end_inset
+
+
+\begin_inset Quotes erd
+\end_inset
+
+, Proceedings of Interspeech, September 2006.
+\end_layout
+
+\begin_layout Paragraph*
+2005
+\end_layout
+
+\begin_layout Enumerate-Resume
+J.
+\begin_inset space ~
+\end_inset
+
+van Santen, A.
+\series bold
+
+\begin_inset space ~
+\end_inset
+
+Kain
+\series default
+, E.
+\begin_inset space ~
+\end_inset
+
+Klabbers, and T.
+\begin_inset space ~
+\end_inset
+
+Mishra, 
+\begin_inset Quotes eld
+\end_inset
+
+
+\begin_inset CommandInset href
+LatexCommand href
+name "Synthesis of Prosody using Multi- level Unit Sequences"
+target "http://cslu.ohsu.edu/~kain/pub/vanSanten2005-SPECOM-Multi-level%20Units.pdf"
+literal "false"
+
+\end_inset
+
+
+\begin_inset Quotes erd
+\end_inset
+
+, Speech Communication Journal, vol.
+\begin_inset space ~
+\end_inset
+
+46, issues 3–4, pp.
+\begin_inset space ~
+\end_inset
+
+365–375, July 2005.
+\end_layout
+
+\begin_layout Enumerate-Resume
+X.
+\begin_inset space ~
+\end_inset
+
+
+\bar under
+Niu
+\bar default
+, A.
+\series bold
+
+\begin_inset space ~
+\end_inset
+
+Kain
+\series default
+, J.
+\begin_inset space ~
+\end_inset
+
+van Santen, 
+\begin_inset Quotes eld
+\end_inset
+
+
+\begin_inset CommandInset href
+LatexCommand href
+name "Estimation of the Acoustic Properties of the Nasal Tract during the Production of Nasalized Vowels"
+target "http://cslu.ohsu.edu/~kain/pub/Niu2005-Eurospeech-Nasal.pdf"
+literal "false"
+
+\end_inset
+
+
+\begin_inset Quotes erd
+\end_inset
+
+, Proceedings of EUROSPEECH, September 2005.
+\end_layout
+
+\begin_layout Paragraph*
+2004
+\end_layout
+
+\begin_layout Enumerate-Resume
+A.
+\series bold
+
+\begin_inset space ~
+\end_inset
+
+Kain
+\series default
+, X.
+\begin_inset space ~
+\end_inset
+
+
+\bar under
+Niu
+\bar default
+, J.
+\begin_inset space ~
+\end_inset
+
+Hosom, Q.
+\begin_inset space ~
+\end_inset
+
+
+\bar under
+Miao
+\bar default
+, J.
+\begin_inset space ~
+\end_inset
+
+van Santen, 
+\begin_inset Quotes eld
+\end_inset
+
+
+\begin_inset CommandInset href
+LatexCommand href
+name "Formant Re-synthesis of Dysarthric Speech"
+target "http://cslu.ohsu.edu/~kain/pub/Kain2004-SSW5-Formant%20Resynthesis.pdf"
+literal "false"
+
+\end_inset
+
+
+\begin_inset Quotes erd
+\end_inset
+
+, Proceedings of 5th ISCA Workshop on Speech Synthesis, June 2004.
+\end_layout
+
+\begin_layout Enumerate-Resume
+J.
+\begin_inset space ~
+\end_inset
+
+van Santen, A.
+\series bold
+
+\begin_inset space ~
+\end_inset
+
+Kain
+\series default
+, and E.
+\begin_inset space ~
+\end_inset
+
+Klabbers, 
+\begin_inset Quotes eld
+\end_inset
+
+
+\begin_inset CommandInset href
+LatexCommand href
+name "Synthesis by Recombination of Segmental and Prosodic Information"
+target "http://cslu.ohsu.edu/~kain/pub/vanSanten2004-SpeechProsody-Synthesis%20by%20Recombination.pdf"
+literal "false"
+
+\end_inset
+
+
+\begin_inset Quotes erd
+\end_inset
+
+, Speech Prosody 2004, March 2004.
+\end_layout
+
+\begin_layout Enumerate-Resume
+H.
+\begin_inset space ~
+\end_inset
+
+Duxans, A.
+\begin_inset space ~
+\end_inset
+
+Bonafonte, A.
+\series bold
+
+\begin_inset space ~
+\end_inset
+
+Kain
+\series default
+, and J.
+\begin_inset space ~
+\end_inset
+
+van Santen, 
+\begin_inset Quotes eld
+\end_inset
+
+
+\begin_inset CommandInset href
+LatexCommand href
+name "Including Dynamic and Phonetic Information in Voice Conversion Systems"
+target "http://cslu.ohsu.edu/~kain/pub/Duxans2004-ICSLP-Dynamic.pdf"
+literal "false"
+
+\end_inset
+
+
+\begin_inset Quotes erd
+\end_inset
+
+, Proceedings of ICSLP, October 2004.
+\end_layout
+
+\begin_layout Paragraph*
+2003
+\end_layout
+
+\begin_layout Enumerate-Resume
+J.
+\begin_inset space ~
+\end_inset
+
+Hosom, A.
+\series bold
+
+\begin_inset space ~
+\end_inset
+
+Kain
+\series default
+, T.
+\begin_inset space ~
+\end_inset
+
+Mishra, J.
+\begin_inset space ~
+\end_inset
+
+van Santen, M.
+\begin_inset space ~
+\end_inset
+
+Fried-Oken, J.
+\begin_inset space ~
+\end_inset
+
+Staehely, 
+\begin_inset Quotes eld
+\end_inset
+
+
+\begin_inset CommandInset href
+LatexCommand href
+name "Intelligibility of modifications to dysarthric speech"
+target "http://cslu.ohsu.edu/~kain/pub/Hosom2003-ICASSP-Dysarthria.pdf"
+literal "false"
+
+\end_inset
+
+
+\begin_inset Quotes erd
+\end_inset
+
+, Proceedings of ICASSP, May 2003.
+\end_layout
+
+\begin_layout Enumerate-Resume
+A.
+\series bold
+
+\begin_inset space ~
+\end_inset
+
+Kain
+\series default
+ and J.
+\begin_inset space ~
+\end_inset
+
+van Santen, 
+\begin_inset Quotes eld
+\end_inset
+
+
+\begin_inset CommandInset href
+LatexCommand href
+name "A speech model of acoustic inventories based on asynchronous interpolation"
+target "http://cslu.ohsu.edu/~kain/pub/Kain2003-Eurospeech-AIM.pdf"
+literal "false"
+
+\end_inset
+
+
+\begin_inset Quotes erd
+\end_inset
+
+, Proceedings of EUROSPEECH, pp.
+\begin_inset space ~
+\end_inset
+
+329-332, August 2003.
+\end_layout
+
+\begin_layout Enumerate-Resume
+J.
+\begin_inset space ~
+\end_inset
+
+van Santen, L.
+\begin_inset space ~
+\end_inset
+
+Black, G.
+\begin_inset space ~
+\end_inset
+
+Cohen, A.
+\series bold
+
+\begin_inset space ~
+\end_inset
+
+Kain
+\series default
+, E.
+\begin_inset space ~
+\end_inset
+
+Klabbers, T.
+\begin_inset space ~
+\end_inset
+
+Mishra, J.
+\begin_inset space ~
+\end_inset
+
+de Villiers, X.
+\bar under
+
+\begin_inset space ~
+\end_inset
+
+Niu
+\bar default
+, 
+\begin_inset Quotes eld
+\end_inset
+
+
+\begin_inset CommandInset href
+LatexCommand href
+name "Applications of computer generated expressive speech for communication disorders"
+target "http://cslu.ohsu.edu/~kain/pub/vanSanten2003-Eurospeech-Expressive.pdf"
+literal "false"
+
+\end_inset
+
+
+\begin_inset Quotes erd
+\end_inset
+
+, Proceedings of EUROSPEECH, pp.
+\begin_inset space ~
+\end_inset
+
+1657-1660, August 2003.
+\end_layout
+
+\begin_layout Paragraph*
+2002
+\end_layout
+
+\begin_layout Enumerate-Resume
+A.
+\series bold
+
+\begin_inset space ~
+\end_inset
+
+Kain
+\series default
+ and J.
+\begin_inset space ~
+\end_inset
+
+van Santen, 
+\begin_inset Quotes eld
+\end_inset
+
+
+\begin_inset CommandInset href
+LatexCommand href
+name "Compression of Acoustic Inventories using Asynchronous Interpolation"
+target "http://cslu.ohsu.edu/~kain/pub/Kain2002-IEEE-AIM.pdf"
+literal "false"
+
+\end_inset
+
+
+\begin_inset Quotes erd
+\end_inset
+
+, Proceedings of IEEE Workshop on Speech Synthesis, pp.
+\begin_inset space ~
+\end_inset
+
+83-86, September 2002.
+\end_layout
+
+\begin_layout Enumerate-Resume
+J.
+\begin_inset space ~
+\end_inset
+
+van Santen, J.
+\begin_inset space ~
+\end_inset
+
+Wouters, and A.
+\series bold
+
+\begin_inset space ~
+\end_inset
+
+Kain
+\series default
+, 
+\begin_inset Quotes eld
+\end_inset
+
+
+\begin_inset CommandInset href
+LatexCommand href
+name "Modification of Speech: A Tribute to Mike Macon"
+target "http://cslu.ohsu.edu/~kain/pub/vanSanten2002-IEEE-Tribute.pdf"
+literal "false"
+
+\end_inset
+
+
+\begin_inset Quotes erd
+\end_inset
+
+, Proceedings of IEEE Workshop on Speech Synthesis, September 2002.
+\end_layout
+
+\begin_layout Paragraph*
+2001
+\end_layout
+
+\begin_layout Enumerate-Resume
+A.
+\series bold
+
+\begin_inset space ~
+\end_inset
+
+Kain
+\series default
+ and M.
+\begin_inset space ~
+\end_inset
+
+Macon, 
+\begin_inset Quotes eld
+\end_inset
+
+
+\begin_inset CommandInset href
+LatexCommand href
+name "Design and Evaluation of a Voice Conversion Algorithm based on Spectral Envelope Mapping and Residual Prediction"
+target "http://cslu.ohsu.edu/~kain/pub/Kain2001-ICASSP-Residual%20Prediction.pdf"
+literal "false"
+
+\end_inset
+
+
+\begin_inset Quotes erd
+\end_inset
+
+, Proceedings of ICASSP, May 2001.
+\end_layout
+
+\begin_layout Paragraph*
+2000 and earlier
+\end_layout
+
+\begin_layout Enumerate-Resume
+A.
+\series bold
+
+\begin_inset space ~
+\end_inset
+
+Kain
+\series default
+ and Y.
+\begin_inset space ~
+\end_inset
+
+Stylianou, 
+\begin_inset Quotes eld
+\end_inset
+
+
+\begin_inset CommandInset href
+LatexCommand href
+name "Stochastic Modeling of Spectral Adjustment for High Quality Pitch Modification"
+target "http://cslu.ohsu.edu/~kain/pub/Kain2000-ICASSP-Spectral%20Pitch.pdf"
+literal "false"
+
+\end_inset
+
+
+\begin_inset Quotes erd
+\end_inset
+
+, Proceedings of ICASSP, June 2000, vol.
+\begin_inset space ~
+\end_inset
+
+2, pp.
+\begin_inset space ~
+\end_inset
+
+949–952.
+\end_layout
+
+\begin_layout Enumerate-Resume
+J.
+\begin_inset space ~
+\end_inset
+
+House, A.
+\series bold
+
+\begin_inset space ~
+\end_inset
+
+Kain
+\series default
+, and J.
+\begin_inset space ~
+\end_inset
+
+Hines, 
+\begin_inset Quotes eld
+\end_inset
+
+
+\begin_inset CommandInset href
+LatexCommand href
+name "ESP - Metaphor for learning: an evolutionary algorithm"
+target "http://cslu.ohsu.edu/~kain/pub/House2000-GECCO-ESP.pdf"
+literal "false"
+
+\end_inset
+
+
+\begin_inset Quotes erd
+\end_inset
+
+, Proceedings of GECCO 2000, Las Vegas, NV.
+\end_layout
+
+\begin_layout Enumerate-Resume
+A.
+\series bold
+
+\begin_inset space ~
+\end_inset
+
+Kain
+\series default
+ and M.
+\begin_inset space ~
+\end_inset
+
+Macon, 
+\begin_inset Quotes eld
+\end_inset
+
+
+\begin_inset CommandInset href
+LatexCommand href
+name "Personalizing a speech synthesizer by voice adaptation"
+target "http://cslu.ohsu.edu/~kain/pub/Kain1998-SSW3-Personalizing.pdf"
+literal "false"
+
+\end_inset
+
+
+\begin_inset Quotes erd
+\end_inset
+
+, Third ESCA / COCOSDA International Speech Synthesis Workshop, November
+ 1998, pp.
+\begin_inset space ~
+\end_inset
+
+225–230.
+\end_layout
+
+\begin_layout Enumerate-Resume
+A.
+\series bold
+
+\begin_inset space ~
+\end_inset
+
+Kain
+\series default
+ and M.
+\begin_inset space ~
+\end_inset
+
+Macon, 
+\begin_inset Quotes eld
+\end_inset
+
+
+\begin_inset CommandInset href
+LatexCommand href
+name "Text-to-speech voice adaptation from sparse training data"
+target "http://cslu.ohsu.edu/~kain/pub/Kain1998-ICSLP-Sparse.pdf"
+literal "false"
+
+\end_inset
+
+
+\begin_inset Quotes erd
+\end_inset
+
+, Proceedings of ICSLP, November 1998, vol.
+\begin_inset space ~
+\end_inset
+
+7, pp.
+\begin_inset space ~
+\end_inset
+
+2847–50.
+\end_layout
+
+\begin_layout Enumerate-Resume
+A.
+\series bold
+
+\begin_inset space ~
+\end_inset
+
+Kain
+\series default
+ and M.
+\begin_inset space ~
+\end_inset
+
+Macon, 
+\begin_inset Quotes eld
+\end_inset
+
+
+\begin_inset CommandInset href
+LatexCommand href
+name "Spectral Voice Conversion for Text-to-Speech Synthesis"
+target "http://cslu.ohsu.edu/~kain/pub/Kain1998-ICASSP-Voice%20Conversion.pdf"
+literal "false"
+
+\end_inset
+
+
+\begin_inset Quotes erd
+\end_inset
+
+, Proceedings of ICASSP, May 1998, vol.
+\begin_inset space ~
+\end_inset
+
+1, pp.
+\begin_inset space ~
+\end_inset
+
+285–288.
+\end_layout
+
+\begin_layout Enumerate-Resume
+S.
+\begin_inset space ~
+\end_inset
+
+Sutton, R.
+\begin_inset space ~
+\end_inset
+
+Cole, J.
+\begin_inset space ~
+\end_inset
+
+de Villiers, J.
+\begin_inset space ~
+\end_inset
+
+Schalkwyk, P.
+\begin_inset space ~
+\end_inset
+
+Vermeulen, M.
+\begin_inset space ~
+\end_inset
+
+Macon, Y.
+\begin_inset space ~
+\end_inset
+
+Yan, E.
+\begin_inset space ~
+\end_inset
+
+Kaiser, B.
+\begin_inset space ~
+\end_inset
+
+Rundle, K.
+\begin_inset space ~
+\end_inset
+
+Shobaki, P.
+\begin_inset space ~
+\end_inset
+
+Hosom, A.
+\series bold
+
+\begin_inset space ~
+\end_inset
+
+Kain
+\series default
+, J.
+\begin_inset space ~
+\end_inset
+
+Wouters, D.
+\begin_inset space ~
+\end_inset
+
+Massaro, M.
+\begin_inset space ~
+\end_inset
+
+Cohen, 
+\begin_inset Quotes eld
+\end_inset
+
+
+\begin_inset CommandInset href
+LatexCommand href
+name "Universal Speech Tools: The CSLU Toolkit"
+target "http://cslu.ohsu.edu/~kain/pub/Sutton1998-ICSLP-CSLU%20Toolkit.pdf"
+literal "false"
+
+\end_inset
+
+
+\begin_inset Quotes erd
+\end_inset
+
+, Proceedings of ICSLP, November 1998, vol.
+\begin_inset space ~
+\end_inset
+
+7, pp.
+\begin_inset space ~
+\end_inset
+
+3221–24.
+\end_layout
+
+\begin_layout Enumerate-Resume
+N.
+\begin_inset space ~
+\end_inset
+
+Malayath, H.
+\begin_inset space ~
+\end_inset
+
+Hermansky, A.
+\series bold
+
+\begin_inset space ~
+\end_inset
+
+Kain
+\series default
+ and R.
+\begin_inset space ~
+\end_inset
+
+Carlson, 
+\begin_inset Quotes eld
+\end_inset
+
+
+\begin_inset CommandInset href
+LatexCommand href
+name "Speaker-independent Feature Extraction by Oriented Principal Component Analysis"
+target "http://cslu.ohsu.edu/~kain/pub/Malayath1997-Eurospeech-SI%20by%20PCA.pdf"
+literal "false"
+
+\end_inset
+
+
+\begin_inset Quotes erd
+\end_inset
+
+, Proceedings of EUROSPEECH 1997.
+\end_layout
+
+\begin_layout Subsubsection*
+Abstracts
+\end_layout
+
+\begin_layout Enumerate
+N.
+\begin_inset space ~
+\end_inset
+
+Sathe, A.
+\begin_inset space ~
+\end_inset
+
+
+\series bold
+Kain
+\series default
+, and L.
+\begin_inset space ~
+\end_inset
+
+Reiss, 
+\begin_inset Quotes eld
+\end_inset
+
+Fusion and Identification of Dichotic Consonants in Normal-Hearing and Hearing-I
+mpaired Listeners
+\begin_inset Quotes erd
+\end_inset
+
+, ARO Mid-Winter Meeting, 2019.
+\end_layout
+
+\begin_layout Enumerate
+D.
+\begin_inset space ~
+\end_inset
+
+Britton, A.
+\begin_inset space ~
+\end_inset
+
+
+\series bold
+Kain
+\series default
+, Y-W.
+\begin_inset space ~
+\end_inset
+
+Chen, J.
+\begin_inset space ~
+\end_inset
+
+Wiedrick, J.
+\begin_inset space \thinspace{}
+\end_inset
+
+O.
+\begin_inset space ~
+\end_inset
+
+Benditt, A.
+\begin_inset space \thinspace{}
+\end_inset
+
+L.
+\begin_inset space ~
+\end_inset
+
+Merati, D.
+\begin_inset space ~
+\end_inset
+
+Graville, 
+\begin_inset Quotes eld
+\end_inset
+
+Extreme sawtooth sign in motor neuron disease (MND) suggests laryngeal resistanc
+e to forced airflow
+\begin_inset Quotes erd
+\end_inset
+
+, Fall Voice Conference, 2018.
+\end_layout
+
+\begin_layout Enumerate
+B.
+\begin_inset space ~
+\end_inset
+
+
+\bar under
+Snider
+\bar default
+ and A.
+\begin_inset space ~
+\end_inset
+
+
+\series bold
+Kain
+\series default
+, 
+\begin_inset Quotes eld
+\end_inset
+
+Estimation of Localized Ideal Oximetry Sensor Lag via Oxygen Desaturation--Disor
+dered Breathing Event Cross-Correlation
+\begin_inset Quotes erd
+\end_inset
+
+, SLEEP: Journal of Sleep and Sleep Disorders Research, 40, page A232, 2017.
+\end_layout
+
+\begin_layout Enumerate
+J.-P.
+\begin_inset space ~
+\end_inset
+
+Hosom, A.
+\series bold
+
+\begin_inset space ~
+\end_inset
+
+Kain
+\series default
+, and B.
+\bar under
+
+\begin_inset space ~
+\end_inset
+
+Bush
+\bar default
+, 
+\begin_inset Quotes eld
+\end_inset
+
+
+\begin_inset CommandInset href
+LatexCommand href
+name "Towards the recovery of targets from coarticulated speech for automatic speech recognition"
+target "http://scitation.aip.org/content/asa/journal/jasa/130/4/10.1121/1.3654650"
+literal "false"
+
+\end_inset
+
+
+\begin_inset Quotes erd
+\end_inset
+
+, The Journal of the Acoustical Society of America, 130(4), page 2407, 2011.
+\end_layout
+
+\begin_layout Enumerate
+A.
+\series bold
+
+\begin_inset space ~
+\end_inset
+
+Kain
+\series default
+, "Speech transformation: Increasing intelligibility and changing speakers",
+ Journal of the Acoustical Society of America, 126(4), page 2205, 2009.
+\end_layout
+
+\begin_layout Subsubsection*
+Ph.
+\begin_inset space \thinspace{}
+\end_inset
+
+D.
+\begin_inset space ~
+\end_inset
+
+Thesis
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+
+\begin_inset CommandInset href
+LatexCommand href
+name "High Resolution Voice Transformation"
+target "http://cslu.ohsu.edu/~kain/pub/Kain2001-Thesis-Voice%20Conversion.pdf"
+literal "false"
+
+\end_inset
+
+
+\begin_inset Quotes erd
+\end_inset
+
+, OGI School of Science & Engineering, 2001.
+\end_layout
+
+\begin_layout Subsubsection*
+Technical Reports
+\end_layout
+
+\begin_layout Enumerate
+B.
+\begin_inset space \thinspace{}
+\end_inset
+
+R.
+\begin_inset space ~
+\end_inset
+
+
+\bar under
+Snider
+\bar default
+ and A.
+\begin_inset space ~
+\end_inset
+
+
+\series bold
+Kain
+\series default
+, 
+\begin_inset Quotes eld
+\end_inset
+
+Adaptive Reduction of Additive Noise from Sleep Breathing Sounds
+\begin_inset Quotes erd
+\end_inset
+
+, CSLU-2012-001.
+\end_layout
+
+\begin_layout Enumerate
+A.
+\begin_inset space ~
+\end_inset
+
+
+\series bold
+Kain
+\series default
+, J.-P.
+\begin_inset space ~
+\end_inset
+
+Hosom, S.
+\begin_inset space \thinspace{}
+\end_inset
+
+H.
+\begin_inset space ~
+\end_inset
+
+Ferguson, B.
+\bar under
+
+\begin_inset space ~
+\end_inset
+
+Bush
+\bar default
+, 
+\begin_inset Quotes eld
+\end_inset
+
+Creating a speech corpus with semi-spontaneous, parallel conversational
+ and clear speech
+\begin_inset Quotes erd
+\end_inset
+
+, CSLU-11-003.
+\end_layout
+
+\begin_layout Subsubsection*
+Patents
+\end_layout
+
+\begin_layout Enumerate
+J.
+\begin_inset space ~
+\end_inset
+
+van Santen and A.
+\begin_inset space ~
+\end_inset
+
+
+\series bold
+Kain
+\series default
+, OHSU.
+ System and Method for Compressing Concatenative Acoustic Inventories for
+ Speech Synthesis.
+\end_layout
+
+\begin_layout Enumerate
+A.
+\begin_inset space ~
+\end_inset
+
+
+\series bold
+Kain
+\series default
+ and Y.
+\begin_inset space ~
+\end_inset
+
+Stylianou, AT&T Research Laboratories.
+ Stochastic Modeling Of Spectral Adjustment For High Quality Pitch Modification.
+\end_layout
+
+\begin_layout Subsubsection*
+Datasets
+\end_layout
+
+\begin_layout Itemize
+A.
+\begin_inset space ~
+\end_inset
+
+
+\series bold
+Kain
+\series default
+, The VOICES dataset, Linguistic Data Consortium Catalog, LDC2006S01, ISBN
+ 1-58563-363-1, 2006.
+\end_layout
+
+\begin_layout Subsubsection*
+OHSU Disclosures
+\end_layout
+
+\begin_layout Enumerate
+#2805 Decomposing autoencoder, 09/18/2019
+\end_layout
+
+\begin_layout Enumerate
+#2803 Joint Deep autoencoder, 09/18/2019
+\end_layout
+
+\begin_layout Enumerate
+#2717 Children's pronunciation database, 04/08/2019
+\end_layout
+
+\begin_layout Enumerate
+#2489 TimeView software, 08/15/2017, 
+\series bold
+non-exclusively licensed under the MIT open-source license
+\end_layout
+
+\begin_layout Enumerate
+#2275 PyTTS Text-to-Speech software with 16 voices, 05/12/2016, 
+\series bold
+Exclusively Licensed
+\end_layout
+
+\begin_layout Enumerate
+#1365 Mexican Spanish female diphone voice, 12/08/2008
+\end_layout
+
+\begin_layout Enumerate
+#1364 Mexican Spanish male diphone voice, 12/08/2008
+\end_layout
+
+\begin_layout Enumerate
+#1362 American English female diphone voice (AS), 12/08/2008
+\end_layout
+
+\begin_layout Enumerate
+#1361 American English male speaker diphone voice, 12/08/2008
+\end_layout
+
+\begin_layout Enumerate
+#1360 German male speaker diphone voice, 12/08/2008
+\end_layout
+
+\begin_layout Enumerate
+#1359 German female speaker diphone voice, 12/08/2008
+\end_layout
+
+\begin_layout Enumerate
+#1358 New Flinger singing synthesis, 12/08/2008
+\end_layout
+
+\begin_layout Enumerate
+#1195 Clear-Speech Corpus, Speaker JPH, 05/07/2007
+\end_layout
+
+\begin_layout Enumerate
+#1065 Controlling Formant Frequencies in Concatenative Speech Synthesis
+ Systems, 05/16/2006
+\end_layout
+
+\begin_layout Enumerate
+#1061 Noninvasive Nasal Flow Measurement Device and Algorithm, 05/11/2006
+\end_layout
+
+\begin_layout Enumerate
+#0868 CSLU System and Method for Synthesis Based Speech Enhancement, 09/24/2004,
+ 
+\series bold
+Exclusively Licensed
+\end_layout
+
+\begin_layout Enumerate
+#0844 CSLU Voice transformation for Dysarthria with Formant Re-synthesis,
+ 06/03/2004, 
+\series bold
+Exclusively Licensed
+\end_layout
+
+\begin_layout Enumerate
+#0665 Voice Transformation (High Resolution), 11/13/2002
+\end_layout
+
+\begin_layout Enumerate
+#0566 Method to compress concatenative acoustic inventories for speech synthesis
+, 07/01/2001, 
+\series bold
+Exclusively Licensed
+\series default
+.
+\end_layout
+
+\begin_layout Subsection
+Invited Lectures, Conference Presentations, or Professorships
+\end_layout
+
+\begin_layout Subsubsection*
+International and National
+\end_layout
+
+\begin_layout Enumerate
+Conference presentation: 
+\begin_inset Quotes eld
+\end_inset
+
+Siamese Autoencoders for Speech Style Extraction and Switching Applied to
+ Voice Identification and Conversion”, Interspeech, Stockholm, Sweden, 2017.
+\end_layout
+
+\begin_layout Enumerate
+Conference presentation: 
+\begin_inset Quotes eld
+\end_inset
+
+A Comparison of Sentence-level Speech Intelligibility Metrics”, Interspeech,
+ Stockholm, Sweden, 2017.
+\end_layout
+
+\begin_layout Enumerate
+Conference presentation: 
+\begin_inset Quotes eld
+\end_inset
+
+Semi-supervised Training of a Voice Conversion Mapping Function using a
+ Joint-Autoencoder
+\begin_inset Quotes erd
+\end_inset
+
+, Interspeech, Dresden, Germany, 2016.
+\end_layout
+
+\begin_layout Enumerate
+Conference presentation: 
+\begin_inset Quotes eld
+\end_inset
+
+Hybridizing Conversational and Clear Speech to Investigate the Source of
+ Intelligibility Variation in Parkinson’s Disease
+\begin_inset Quotes erd
+\end_inset
+
+, Conference on Motor Speech, Sarasota, Florida, 2014.
+\end_layout
+
+\begin_layout Enumerate
+Conference presentation: 
+\begin_inset Quotes eld
+\end_inset
+
+Transmutative Voice Conversion
+\begin_inset Quotes erd
+\end_inset
+
+, ICASSP, Vancouver, Canada, 2013.
+\end_layout
+
+\begin_layout Enumerate
+Conference presentation: 
+\begin_inset Quotes erd
+\end_inset
+
+Frequency-domain delexicalization using surrogate vowels
+\begin_inset Quotes erd
+\end_inset
+
+, Interspeech, Makuhari, Japan, 2010.
+\end_layout
+
+\begin_layout Enumerate
+Conference presentation: 
+\begin_inset Quotes erd
+\end_inset
+
+Compression of Line Spectral Frequency Parameters using the Asynchronous
+ Interpolation Model
+\begin_inset Quotes erd
+\end_inset
+
+, 7th ISCA Workshop on Speech Synthesis, Kyoto, Japan, 2010.
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+Invited
+\series default
+ conference presentation: 
+\begin_inset Quotes erd
+\end_inset
+
+Hybridizing Conversational and Clear Speech to Determine the Degree of Contribut
+ion of Acoustic Features to Intelligibility
+\begin_inset Quotes erd
+\end_inset
+
+, Meeting of the Acoustical Society of America, 2009, San Diego, CA.
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+Invited
+\series default
+ conference presentation for a Special Session on Voice Transformation:
+ 
+\begin_inset Quotes erd
+\end_inset
+
+Using Speech Transformation to Increase Speech Intelligibility for the Hearing-
+ and Speaking-impaired
+\begin_inset Quotes erd
+\end_inset
+
+, ICASSP, Taipei, Taiwan, 2009.
+\end_layout
+
+\begin_layout Enumerate
+Conference presentation: 
+\begin_inset Quotes erd
+\end_inset
+
+Compression of Line Spectral Frequency Parameters with Asynchronous Interpolatio
+n
+\begin_inset Quotes erd
+\end_inset
+
+, ICASSP, Taipei, Taiwan, 2009.
+\end_layout
+
+\begin_layout Enumerate
+Conference presentation: 
+\begin_inset Quotes erd
+\end_inset
+
+Hybridizing Conversational and Clear Speech
+\begin_inset Quotes erd
+\end_inset
+
+, Interspeech, Antwerp, Belgium, 2007.
+\end_layout
+
+\begin_layout Enumerate
+Conference presentation: 
+\begin_inset Quotes erd
+\end_inset
+
+Spectral Control in Concatenative Speech Synthesis
+\begin_inset Quotes erd
+\end_inset
+
+, 6th ISCA Workshop on Speech Synthesis, Bonn, Germany, 2007.
+\end_layout
+
+\begin_layout Enumerate
+Conference presentation: 
+\begin_inset Quotes erd
+\end_inset
+
+Unit-Selection Text-to-Speech Synthesis Using an Asynchronous Interpolation
+ Model
+\begin_inset Quotes erd
+\end_inset
+
+, 6th ISCA Workshop on Speech Synthesis, Bonn, Germany, 2007.
+\end_layout
+
+\begin_layout Enumerate
+Conference presentation: 
+\begin_inset Quotes erd
+\end_inset
+
+Formant Re-synthesis of Dysarthric Speech
+\begin_inset Quotes erd
+\end_inset
+
+, 5th ISCA Workshop on Speech Synthesis, Pittsburgh, PA, USA, 2004.
+\end_layout
+
+\begin_layout Enumerate
+Conference presentation: 
+\begin_inset Quotes erd
+\end_inset
+
+A speech model of acoustic inventories based on asynchronous interpolation
+\begin_inset Quotes erd
+\end_inset
+
+, EUROSPEECH, Geneva, Switzerland, 2003.
+\end_layout
+
+\begin_layout Enumerate
+Conference presentation: 
+\begin_inset Quotes erd
+\end_inset
+
+Compression of Acoustic Inventories using Asynchronous Interpolation
+\begin_inset Quotes erd
+\end_inset
+
+, IEEE Workshop on Speech Synthesis, Santa Monica, CA, 2002.
+\end_layout
+
+\begin_layout Enumerate
+Conference presentation: 
+\begin_inset Quotes erd
+\end_inset
+
+Design and Evaluation of a Voice Conversion Algorithm based on Spectral
+ Envelope Mapping and Residual Prediction
+\begin_inset Quotes erd
+\end_inset
+
+, ICASSP, Salt Lake City, UT, 2001.
+\end_layout
+
+\begin_layout Enumerate
+Conference presentation: 
+\begin_inset Quotes erd
+\end_inset
+
+Spectral Voice Conversion for Text-to-Speech Synthesis
+\begin_inset Quotes erd
+\end_inset
+
+, ICASSP, Seattle, WA, 1998.
+\end_layout
+
+\begin_layout Subsubsection*
+Regional and Local
+\end_layout
+
+\begin_layout Itemize
+Presentation at CSLU Seminar Series approximately 1–2 times annually
+\end_layout
+
+\begin_layout Subsection
+Awards
+\end_layout
+
+\begin_layout Itemize
+2017, 2013 OHSU Technology Transfer and Business Development Award
+\end_layout
+
+\begin_layout Itemize
+2017 NVIDIA Academic Hardware Donation Program
+\end_layout
+
+\begin_layout Itemize
+2005 OHSU Commercialization Award
+\end_layout
+
+\begin_layout Section
+Service
+\end_layout
+
+\begin_layout Subsection
+Membership in Professional Societies
+\end_layout
+
+\begin_layout Itemize
+International Speech Communication Association (ISCA)
+\end_layout
+
+\begin_layout Itemize
+Institute of Electrical and Electronics Engineers (IEEE)
+\end_layout
+
+\begin_layout Itemize
+Acoustical Society of America (ASA)
+\end_layout
+
+\begin_layout Subsection
+Granting Agency Review Work
+\end_layout
+
+\begin_layout Itemize
+I served as a grant reviewer for the Spinal Cord Injury/Disease Research
+ Program, 2018.
+\end_layout
+
+\begin_layout Itemize
+I served as an additional reviewer on one grant proposal for the National
+ Science Foundation, 2013.
+\end_layout
+
+\begin_layout Itemize
+National Science Foundation, April, 2010.
+ I reviewed several grant proposals, and then participated in two-day panel
+ discussions.
+\end_layout
+
+\begin_layout Subsection
+Editorial and Ad Hoc Review Activities
+\end_layout
+
+\begin_layout Itemize
+I typically review 1–3 
+\series bold
+journal articles
+\series default
+ annually.
+ I have reviewed for:
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Journal of the Acoustical Society of America
+\end_layout
+
+\begin_layout Itemize
+Journal of Computer, Speech, and Language
+\end_layout
+
+\begin_layout Itemize
+IEEE Transactions on Audio, Speech and Language Processing
+\end_layout
+
+\begin_layout Itemize
+Speech Communication Journal
+\end_layout
+
+\begin_layout Itemize
+Transactions on Accessible Computing
+\end_layout
+
+\begin_layout Itemize
+Transactions on Asian and Low-Resource Language Information Processing
+\end_layout
+
+\begin_layout Itemize
+Journal of Speech, Language, and Hearing Research
+\end_layout
+
+\begin_layout Itemize
+International Journal of Speech-Language Pathology
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+I review a combined 4–8 
+\series bold
+conference papers
+\series default
+ annually for international conferences Interspeech and ICASSP.
+ These conference papers are five pages long, and are scored along several
+ dimensions.
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Guest Editor
+\series default
+ for a special Voice Transformation issue of the IEEE Transactions on Audio,
+ Speech and Language Processing Journal, Volume 18, Issue 5, July 2010.
+ My responsibilities included co-organization of the issue publication,
+ co-authoring the introduction, and reviewing articles.
+\end_layout
+
+\begin_layout Subsection
+Committees
+\end_layout
+
+\begin_layout Subsubsection*
+International/National
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Publications Chair
+\series default
+ for the international conference InterSpeech 2012 in Portland Oregon.
+ Over several months, I coordinated with the Technical Program Committee,
+ the Organizing Committee, and the Professional Conference Organizer to
+ produce the electronic proceedings and the abstract book.
+\end_layout
+
+\begin_layout Subsubsection*
+Departmental
+\end_layout
+
+\begin_layout Itemize
+I participate in multiple distinct 
+\series bold
+Dissertation Advisory Committee
+\series default
+ (DAC, for Ph.
+\begin_inset space \thinspace{}
+\end_inset
+
+D.
+\begin_inset space ~
+\end_inset
+
+students) and 
+\series bold
+Thesis Advisory Committee
+\series default
+ (TAC, for Masters Students).
+ These are typically semi-annual half-hour meetings wherein a student meets
+ with his/her research advisor and other faculty to discuss progress, course
+ work, and future plans.
+\end_layout
+
+\begin_layout Itemize
+I participate in the annual 
+\series bold
+Qualifying Exam Committee
+\series default
+, an annual one-day meeting wherein pre-qualifying Ph.
+\begin_inset space \thinspace{}
+\end_inset
+
+D.
+\begin_inset space ~
+\end_inset
+
+students present their Qualifying Exam Work to faculty and other students.
+ Faculty are assigned to be readers on several papers, and the written work
+ and presentation are scored along several dimensions.
+\end_layout
+
+\begin_layout Itemize
+I participate in 
+\series bold
+Ph.
+\begin_inset space \thinspace{}
+\end_inset
+
+D.
+\begin_inset space ~
+\end_inset
+
+Thesis Committees
+\series default
+ as needed.
+ Prior to the Ph.
+\begin_inset space \thinspace{}
+\end_inset
+
+D.
+\begin_inset space ~
+\end_inset
+
+defense, several faculty are assigned as evaluators of the written thesis,
+ a task that typically takes 1–3 days due to the volume of information (usually
+ over 100 pages).
+\end_layout
+
+\begin_layout Itemize
+Member of the 
+\series bold
+Admissions Committee
+\series default
+ reviewing applications of M.
+\begin_inset space \thinspace{}
+\end_inset
+
+S.
+\begin_inset space ~
+\end_inset
+
+and Ph.
+\begin_inset space \thinspace{}
+\end_inset
+
+D.
+\begin_inset space ~
+\end_inset
+
+students to the CS/EE program.
+\end_layout
+
+\begin_layout Itemize
+From 2014–2017 I was a member of the 
+\series bold
+Faculty Council Committee
+\series default
+, which makes available to the Dean informed representative faculty and
+ departmental opinion, counsel, affairs, and problems of the Medical School,
+ especially in areas of administrative and operational policies directly
+ concerned with educational matters.
+\end_layout
+
+\begin_layout Itemize
+I give 
+\series bold
+outreach talks
+\series default
+ to introduce our center and its educational mission to other academic instituti
+ons.
+ Most recent talks were at Reed University, April 2015; Intel, June 2015;
+ George Fox University, December 2015; OHSU's summer talk series, July 2016.
+\end_layout
+
+\begin_layout Subsection
+Activities
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+In 2018, I organized a visit from Masashi Unoki from the Japan Advanced
+ Institue of Science and Technology (JAIST), with the aim of aligning OHSU
+ and JAIST more closely for the purposes of grant collaborations and student
+ exchanges.
+ This program is slated to commence in Fall of 2019.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+I created and maintain several open-source projects:
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+
+\series bold
+TimeView
+\series default
+ (
+\begin_inset CommandInset href
+LatexCommand href
+name "https://github.com/lxkain/timeview"
+target "https://github.com/lxkain/timeview"
+literal "false"
+
+\end_inset
+
+) is a cross-platform (Windows, MacOS, Linux) desktop application for viewing
+ and editing Waveforms, Time-Value data, and Segmentation data.
+ These data can easily be analyzed or manipulated using a library of built-in
+ processors; for example, a linear filter can operate on a waveform, or
+ an activity detector can create a segmentation from a waveform.
+ Processors can be easily customized or created from scratch.
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Multiple Isotonic Regression
+\series default
+ (
+\begin_inset CommandInset href
+LatexCommand href
+name "https://github.com/lxkain/multi-isoreg"
+target "https://github.com/lxkain/multi-isoreg"
+literal "false"
+
+\end_inset
+
+) is an algorithm that, given a sequence, can find the minimum error and
+ 
+\emph on
+any number
+\emph default
+ of optimal inflection points of segments that are either monotonically
+ rising or falling.
+ This allows finding shapes like up-down (one peak), or down-up-down, or
+ up-down-up-down (2 peaks), etc.
+ Special emphasis was placed on performance.
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Joint-Density Regression
+\series default
+ (
+\begin_inset CommandInset href
+LatexCommand href
+name "https://github.com/lxkain/jd-reg"
+target "https://github.com/lxkain/jd-reg"
+literal "false"
+
+\end_inset
+
+) can create non-linear mapping functions using K-Means or GMMs.
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+I worked on designing a formal 
+\series bold
+mentee feedback mechanism
+\series default
+ to mentors, as an outcome of the 2017 
+\begin_inset Quotes eld
+\end_inset
+
+Making a Meaningful Difference
+\begin_inset Quotes erd
+\end_inset
+
+ Leadership class offered by OHSU's Niki Steckler.
+\begin_inset Note Comment
+status collapsed
+
+\begin_layout Plain Layout
+I created and maintain CSLU's 
+\series bold
+unified educational computation environment
+\series default
+.
+ This is implemented via a custom-installation of the latest Ubuntu Linux
+ distribution, with the Python anaconda distribution pre-installed.
+ The virtual disk image is distributed online and can be used with the free
+ VirtualBox Virtual Machine application on Windows, OSX, and Linux alike.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+I manage and maintain CSLU's 
+\series bold
+Virtual Reality Laboratory
+\series default
+, which features a HTC Vive headset, driven by Valve's SteamVR software.
+ Custom worlds can be created using Epic's Unreal Engine.
+\end_layout
+
+\begin_layout Itemize
+I oversee operations and maintenance of CSLU's 
+\series bold
+Audio Laboratory
+\series default
+ hardware and software systems, which feature two WhisperRoom sound-proof
+ booths, a 10-channel 32-bit 96 kHz Focusrite recording audio interface
+ connected to a Digital Audio Workstation running custom software, a Kay
+ Elemetrics laryngograph for capturing a high-quality voicing signal, high-quali
+ty condenser microphones, numerous digital video cameras, a teleprompter,
+ and other support equipment.
+\begin_inset Note Comment
+status collapsed
+
+\begin_layout Plain Layout
+I designed the 2016 CSLU 
+\series bold
+printed educational catalog
+\series default
+.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+In 2012–2013, Izhak Shafran and I worked with 
+\series bold
+Portland State University
+\series default
+ (PSU) on increasing educational collaboration.
+ This required several meetings with key faculty and administrators, both
+ at OHSU and PSU.
+ As a result, CSLU and PSU cross listed certain Computer Science and Electrical
+ Engineering courses.
+ In 2016, this became an institution-wide agreement.
+\end_layout
+
+\begin_layout Section
+Education
+\end_layout
+
+\begin_layout Subsection
+Students
+\end_layout
+
+\begin_layout Itemize
+I have 
+\series bold
+mentored
+\series default
+ 
+\series bold
+Ph.
+\begin_inset space \thinspace{}
+\end_inset
+
+D.
+\series default
+
+\begin_inset space ~
+\end_inset
+
+students: Dinh, Snider, Mohammadi, Bush, Dudy, Khan, Moldover.
+ I typically meet each of them one-on-one for 1–1.5 hours weekly to discuss
+ their research.
+ I have also 
+\series bold
+co-mentored
+\series default
+ 
+\series bold
+Ph.
+\begin_inset space \thinspace{}
+\end_inset
+
+D
+\series default
+.
+\begin_inset space ~
+\end_inset
+
+students: Langarani, 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+with Xubo: Phillip
+\end_layout
+
+\end_inset
+
+Wallis, 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+Peter Jacobs: Seyed Navid
+\end_layout
+
+\end_inset
+
+Resalat, Sathe
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+Nishad Sathe, M.D., with Lina Reiss
+\end_layout
+
+\end_inset
+
+, Bayestehtashk
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+with Zak
+\end_layout
+
+\end_inset
+
+, Niu
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+with Jan
+\end_layout
+
+\end_inset
+
+, Amano-Kusumoto
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+with Hosom
+\end_layout
+
+\end_inset
+
+, Miao
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+with Jan
+\end_layout
+
+\end_inset
+
+.
+ These students have found employment at Apple, Microsoft, Amazon, and other
+ similar high-tech firms.
+\end_layout
+
+\begin_layout Itemize
+I have 
+\series bold
+co-/mentored Master's
+\series default
+ students: Roten, Soethiha, Yaeger, Alder, Velata, Moore.
+\end_layout
+
+\begin_layout Itemize
+When appropriate, I lead weekly 1.5-hour 
+\series bold
+project group meetings
+\series default
+ wherein 2–7 students and possibly additional faculty members report on
+ and discuss their research with each other.
+\end_layout
+
+\begin_layout Itemize
+When appropriate, I lead weekly 1-hour 
+\series bold
+reading group meetings
+\series default
+, wherein one student presents a published paper of his/her choice to a
+ group of students and faculty (invitation is open to all of CSLU), with
+ subsequent discussion.
+\end_layout
+
+\begin_layout Itemize
+I supervised a total of 6 
+\series bold
+undergraduate students
+\series default
+ in the summers of 2008, 2009, and 2013, and 2016, funded through the National
+ Science Foundation's Research Experiences for Undergraduates (REU) program
+ and through the University Center for Excellence in Developmental Disabilities
+ (UCEDD).
+\end_layout
+
+\begin_layout Itemize
+I work with 
+\series bold
+volunteers
+\series default
+ who would like to become Research Assistants, students, or co-authors on
+ a publication with me.
+\end_layout
+
+\begin_layout Subsection
+Courses
+\end_layout
+
+\begin_layout Standard
+Nearly all of my lectures are taught using 
+\emph on
+jupyter notebooks
+\emph default
+, which, in addition to regular text and equations, allow for interactive
+ code examples, graphical widgets, and data visualization during class.
+ Students can download these notebooks and use them as reference or starting
+ points for their own projects.
+\end_layout
+
+\begin_layout Subsubsection*
+
+\series bold
+CS
+\begin_inset space ~
+\end_inset
+
+627 Data Science Programming
+\end_layout
+
+\begin_layout Standard
+This course is a 
+\emph on
+best-of
+\emph default
+ compilation of concepts, practices, and python-based software libraries
+ (all free, open-source, and unrestricted) that allow for rapid, straight-forwar
+d, and easy-to-maintain implementation of new ideas and scientific questions.
+ Students will gain awareness and initial working knowledge of some of the
+ most fundamental computational tools for performing a wide variety of academic
+ research.
+ As such, it will focus on providing breadth instead of depth, which means
+ that for each concept we will talk about motivation, key concepts, and
+ concrete usage scenarios, but without exhaustive mathematical background
+ or proofs, which can be acquired in more specialized classes.
+ In this class we will: write programs in 
+\emph on
+python
+\emph default
+; perform numeric tasks using 
+\emph on
+numpy
+\emph default
+ and 
+\emph on
+scipy
+\emph default
+; manage data using 
+\emph on
+pandas
+\emph default
+; discuss audio, image and text processing using 
+\emph on
+scipy.signal
+\emph default
+, 
+\emph on
+scikit-image
+\emph default
+, 
+\emph on
+nltk
+\emph default
+, and 
+\emph on
+pynini
+\emph default
+; apply machine learning algorithms such as deep neural networks, convolutional
+ neural networks, and autoencoders using 
+\emph on
+scikit-learn
+\emph default
+ and 
+\emph on
+keras
+\emph default
+; visualize data using 
+\emph on
+matplotlib
+\emph default
+ and 
+\emph on
+pyqtgraph
+\emph default
+; use 
+\emph on
+pyqt/QT
+\emph default
+ to build graphical user interfaces; address performance issues via compilation/
+profiling/parallelization tools, and much more (winner of the 2019 Sakai
+ Torchbearer Award).
+\end_layout
+
+\begin_layout Standard
+I have created the curriculum for, and teach this 3-credit course (20
+\begin_inset Formula $\times$
+\end_inset
+
+1.5-hour lectures).
+ Creating the curriculum required approximately 200 hours.
+ Due to the quickly changing landscape at the edge of technology, updating
+ and teaching the course requires approximately 100 hours each time it is
+ offered.
+ Grading students' answers and evaluating their project outcomes requires
+ a total of approximately 3 hours per student over the course of the class
+ (unless a TA is available).
+ Students' evaluation scores averaged 5.0/5.0 in Fall 2015, 5.15/6.0 in Fall
+ 2016, 5.64/6.0 in Winter 2018, 5.83/6.0 in Spring 2019.
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+As a point of reference, over the last 56 classes, the mean evaluation score
+ was 4.3, and the median score was 4.4.
+ Please refer to the OHSU Educators Portfolio document for further details.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+
+\series bold
+EE
+\begin_inset space ~
+\end_inset
+
+682 Digital Signal Processing
+\end_layout
+
+\begin_layout Standard
+This course teaches students the core principals of digital signal processing.
+ We survey a variety of topics in class lecture/discussion based on assigned
+ readings while exploring specific topics/applications in depth through
+ lab assignments and a final project.
+ Specifically, we cover the core topic areas in digital signal processing
+ including an overview of discrete-time signals and systems, the discrete-time
+ Fourier transform, the 
+\begin_inset Formula $z$
+\end_inset
+
+-Transform and transform analysis, the discrete Fourier Series, the discrete
+ Fourier transform, circular convolution, network structures for FIR systems,
+ design of IIR and FIR filters, and multi-rate processing.
+\end_layout
+
+\begin_layout Standard
+I co-teach this 3-credit course (10
+\begin_inset Formula $\times$
+\end_inset
+
+1.5-hour lectures).
+ Creating the lectures required approximately 180 hours.
+ Students' evaluation scores averaged 5.13/6.0 in Winter 2019.
+\end_layout
+
+\begin_layout Subsubsection*
+
+\series bold
+EE
+\begin_inset space ~
+\end_inset
+
+658 Speech Signal Processing
+\end_layout
+
+\begin_layout Standard
+Speech systems are becoming commonplace in today's computer systems and
+ Augmentative and Alternative Communication (AAC) devices.
+ Topics include speech production and perception by humans, linear predictive
+ features, pitch estimation, speech coding, speech enhancement, prosodic
+ speech modification, Voice Conversion (VC), Text-to-Speech (TTS), and automatic
+ speech recognition (ASR).
+\end_layout
+
+\begin_layout Standard
+I have created the curriculum for, and teach this 3-credit course (20
+\begin_inset Formula $\times$
+\end_inset
+
+1.5-hour lectures).
+ Creating the curriculum required approximately 180 hours.
+ Due to the quickly changing landscape at the edge of technology, updating
+ and teaching the course requires approximately 200 hours each time it is
+ offered.
+ Grading students' answers and evaluating their project outcomes requires
+ a total of approximately 3 hours per student over the course of the class
+ (unless a TA is available).
+ Students' evaluation scores averaged 4.7/5.0 in Winter 2016.
+\end_layout
+
+\begin_layout Subsubsection*
+CS
+\begin_inset space ~
+\end_inset
+
+653
+\series bold
+ Text-to-Speech Synthesis
+\end_layout
+
+\begin_layout Standard
+This course will introduce students to the problem of synthesizing speech
+ from text input.
+ Speech synthesis is a challenging area that draws on expertise from a diverse
+ set of scientific fields, including signal processing, linguistics, psychology,
+ statistics, and artificial intelligence.
+ Fundamental advances in each of these areas will be needed to achieve truly
+ human-like synthesis quality and advances in other realms of speech technology
+ (like speech recognition, speech coding, speech enhancement).
+ In this course, we will consider current approaches to sub-problems such
+ as text analysis, pronunciation, linguistic analysis of prosody, and generation
+ of the speech waveform.
+ Lectures, demonstrations, and readings of relevant literature in the area
+ will be supplemented by student lab exercises using hands-on tools.
+\end_layout
+
+\begin_layout Standard
+I have created the curriculum for and teach the second half of this 3-credit
+ course (10
+\begin_inset Formula $\times$
+\end_inset
+
+1.5-hour lectures).
+ Creating the curriculum required approximately 120 hours of my time.
+ Students' evaluation scores averaged 4.4/5.0 in 2015.
+\end_layout
+
+\begin_layout Subsubsection*
+CS
+\begin_inset space ~
+\end_inset
+
+606 Computational Approaches to Speech and Language Disorders
+\end_layout
+
+\begin_layout Standard
+This course covers a range of speech and language analysis algorithms that
+ have been developed for measurement of speech or language based markers
+ of neurological disorders, for the creation of assistive devices, and for
+ remedial applications.
+ Topics include introduction to speech and language disorders, robust speech
+ signal processing, statistical approaches to pitch and timing modeling,
+ voice transformation algorithms, speech segmentation, and modeling of disfluenc
+y.
+ The class uses a wide array of clinical data, and is closely tied to several
+ ongoing research projects.
+\end_layout
+
+\begin_layout Standard
+I have created and taught 2
+\begin_inset Formula $\times$
+\end_inset
+
+1.5-hour lectures for this course.
+\end_layout
+
+\begin_layout Subsection
+Presentations
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Speaker
+\series default
+ at the 2017 OHSU Symposium on Educational Excellence, on 
+\begin_inset Quotes eld
+\end_inset
+
+Interactive lecturing with jupyter notebooks
+\begin_inset Quotes erd
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Itemize
+Twice yearly 
+\series bold
+Course Advertisement Talks
+\series default
+ to preview my courses that are scheduled the following quarter to prospective
+ students.
+\end_layout
+
+\begin_layout Subsection
+Awards
+\end_layout
+
+\begin_layout Itemize
+2019 Sakai Torchbearer Award for the use of jupyter notebooks in education
+\end_layout
+
+\begin_layout Itemize
+2017 nominated for OHSU Excellence in Graduate Teaching Award
+\end_layout
+
+\begin_layout Itemize
+2014 OHSU Excellence in Graduate Teaching Award
+\end_layout
+
+\end_body
+\end_document
