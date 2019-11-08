@@ -927,24 +927,48 @@ National Institute of Health R01,
 \begin_inset Quotes eld
 \end_inset
 
-Binaural Spectral Integration with Hearing Loss and Hearing Devices
+Computer-Assisted Pronunciation Analysis and Training for children with
+ speech sound disorders
 \begin_inset Quotes erd
 \end_inset
 
-, PI: Reiss (OHSU) scored 36 (23rd percentile) on 2018/03/05, resubmission
- is planned.
+, PI: Kain (OHSU)
 \end_layout
 
 \begin_layout Enumerate
-National Institute of Health R21, 
+National Institute of Health R01, 
 \begin_inset Quotes eld
 \end_inset
 
-Utility of cough-related airflow measures in determining laryngeal impairment
+Automatic Detection of REM Sleep Behavior Disorder
 \begin_inset Quotes erd
 \end_inset
 
-, PI: Britton (OHSU) scored on 2017/06/12, resubmission is planned.
+, PI: Lim (OHSU)
+\end_layout
+
+\begin_layout Enumerate
+National Institute of Health, 
+\begin_inset Quotes eld
+\end_inset
+
+Unobtrusive Determination of the location of airway obstructions
+\begin_inset Quotes erd
+\end_inset
+
+, PI: Lam (OHSU)
+\end_layout
+
+\begin_layout Enumerate
+National Institute of Health K23, 
+\begin_inset Quotes eld
+\end_inset
+
+Cerebellar TMS affects speech
+\begin_inset Quotes erd
+\end_inset
+
+, PI: Dale (OHSU)
 \end_layout
 
 \begin_layout Enumerate
@@ -964,67 +988,24 @@ National Institute of Health R01,
 \begin_inset Quotes eld
 \end_inset
 
-Computer-Assisted Pronunciation Analysis and Training for children with
- speech sound disorders
+Binaural Spectral Integration with Hearing Loss and Hearing Devices
 \begin_inset Quotes erd
 \end_inset
 
-, PI: Kain (OHSU), in development.
+, PI: Reiss (OHSU) scored 36 (23rd percentile) on 2018/03/05, resubmission
+ is planned.
 \end_layout
 
 \begin_layout Enumerate
-National Institute of Health R01, 
+National Institute of Health R21, 
 \begin_inset Quotes eld
 \end_inset
 
-Automatic Detection of REM Sleep Behavior Disorder
+Utility of cough-related airflow measures in determining laryngeal impairment
 \begin_inset Quotes erd
 \end_inset
 
-, PI: Lim (OHSU), in development.
-\begin_inset Note Note
-status collapsed
-
-\begin_layout Plain Layout
-National Institute of Health K23, 
-\begin_inset Quotes eld
-\end_inset
-
-Dose-Response of Respiratory and Laryngeal Systems in Older Adults: A Mechanisti
-c Investigation of Vocal Aging
-\begin_inset Quotes erd
-\end_inset
-
-, PI: Ziegler (OHSU), in submission.
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Enumerate
-National Institute of Health K23, 
-\begin_inset Quotes eld
-\end_inset
-
-Cerebellar TMS affects speech
-\begin_inset Quotes erd
-\end_inset
-
-, PI: Dale (OHSU), in development.
-\end_layout
-
-\begin_layout Enumerate
-National Institute of Health, 
-\begin_inset Quotes eld
-\end_inset
-
-Unobtrusive Determination of the location of airway obstructions
-\begin_inset Quotes erd
-\end_inset
-
-, PI: Lam (OHSU), in development.
+, PI: Britton (OHSU) scored on 2017/06/12, resubmitted.
 \end_layout
 
 \begin_layout Subsubsection*
@@ -1883,105 +1864,28 @@ TODO: Put this info into .bib file
 
 \begin_layout Paragraph
 In preparation / submitted
-\end_layout
+\begin_inset Note Note
+status collapsed
 
-\begin_layout Itemize
-D.
-\begin_inset space ~
-\end_inset
-
-Britton, A.
-\begin_inset space ~
-\end_inset
-
-
-\series bold
-Kain
-\series default
-, Y-W.
-\begin_inset space ~
-\end_inset
-
-Chen, J.
-\begin_inset space ~
-\end_inset
-
-Wiedrick, J.
-\begin_inset space \thinspace{}
-\end_inset
-
-O.
-\begin_inset space ~
-\end_inset
-
-Benditt, A.
-\begin_inset space \thinspace{}
-\end_inset
-
-L.
-\begin_inset space ~
-\end_inset
-
-Merati, D.
-\begin_inset space ~
-\end_inset
-
-Graville, 
+\begin_layout Plain Layout
+Molis, 
 \begin_inset Quotes eld
 \end_inset
 
-Extreme sawtooth sign in motor neuron disease (MND) suggests laryngeal resistanc
-e to forced airflow
+Time Compressed Speech
 \begin_inset Quotes erd
 \end_inset
 
-
+?
 \end_layout
 
-\begin_layout Itemize
-
-\bar under
-N.
-\begin_inset space ~
-\end_inset
-
-Sathe
-\bar default
-, A.
-\begin_inset space ~
-\end_inset
-
-
-\series bold
-Kain
-\series default
-, and L.
-\begin_inset space ~
-\end_inset
-
-Reiss, 
-\begin_inset Quotes eld
-\end_inset
-
-Fusion and Identification of Dichotic Consonants in Normal-Hearing and Hearing-I
-mpaired Listeners
-\begin_inset Quotes erd
 \end_inset
 
 
 \begin_inset Note Note
-status open
+status collapsed
 
 \begin_layout Plain Layout
-Journal of the Association for Research in Otolaryngology.
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Itemize
 B.
 \begin_inset space ~
 \end_inset
@@ -2008,6 +1912,11 @@ A Continuous Speech Coarticulation Model and Its Application to Conversational
 \end_inset
 
 , submitted to PLOS
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Itemize
@@ -2113,24 +2022,175 @@ Automatic Sleep Apnea Detection
 \end_inset
 
 
-\begin_inset Note Note
-status collapsed
+\end_layout
 
-\begin_layout Plain Layout
-Molis, 
+\begin_layout Itemize
+
+\bar under
+N.
+\begin_inset space ~
+\end_inset
+
+Sathe
+\bar default
+, A.
+\begin_inset space ~
+\end_inset
+
+
+\series bold
+Kain
+\series default
+, and L.
+\begin_inset space ~
+\end_inset
+
+Reiss, 
 \begin_inset Quotes eld
 \end_inset
 
-Time Compressed Speech
+Fusion and Identification of Dichotic Consonants in Normal-Hearing and Hearing-I
+mpaired Listeners
 \begin_inset Quotes erd
 \end_inset
 
-?
+
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+Journal of the Association for Research in Otolaryngology.
 \end_layout
 
 \end_inset
 
 
+\end_layout
+
+\begin_layout Itemize
+D.
+\begin_inset space ~
+\end_inset
+
+Britton, A.
+\begin_inset space ~
+\end_inset
+
+
+\series bold
+Kain
+\series default
+, Y-W.
+\begin_inset space ~
+\end_inset
+
+Chen, J.
+\begin_inset space ~
+\end_inset
+
+Wiedrick, J.
+\begin_inset space \thinspace{}
+\end_inset
+
+O.
+\begin_inset space ~
+\end_inset
+
+Benditt, A.
+\begin_inset space \thinspace{}
+\end_inset
+
+L.
+\begin_inset space ~
+\end_inset
+
+Merati, D.
+\begin_inset space ~
+\end_inset
+
+Graville, 
+\begin_inset Quotes eld
+\end_inset
+
+Extreme sawtooth sign in motor neuron disease (MND) suggests laryngeal resistanc
+e to forced airflow
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+A.
+\begin_inset space ~
+\end_inset
+
+
+\series bold
+Kain
+\series default
+, A.
+\begin_inset space ~
+\end_inset
+
+
+\bar under
+Roten
+\bar default
+, 
+\begin_inset Quotes eld
+\end_inset
+
+Diacritic-Level Pronunciation Analysis using Phonological Features
+\begin_inset Quotes erd
+\end_inset
+
+, ICASSP 2020.
+\end_layout
+
+\begin_layout Itemize
+P.
+\begin_inset space ~
+\end_inset
+
+
+\bar under
+Wallis
+\bar default
+, D.
+\begin_inset space ~
+\end_inset
+
+
+\bar under
+Yaeger
+\bar default
+, A.
+\begin_inset space ~
+\end_inset
+
+
+\series bold
+Kain
+\series default
+, X.
+\begin_inset space ~
+\end_inset
+
+Song, M.
+\begin_inset space ~
+\end_inset
+
+Lim, 
+\begin_inset Quotes eld
+\end_inset
+
+Automatic Event Detection of REM Sleep Without Atonia from Polysomnography
+ Signals using Deep Neural Networks
+\begin_inset Quotes erd
+\end_inset
+
+, ICASSP 2020
 \end_layout
 
 \begin_layout Paragraph
