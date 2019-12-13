@@ -116,7 +116,7 @@ ORCID 0000-0001-5807-9311
 
 \begin_inset CommandInset href
 LatexCommand href
-target "http://cslu.ohsu.edu/~kain"
+target "https://lxkain.github.io/CV"
 literal "false"
 
 \end_inset
@@ -4527,6 +4527,55 @@ literal "false"
 
 \begin_layout Subsubsection*
 Abstracts
+\end_layout
+
+\begin_layout Enumerate
+F.
+\begin_inset space ~
+\end_inset
+
+van Brenk, A.
+\begin_inset space ~
+\end_inset
+
+Kain, and K.
+\begin_inset space ~
+\end_inset
+
+Tjaden, 
+\begin_inset Quotes eld
+\end_inset
+
+Investigating Intelligibility Gains for a Slowed Rate Using Hybridization
+\begin_inset Quotes erd
+\end_inset
+
+, Twentieth Biennial Conference on Motor Speech, 2020.
+\end_layout
+
+\begin_layout Enumerate
+D.
+\begin_inset space ~
+\end_inset
+
+Britton, A.
+\begin_inset space ~
+\end_inset
+
+
+\series bold
+Kain
+\series default
+, et al., 
+\begin_inset Quotes eld
+\end_inset
+
+Extreme sawtooth sign in motor neuron disease (MND) suggests laryngeal resistanc
+e to forced expiratory airflow
+\begin_inset Quotes erd
+\end_inset
+
+, DRS Annual Meeting, 2020.
 \end_layout
 
 \begin_layout Enumerate
