@@ -363,15 +363,7 @@ A.
 \begin_inset space ~
 \end_inset
 
-in Computer Science and B.
-\begin_inset space \thinspace{}
-\end_inset
-
-A.
-\begin_inset space ~
-\end_inset
-
-in Mathematics
+in Computer Science and Mathematics
 \begin_inset Newline newline
 \end_inset
 
@@ -702,7 +694,7 @@ Phonological disorders affect 10% of preschool and school-age children,
  Effective pronunciation training requires prolonged supervised practice
  and interaction.
  Unfortunately, many children do not have access or only limited access
- to a speech- language pathologist.
+ to a speech-language pathologist.
  
 \series bold
 Computer-assisted pronunciation training
@@ -848,17 +840,7 @@ Current Collaborators
 \end_layout
 
 \begin_layout Itemize
-Matthew Brodsky and Linda Bryans (OHSU): Speech assessment protocol for
- Deep Brain Stimulation
-\end_layout
-
-\begin_layout Itemize
-Marian Dale (OHSU): Speech analysis of patients with progressive supranuclear
- palsy receiving cerebellar transcranial magnetic stimulation
-\end_layout
-
-\begin_layout Itemize
-Jeanne-Marie Guise (OHSU): Epidemiology of Preventable Safety Events
+Kris Tjaden, Fredrik Van Brenk (University at Buffalo): dysarthria
 \end_layout
 
 \begin_layout Itemize
@@ -866,15 +848,20 @@ Jun Wang (University of Texas, Austin): Silent Speech Interface
 \end_layout
 
 \begin_layout Itemize
+Deanna Britton (PSU/OHSU): dystussia
+\end_layout
+
+\begin_layout Itemize
 Miranda Lim (OHSU): REM Sleep Behavior Disorder
 \end_layout
 
 \begin_layout Itemize
-Kris Tjaden, Fredrik Van Brenk (University at Buffalo): dysarthria
+Jeanne-Marie Guise (OHSU): Epidemiology of Preventable Safety Events
 \end_layout
 
 \begin_layout Itemize
-Deanna Britton (PSU/OHSU): dystussia
+Marian Dale (OHSU): Speech analysis of patients with progressive supranuclear
+ palsy receiving cerebellar transcranial magnetic stimulation
 \end_layout
 
 \begin_layout Itemize
@@ -886,12 +873,47 @@ Lina Reiss and Nishad Sathe (OHSU): cochlear implants
 \end_layout
 
 \begin_layout Itemize
+Matthew Brodsky and Linda Bryans (OHSU): Speech assessment protocol for
+ Deep Brain Stimulation
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+?
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
 Michelle Molis (VA): speech intelligibility
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+?
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Itemize
 Frederick Shic (University of Washington), Tyler Duffield (OHSU), Trevor
  Hall (OHSU): ASD and Virtual Reality
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+?
+\end_layout
+
+\end_inset
+
+
 \begin_inset Note Note
 status collapsed
 
@@ -923,6 +945,50 @@ Planned/Pending
 \end_layout
 
 \begin_layout Enumerate
+National Institute of Health, 
+\begin_inset Quotes eld
+\end_inset
+
+Unobtrusive Determination of the location of airway obstructions
+\begin_inset Quotes erd
+\end_inset
+
+, PI: Lam (OHSU), pre-submission.
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+?
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+National Institute of Health K23, 
+\begin_inset Quotes eld
+\end_inset
+
+Cerebellar transcranial magnetic stimulation affects speech
+\begin_inset Quotes erd
+\end_inset
+
+, PI: Dale (OHSU), pre-submission.
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+?
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
 National Institute of Health R01, 
 \begin_inset Quotes eld
 \end_inset
@@ -932,7 +998,17 @@ Computer-Assisted Pronunciation Analysis and Training for children with
 \begin_inset Quotes erd
 \end_inset
 
-, PI: Kain (OHSU)
+, PI: Kain (OHSU), pre-submission.
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+0.5
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Enumerate
@@ -944,31 +1020,17 @@ Automatic Detection of REM Sleep Behavior Disorder
 \begin_inset Quotes erd
 \end_inset
 
-, PI: Lim (OHSU)
+, PI: Lim (OHSU), pre-submission.
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+0.2
 \end_layout
 
-\begin_layout Enumerate
-National Institute of Health, 
-\begin_inset Quotes eld
 \end_inset
 
-Unobtrusive Determination of the location of airway obstructions
-\begin_inset Quotes erd
-\end_inset
 
-, PI: Lam (OHSU)
-\end_layout
-
-\begin_layout Enumerate
-National Institute of Health K23, 
-\begin_inset Quotes eld
-\end_inset
-
-Cerebellar TMS affects speech
-\begin_inset Quotes erd
-\end_inset
-
-, PI: Dale (OHSU)
 \end_layout
 
 \begin_layout Enumerate
@@ -980,20 +1042,17 @@ Epidemiology of Preventable Safety Events in pre-hospital EMS for Children
 \begin_inset Quotes erd
 \end_inset
 
-, PI: Jeanne-Marie Guise (OHSU).
+, PI: Jeanne-Marie Guise (OHSU), re-submission.
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+0.2?
 \end_layout
 
-\begin_layout Enumerate
-National Institute of Health R01, 
-\begin_inset Quotes eld
 \end_inset
 
-Binaural Spectral Integration with Hearing Loss and Hearing Devices
-\begin_inset Quotes erd
-\end_inset
 
-, PI: Reiss (OHSU) scored 36 (23rd percentile) on 2018/03/05, resubmission
- is planned.
 \end_layout
 
 \begin_layout Enumerate
@@ -1005,7 +1064,39 @@ Utility of cough-related airflow measures in determining laryngeal impairment
 \begin_inset Quotes erd
 \end_inset
 
-, PI: Britton (OHSU) scored on 2017/06/12, resubmitted.
+, PI: Britton (OHSU), submitted.
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+0.1
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+National Institute of Health R01, 
+\begin_inset Quotes eld
+\end_inset
+
+Binaural Spectral Integration with Hearing Loss and Hearing Devices
+\begin_inset Quotes erd
+\end_inset
+
+, PI: Reiss (OHSU), starting May 2020.
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+0.1
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Subsubsection*
@@ -1013,7 +1104,7 @@ Current
 \end_layout
 
 \begin_layout Enumerate
-2019/11/15-2024/07/31: National Institute of Health 1R01DC016621-01A1, 
+2019/12/15-2024/06/31: National Institute of Health 1R01DC016621-01A1, 
 \begin_inset Quotes eld
 \end_inset
 
@@ -1041,7 +1132,7 @@ e SSI based on electromagnetic motion tracking.
  Furthermore, one participant demonstrated the feasibility of using the
  SSI for a short conversation.
  The experimental results demonstrated the feasibility and potential of
- silent speech interfaces based on electromagnetic articulograph for future
+ silent speech interfaces based on electromagnetic articulography for future
  clinical applications.
  My role: I provide signal processing and machine-learning expertise.
 \end_layout
@@ -4566,7 +4657,35 @@ Britton, A.
 \series bold
 Kain
 \series default
-, et al., 
+, Y-W.
+\begin_inset space ~
+\end_inset
+
+Chen, J.
+\begin_inset space ~
+\end_inset
+
+Wiedrick, J.
+\begin_inset space \thinspace{}
+\end_inset
+
+O.
+\begin_inset space ~
+\end_inset
+
+Benditt, A.
+\begin_inset space \thinspace{}
+\end_inset
+
+L.
+\begin_inset space ~
+\end_inset
+
+Merati, D.
+\begin_inset space ~
+\end_inset
+
+Graville, 
 \begin_inset Quotes eld
 \end_inset
 
@@ -4575,7 +4694,7 @@ e to forced expiratory airflow
 \begin_inset Quotes erd
 \end_inset
 
-, DRS Annual Meeting, 2020.
+, Dysphagia Research Society 28th Annual Meeting, 2020.
 \end_layout
 
 \begin_layout Enumerate
