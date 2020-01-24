@@ -2008,9 +2008,10 @@ A Continuous Speech Coarticulation Model and Its Application to Conversational
 \end_inset
 
 
-\end_layout
+\begin_inset Note Note
+status open
 
-\begin_layout Itemize
+\begin_layout Plain Layout
 K.
 \begin_inset space ~
 \end_inset
@@ -2034,6 +2035,11 @@ Wilding,
 Clear Speech Variants: An Investigation of Intelligibility in Parkinson’s
  Disease
 \begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
 \end_inset
 
 
@@ -2112,7 +2118,7 @@ Automatic Sleep Apnea Detection
 \begin_inset Quotes erd
 \end_inset
 
-
+, Sleep Journal
 \end_layout
 
 \begin_layout Itemize
@@ -2145,17 +2151,7 @@ mpaired Listeners
 \begin_inset Quotes erd
 \end_inset
 
-
-\begin_inset Note Note
-status open
-
-\begin_layout Plain Layout
-Journal of the Association for Research in Otolaryngology.
-\end_layout
-
-\end_inset
-
-
+, JSLHR
 \end_layout
 
 \begin_layout Itemize
@@ -2208,10 +2204,18 @@ e to forced airflow
 \begin_inset Quotes erd
 \end_inset
 
-
+, JSLHR
 \end_layout
 
-\begin_layout Itemize
+\begin_layout Paragraph
+Published
+\end_layout
+
+\begin_layout Paragraph
+2020
+\end_layout
+
+\begin_layout Enumerate
 A.
 \begin_inset space ~
 \end_inset
@@ -2228,7 +2232,11 @@ Kain
 \bar under
 Roten
 \bar default
-, 
+, R.
+\begin_inset space ~
+\end_inset
+
+Gale, 
 \begin_inset Quotes eld
 \end_inset
 
@@ -2239,7 +2247,7 @@ Diacritic-Level Pronunciation Analysis using Phonological Features
 , ICASSP 2020.
 \end_layout
 
-\begin_layout Itemize
+\begin_layout Enumerate
 P.
 \begin_inset space ~
 \end_inset
@@ -2285,14 +2293,10 @@ Automatic Event Detection of REM Sleep Without Atonia from Polysomnography
 \end_layout
 
 \begin_layout Paragraph
-Published
-\end_layout
-
-\begin_layout Paragraph
 2019
 \end_layout
 
-\begin_layout Enumerate
+\begin_layout Enumerate-Resume
 F.
 \begin_inset space ~
 \end_inset
@@ -2321,7 +2325,7 @@ Identifying Acoustic Correlates of Speaker-Dependent Variation in Slowed
 , International Congress of Phonetic Sciences (ICPhS), 2019.
 \end_layout
 
-\begin_layout Enumerate
+\begin_layout Enumerate-Resume
 
 \bar under
 D.
