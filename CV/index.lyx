@@ -879,7 +879,11 @@ status open
 \end_layout
 
 \begin_layout Subsubsection*
-Planned/Pending
+\begin_inset Note Note
+status open
+
+\begin_layout Subsubsection*
+Planned
 \end_layout
 
 \begin_layout Enumerate
@@ -990,6 +994,11 @@ status open
 
 \begin_layout Plain Layout
 .1
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \end_inset
