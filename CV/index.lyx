@@ -891,6 +891,28 @@ National Institute of Health R21,
 \begin_inset Quotes eld
 \end_inset
 
+Utility of cough-related airflow measures in determining laryngeal impairment
+\begin_inset Quotes erd
+\end_inset
+
+, PI: Britton (OHSU), submitted.
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+.1
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+National Institute of Health R21, 
+\begin_inset Quotes eld
+\end_inset
+
 Unobtrusive Determination of the location of airway obstructions
 \begin_inset Quotes erd
 \end_inset
@@ -979,28 +1001,6 @@ status open
 
 \end_layout
 
-\begin_layout Enumerate
-National Institute of Health R21, 
-\begin_inset Quotes eld
-\end_inset
-
-Utility of cough-related airflow measures in determining laryngeal impairment
-\begin_inset Quotes erd
-\end_inset
-
-, PI: Britton (OHSU), submitted.
-\begin_inset Note Note
-status open
-
-\begin_layout Plain Layout
-.1
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
 \end_inset
 
 
@@ -1033,7 +1033,7 @@ status open
 \end_layout
 
 \begin_layout Enumerate
-National Institute of Health R01, 
+National Institute of Health R01DC013307-06A1, 
 \begin_inset Quotes eld
 \end_inset
 
@@ -1056,6 +1056,26 @@ status open
 
 \begin_layout Subsubsection*
 Current
+\end_layout
+
+\begin_layout Enumerate
+2019/12/19-2020/08/31: National Institute of Health 1R44DC017403-01A1, 
+\begin_inset Quotes eld
+\end_inset
+
+Audiobooks for Hearing Loss
+\begin_inset Quotes erd
+\end_inset
+
+, PI: Lindaas-Hamilton (BioSpeech).
+ The proposed project's goal is to create an audiobook app for individuals
+ with hearing loss with enhanced audio and visual features to support listening,
+ serving to provide auditory training for individuals who want to improve
+ their hearing skills as well provide access to audiobooks for individuals
+ whose hearing ability preludes listening to standard audiobooks.
+ My role: I provide signal processing and machine-learning expertise, and
+ assist with all scientific aspects of the project.
+ Amount: $225K.
 \end_layout
 
 \begin_layout Enumerate
@@ -5372,19 +5392,11 @@ Granting Agency Review Work
 \end_layout
 
 \begin_layout Itemize
-I served as a grant reviewer for the Spinal Cord Injury/Disease Research
- Program, 2018.
+Spinal Cord Injury/Disease Research Program, 2018.
 \end_layout
 
 \begin_layout Itemize
-I served as an additional reviewer on one grant proposal for the National
- Science Foundation, 2013.
-\end_layout
-
-\begin_layout Itemize
-National Science Foundation, April, 2010.
- I reviewed several grant proposals, and then participated in two-day panel
- discussions.
+National Science Foundation, 2010, 2013.
 \end_layout
 
 \begin_layout Subsection
@@ -5392,7 +5404,7 @@ Editorial and Ad Hoc Review Activities
 \end_layout
 
 \begin_layout Itemize
-I typically review 1–3 
+Review of 1–3 
 \series bold
 journal articles
 \series default
@@ -5410,7 +5422,8 @@ Journal of Computer, Speech, and Language
 \end_layout
 
 \begin_layout Itemize
-IEEE Transactions on Audio, Speech and Language Processing
+IEEE Transactions on Audio, Speech and Language Processing (Guest editor
+ for special Voice Transformation issue Volume 18, Issue 5, July 2010)
 \end_layout
 
 \begin_layout Itemize
@@ -5435,24 +5448,13 @@ International Journal of Speech-Language Pathology
 
 \end_deeper
 \begin_layout Itemize
-I review a combined 4–8 
+Review 4–8 
 \series bold
 conference papers
 \series default
  annually for international conferences Interspeech and ICASSP.
  These conference papers are five pages long, and are scored along several
  dimensions.
-\end_layout
-
-\begin_layout Itemize
-
-\series bold
-Guest Editor
-\series default
- for a special Voice Transformation issue of the IEEE Transactions on Audio,
- Speech and Language Processing Journal, Volume 18, Issue 5, July 2010.
- My responsibilities included co-organization of the issue publication,
- co-authoring the introduction, and reviewing articles.
 \end_layout
 
 \begin_layout Subsection
@@ -5479,7 +5481,7 @@ Departmental
 \end_layout
 
 \begin_layout Itemize
-I participate in multiple distinct 
+Participation in multiple distinct 
 \series bold
 Dissertation Advisory Committee
 \series default
@@ -5502,7 +5504,7 @@ Thesis Advisory Committee
 \end_layout
 
 \begin_layout Itemize
-I participate in the annual 
+Participation in the annual 
 \series bold
 Qualifying Exam Committee
 \series default
@@ -5520,7 +5522,7 @@ students present their Qualifying Exam Work to faculty and other students.
 \end_layout
 
 \begin_layout Itemize
-I participate in 
+Participation in 
 \series bold
 Ph.
 \begin_inset space \thinspace{}
@@ -5581,7 +5583,11 @@ Faculty Council Committee
  concerned with educational matters.
 \end_layout
 
-\begin_layout Itemize
+\begin_layout Standard
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
 I give 
 \series bold
 outreach talks
@@ -5592,26 +5598,21 @@ ons.
  George Fox University, December 2015; OHSU's summer talk series, July 2016.
 \end_layout
 
-\begin_layout Subsection
-Activities
-\begin_inset Note Note
-status open
-
-\begin_layout Plain Layout
-In 2018, I organized a visit from Masashi Unoki from the Japan Advanced
- Institue of Science and Technology (JAIST), with the aim of aligning OHSU
- and JAIST more closely for the purposes of grant collaborations and student
- exchanges.
- This program is slated to commence in Fall of 2019.
-\end_layout
-
 \end_inset
 
 
 \end_layout
 
+\begin_layout Subsection
+Activities
+\end_layout
+
 \begin_layout Itemize
-I created and maintain several open-source projects:
+Co-organized the 2020 OHSU-PSU Workshop on Statistical Learning for Health.
+\end_layout
+
+\begin_layout Itemize
+Created and maintain several open-source projects:
 \end_layout
 
 \begin_deeper
@@ -5682,7 +5683,7 @@ literal "false"
 
 \end_deeper
 \begin_layout Itemize
-I worked on designing a formal 
+Worked on designing a formal 
 \series bold
 mentee feedback mechanism
 \series default
@@ -5716,7 +5717,7 @@ unified educational computation environment
 \end_layout
 
 \begin_layout Itemize
-I offer 
+Offered 
 \series bold
 Speech Processing Consultation
 \series default
@@ -5741,7 +5742,7 @@ Hi Alex, Thanks so much for the reference and for meeting with me today.
 \end_layout
 
 \begin_layout Itemize
-I manage and maintain CSLU's 
+Maintained CSLU's 
 \series bold
 Virtual Reality Laboratory
 \series default
@@ -5776,15 +5777,15 @@ Deniz and I would like to push ahead and buy one system to pilot with ALS
 \end_layout
 
 \begin_layout Itemize
-I oversee operations and maintenance of CSLU's 
+Maintained CSLU's 
 \series bold
 Audio Laboratory
 \series default
- hardware and software systems, which feature two WhisperRoom sound-proof
- booths, a 10-channel 32-bit 96 kHz Focusrite recording audio interface
- connected to a Digital Audio Workstation running custom software, a Kay
- Elemetrics laryngograph for capturing a high-quality voicing signal, high-quali
-ty condenser microphones, numerous digital video cameras, a teleprompter,
+ hardware and software systems, featuring two WhisperRoom sound-proof booths,
+ a 10-channel 32-bit 96 kHz Focusrite recording audio interface connected
+ to a Digital Audio Workstation running custom software, a Kay Elemetrics
+ laryngograph for capturing a high-quality voicing signal, high-quality
+ condenser microphones, numerous digital video cameras, a teleprompter,
  and other support equipment.
 \begin_inset Note Comment
 status collapsed
@@ -5808,8 +5809,6 @@ In 2012–2013, Izhak Shafran and I worked with
 Portland State University
 \series default
  (PSU) on increasing educational collaboration.
- This required several meetings with key faculty and administrators, both
- at OHSU and PSU.
  As a result, CSLU and PSU cross listed certain Computer Science and Electrical
  Engineering courses.
  In 2016, this became an institution-wide agreement.
@@ -5824,9 +5823,9 @@ Students
 \end_layout
 
 \begin_layout Itemize
-I have 
+
 \series bold
-mentored
+Mentored
 \series default
  
 \series bold
@@ -5935,9 +5934,9 @@ with Jan
 \end_layout
 
 \begin_layout Itemize
-I have 
+
 \series bold
-co-/mentored Master's
+Co-/mentored Master's
 \series default
  students: Roten, Soethiha, Yaeger, Alder, Velata, Moore.
 \end_layout
@@ -5962,7 +5961,7 @@ reading group meetings
 \end_layout
 
 \begin_layout Itemize
-I supervised a total of 6 
+Supervised 6 
 \series bold
 undergraduate students
 \series default
@@ -5973,7 +5972,7 @@ undergraduate students
 \end_layout
 
 \begin_layout Itemize
-I work with 
+Worked with 
 \series bold
 volunteers
 \series default
