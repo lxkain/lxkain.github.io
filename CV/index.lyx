@@ -486,6 +486,24 @@ status open
 \end_layout
 
 \begin_layout Itemize
+2020-, Independent Consultant
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+Principal Artificial Intelligence Systems Engineer
+\end_layout
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+Skyworks Solutions, Inc., Hillsboro, OR
+\end_layout
+
+\begin_layout Itemize
 2018–, Chief Technology Innovation Officer
 \begin_inset Newline newline
 \end_inset
@@ -891,28 +909,6 @@ National Institute of Health R21,
 \begin_inset Quotes eld
 \end_inset
 
-Utility of cough-related airflow measures in determining laryngeal impairment
-\begin_inset Quotes erd
-\end_inset
-
-, PI: Britton (OHSU), submitted.
-\begin_inset Note Note
-status open
-
-\begin_layout Plain Layout
-.1
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Enumerate
-National Institute of Health R21, 
-\begin_inset Quotes eld
-\end_inset
-
 Unobtrusive Determination of the location of airway obstructions
 \begin_inset Quotes erd
 \end_inset
@@ -923,29 +919,6 @@ status open
 
 \begin_layout Plain Layout
 0.15
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Enumerate
-National Institute of Health R01, 
-\begin_inset Quotes eld
-\end_inset
-
-Computer-Assisted Pronunciation Analysis and Training for children with
- speech sound disorders
-\begin_inset Quotes erd
-\end_inset
-
-, PI: Kain (OHSU), pre-submission.
-\begin_inset Note Note
-status open
-
-\begin_layout Plain Layout
-.4
 \end_layout
 
 \end_inset
@@ -975,20 +948,32 @@ status open
 
 \end_layout
 
-\begin_layout Subsubsection*
-Submitted
-\end_layout
-
 \begin_layout Enumerate
 National Institute of Health R01, 
 \begin_inset Quotes eld
 \end_inset
 
-Epidemiology of Preventable Safety Events in pre-hospital EMS for Children
-\begin_inset Quotes erd
+Improving Articulation Testing for Speech Sound Disorders in Children.
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+.4
+\end_layout
+
 \end_inset
 
-, PI: Jeanne-Marie Guise (OHSU), re-submission.
+
+\end_layout
+
+\begin_layout Subsubsection*
+Submitted
+\end_layout
+
+\begin_layout Enumerate
+National Institute of Health 1R01HL141426-01A1, “Population-level detection
+ of adverse safety event in pediatric out-of-hospital cardiac arrests” PI:
+ Jeanne-Marie Guise (OHSU), re-submission.
 \begin_inset Note Note
 status open
 
@@ -998,7 +983,33 @@ status open
 
 \end_inset
 
+ Will be reviewed June 25/26.
+\end_layout
 
+\begin_layout Enumerate
+National Institute of Health R21, 
+\begin_inset Quotes eld
+\end_inset
+
+Utility of cough-related airflow measures in determining laryngeal impairment
+\begin_inset Quotes erd
+\end_inset
+
+, PI: Britton (OHSU), submitted.
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+.1
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+MRF
 \end_layout
 
 \end_inset
@@ -1007,11 +1018,25 @@ status open
 \end_layout
 
 \begin_layout Subsubsection*
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
 Pending
 \end_layout
 
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+Current
+\begin_inset Note Note
+status open
+
 \begin_layout Enumerate
-National Institute of Health K23, 
+2020/01/01–2020/08/01: National Institute of Health K23, 
 \begin_inset Quotes eld
 \end_inset
 
@@ -1032,8 +1057,13 @@ status open
 
 \end_layout
 
+\end_inset
+
+
+\end_layout
+
 \begin_layout Enumerate
-National Institute of Health R01DC013307-06A1, 
+2020/06/01–2022/06/01: National Institute of Health R01DC013307-06A1, 
 \begin_inset Quotes eld
 \end_inset
 
@@ -1041,7 +1071,49 @@ Binaural Spectral Integration with Hearing Loss and Hearing Devices
 \begin_inset Quotes erd
 \end_inset
 
-, PI: Reiss (OHSU), starting June 2020.
+, PI: Reiss (OHSU).
+ Approximately 22 million Americans have a hearing impairment.
+ While hearing devices such as hearing aids (HAs) and cochlear implants
+ (CIs) are successful in improving speech recognition for many hearing-
+ impaired individuals, there is still significant variability in benefit,
+ and speech recognition in noise remains a problem.
+ One factor that may limit benefit, especially binaural benefit, is abnormal
+ binaural spectral integration.
+ A prerequisite for binaural integration is binaural fusion — the fusion
+ of stimuli from the two ears into a single auditory object.
+ Our findings from the previous grant showed that unlike normal-hearing
+ (NH) listeners, many HA and CI users experience abnormally “broad” binaural
+ fusion in the spectral domain, such that pitches that differ greatly in
+ frequency between the two ears are still heard as a single percept.
+ Individuals with broad fusion also experience abnormal binaural spectral
+ integration - averaging and thus distortion of spectral information across
+ the ears when disparate sounds are fused.
+ We also showed broad fusion to be associated with binaural interference
+ — poorer speech recognition with two ears compared to one.
+ More importantly, preliminary data show that broad fusion is associated
+ with greater difficulty with understanding speech in challenging multi-talker
+ listening situations, such as noisy restaurants.
+ Difficulties with speech understanding in noise is a major complaint of
+ both HA and CI users.
+ In order to help hearing-impaired listeners reduce binaural interference
+ and improve speech understanding in background noise, we need to understand
+ the underlying causes and factors in broad fusion.
+ The long-term goal of this research program is to investigate the effects,
+ causes, and potential treatments for abnormal binaural spectral integration
+ in hearing-impaired listeners.
+ In this proposal we will: 1) determine how broad binaural fusion affects
+ speech perception in quiet and in background talkers; and 2) investigate
+ potential causes of broad binaural fusion in children and adults with HAs
+ and CIs, focusing on peripheral spectral resolution, auditory experience,
+ and top-down auditory processing factors.
+ The proposed research will indicate the role of broad binaural spectral
+ fusion in difficulties faced by hearing-impaired listeners, especially
+ for speech understanding in background noise.
+ Determination of the factors underlying broad fusion will inform future
+ rehabilitation approaches to treat broad fusion, and help hearing-impaired
+ listeners attain the same benefits of binaural hearing as NH listeners.
+ My role: I provide signal processing and machine-learning expertise, and
+ assist with all scientific aspects of the project.
 \begin_inset Note Note
 status open
 
@@ -1054,12 +1126,8 @@ status open
 
 \end_layout
 
-\begin_layout Subsubsection*
-Current
-\end_layout
-
 \begin_layout Enumerate
-2019/12/19-2020/08/31: National Institute of Health 1R44DC017403-01A1, 
+2019/12/19–2020/08/31: National Institute of Health 1R44DC017403-01A1, 
 \begin_inset Quotes eld
 \end_inset
 
@@ -1079,7 +1147,7 @@ Audiobooks for Hearing Loss
 \end_layout
 
 \begin_layout Enumerate
-2019/12/15-2024/06/31: National Institute of Health 1R01DC016621-01A1, 
+2019/12/15–2024/06/31: National Institute of Health 1R01DC016621-01A1, 
 \begin_inset Quotes eld
 \end_inset
 
@@ -1149,7 +1217,11 @@ tics, as inferred from the acoustic signal, causing improved intelligibility.
  Amount: $3.3M.
 \end_layout
 
-\begin_layout Enumerate
+\begin_layout Subsubsection*
+Completed
+\end_layout
+
+\begin_layout Enumerate-Resume
 2017/05/01–2020/04/30: National Institute of Health 4R44DC015145-02, 
 \begin_inset Quotes eld
 \end_inset
@@ -1175,10 +1247,6 @@ SBIR Phase 2: Prosody Assessment Toolbox
  My role: I provide signal processing and machine-learning expertise, and
  assist with all scientific aspects of the project.
  Amount: $706K.
-\end_layout
-
-\begin_layout Subsubsection*
-Completed
 \end_layout
 
 \begin_layout Enumerate-Resume
@@ -1986,7 +2054,7 @@ A Continuous Speech Coarticulation Model and Its Application to Conversational
 \begin_inset Note Note
 status open
 
-\begin_layout Plain Layout
+\begin_layout Itemize
 K.
 \begin_inset space ~
 \end_inset
@@ -2010,11 +2078,6 @@ Wilding,
 Clear Speech Variants: An Investigation of Intelligibility in Parkinson’s
  Disease
 \begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
 \end_inset
 
 
@@ -2096,13 +2159,18 @@ Automatic Sleep Apnea Detection
 , Sleep Journal
 \end_layout
 
-\begin_layout Itemize
+\end_inset
 
-\bar under
+
+\end_layout
+
+\begin_layout Itemize
 N.
 \begin_inset space ~
 \end_inset
 
+
+\bar under
 Sathe
 \bar default
 , A.
@@ -2180,6 +2248,115 @@ e to forced airflow
 \end_inset
 
 , JSLHR
+\end_layout
+
+\begin_layout Itemize
+A.
+\begin_inset space ~
+\end_inset
+
+
+\bar under
+Roten
+\bar default
+, A.
+\begin_inset space ~
+\end_inset
+
+
+\series bold
+Kain
+\series default
+, R.
+\begin_inset space ~
+\end_inset
+
+Gale, M.
+\begin_inset space ~
+\end_inset
+
+Asgari, J.
+\begin_inset space ~
+\end_inset
+
+Dolata, 
+\begin_inset Quotes eld
+\end_inset
+
+Mispronunciation Detection with Phonological Feedback
+\begin_inset Quotes erd
+\end_inset
+
+, Interspeech 2020
+\end_layout
+
+\begin_layout Itemize
+T.
+\begin_inset space ~
+\end_inset
+
+
+\bar under
+Dinh
+\bar default
+, A.
+\begin_inset space ~
+\end_inset
+
+
+\series bold
+Kain
+\series default
+, K.
+\begin_inset space ~
+\end_inset
+
+Tjaden, 
+\begin_inset Quotes eld
+\end_inset
+
+Improving Speech Intelligibility through Speaker Dependent and Independent
+ Spectral Style Conversion
+\begin_inset Quotes erd
+\end_inset
+
+, Interspeech 2020
+\end_layout
+
+\begin_layout Itemize
+T.
+\begin_inset space ~
+\end_inset
+
+
+\bar under
+Dinh
+\bar default
+, A.
+\begin_inset space ~
+\end_inset
+
+
+\series bold
+Kain
+\series default
+, B.
+\begin_inset space ~
+\end_inset
+
+Cao, J.
+\begin_inset space ~
+\end_inset
+
+Wang, 
+\begin_inset Quotes eld
+\end_inset
+
+Increasing the Intelligibility and Naturalness of Speech of Laryngectomees
+\begin_inset Quotes erd
+\end_inset
+
+, Interspeech 2020
 \end_layout
 
 \begin_layout Paragraph
@@ -2301,13 +2478,13 @@ Identifying Acoustic Correlates of Speaker-Dependent Variation in Slowed
 \end_layout
 
 \begin_layout Enumerate-Resume
-
-\bar under
-D.
+T
 \begin_inset space ~
 \end_inset
 
-Tuan
+
+\bar under
+Dinh
 \bar default
 , A.
 \begin_inset space ~
@@ -4956,6 +5133,20 @@ Patents
 \end_layout
 
 \begin_layout Enumerate
+A.
+\begin_inset space ~
+\end_inset
+
+
+\series bold
+Kain
+\series default
+ and Amie Roten, OHSU.
+ Mispronunciation Detection with Phonological Feedback.
+ (Provisional, filed 2020-04-08)
+\end_layout
+
+\begin_layout Enumerate
 J.
 \begin_inset space ~
 \end_inset
@@ -5476,6 +5667,21 @@ Publications Chair
  produce the electronic proceedings and the abstract book.
 \end_layout
 
+\begin_layout Itemize
+Member of the Portland Institute for Computational Science (
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+www.pi4cs.org
+\end_layout
+
+\end_inset
+
+).
+\end_layout
+
 \begin_layout Subsubsection*
 Departmental
 \end_layout
@@ -5608,7 +5814,19 @@ Activities
 \end_layout
 
 \begin_layout Itemize
-Co-organized the 2020 OHSU-PSU Workshop on Statistical Learning for Health.
+Co-organized the 2020 OHSU-PSU Workshop on Statistical Learning for Health
+ ( 
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+www.pi4cs.org/mlhworkshop
+\end_layout
+
+\end_inset
+
+)
 \end_layout
 
 \begin_layout Itemize
@@ -5723,7 +5941,7 @@ Speech Processing Consultation
 \series default
  to the OHSU community.
 \begin_inset Note Note
-status collapsed
+status open
 
 \begin_layout Plain Layout
 Linda Bryans, 2020-02-13 15:14, email:
@@ -5858,7 +6076,17 @@ D
 \begin_inset space ~
 \end_inset
 
-students: Langarani, 
+students: 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+with Jan/Esther: Mahsa
+\end_layout
+
+\end_inset
+
+Langarani, 
 \begin_inset Note Note
 status open
 
@@ -5903,7 +6131,7 @@ with Zak
 status open
 
 \begin_layout Plain Layout
-with Jan
+Xioxiu with Jan
 \end_layout
 
 \end_inset
@@ -5913,7 +6141,7 @@ with Jan
 status open
 
 \begin_layout Plain Layout
-with Hosom
+Akiko, with Hosom
 \end_layout
 
 \end_inset
@@ -5923,7 +6151,7 @@ with Hosom
 status open
 
 \begin_layout Plain Layout
-with Jan
+Qi, with Jan
 \end_layout
 
 \end_inset
@@ -5938,7 +6166,37 @@ with Jan
 \series bold
 Co-/mentored Master's
 \series default
- students: Roten, Soethiha, Yaeger, Alder, Velata, Moore.
+ students: 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+Amie
+\end_layout
+
+\end_inset
+
+Roten, Soethiha, 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+Daniel
+\end_layout
+
+\end_inset
+
+Yaeger, Alder, Velata, 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+Ognyan
+\end_layout
+
+\end_inset
+
+Moore.
 \end_layout
 
 \begin_layout Itemize
