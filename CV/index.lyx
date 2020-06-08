@@ -235,7 +235,7 @@ Portland, Oregon 97239-3098
 \begin_inset Newline newline
 \end_inset
 
-Email: 
+
 \begin_inset CommandInset href
 LatexCommand href
 name "kaina@ohsu.edu"
@@ -249,22 +249,32 @@ literal "false"
 \begin_inset Newline newline
 \end_inset
 
-Phone: (503)
-\begin_inset space ~
-\end_inset
 
-349-3750
-\begin_inset Note Note
-status collapsed
-
-\begin_layout Plain Layout
-\noindent
-Fax: (503)
-\begin_inset space ~
-\end_inset
-
-346-3754
 \end_layout
+
+\begin_layout Subsection*
+Skyworks Solutions, Inc.
+\end_layout
+
+\begin_layout Standard
+Principal Artificial Intelligence Systems Engineer
+\begin_inset Newline newline
+\end_inset
+
+5260 California Avenue
+\begin_inset Newline newline
+\end_inset
+
+Irvine, CA 92617
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset href
+LatexCommand href
+target "alexander.kain@skyworksinc.com"
+type "mailto:"
+literal "false"
 
 \end_inset
 
@@ -288,7 +298,7 @@ Portland, Oregon 97239-3098
 \begin_inset Newline newline
 \end_inset
 
-Email: 
+
 \begin_inset CommandInset href
 LatexCommand href
 name "kain@biospeech.com"
@@ -486,17 +496,7 @@ status open
 \end_layout
 
 \begin_layout Itemize
-2020-, Independent Consultant
-\begin_inset Note Note
-status open
-
-\begin_layout Plain Layout
-Principal Artificial Intelligence Systems Engineer
-\end_layout
-
-\end_inset
-
-
+2020–, Principal Artificial Intelligence Systems Engineer
 \begin_inset Newline newline
 \end_inset
 
