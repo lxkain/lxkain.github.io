@@ -2359,6 +2359,35 @@ Increasing the Intelligibility and Naturalness of Speech of Laryngectomees
 , Interspeech 2020
 \end_layout
 
+\begin_layout Itemize
+F.
+\begin_inset space ~
+\end_inset
+
+Van Brenk, A.
+\begin_inset space ~
+\end_inset
+
+
+\series bold
+Kain
+\series default
+, K.
+\begin_inset space ~
+\end_inset
+
+Tjaden, 
+\begin_inset Quotes eld
+\end_inset
+
+Investigating Acoustic Correlates of Intelligibility Gains and Losses During
+ Slowed Speech: A Hybridization Approach
+\begin_inset Quotes erd
+\end_inset
+
+, American Journal of Speech-Language Pathology
+\end_layout
+
 \begin_layout Paragraph
 Published
 \end_layout
@@ -5312,6 +5341,18 @@ Conference presentation:
 \begin_inset Quotes eld
 \end_inset
 
+Mispronunciation Detection and Feedback for Children with Speech Sound Disorders
+\begin_inset Quotes erd
+\end_inset
+
+, Machine Learning for Health, Portland, OR, 2020.
+\end_layout
+
+\begin_layout Enumerate
+Conference presentation: 
+\begin_inset Quotes eld
+\end_inset
+
 Siamese Autoencoders for Speech Style Extraction and Switching Applied to
  Voice Identification and Conversion”, Interspeech, Stockholm, Sweden, 2017.
 \end_layout
@@ -5544,6 +5585,10 @@ Presentation at CSLU Seminar Series approximately 1–2 times annually
 
 \begin_layout Subsection
 Awards
+\end_layout
+
+\begin_layout Itemize
+2020 OHSU Early-stage Technology Development award ($10,000)
 \end_layout
 
 \begin_layout Itemize
