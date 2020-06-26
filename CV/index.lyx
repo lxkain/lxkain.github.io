@@ -792,7 +792,7 @@ Speech Signal Processing
 \end_layout
 
 \begin_layout Subsection
-Current Collaborators
+Collaborators
 \end_layout
 
 \begin_layout Itemize
@@ -812,7 +812,8 @@ Miranda Lim (OHSU): REM Sleep Behavior Disorder
 \end_layout
 
 \begin_layout Itemize
-Jeanne-Marie Guise (OHSU): Epidemiology of Preventable Safety Events
+Jeanne-Marie Guise (OHSU): Epidemiology of Preventable Safety Events, Functional
+ near-infrared spectroscopy (fNIRS)
 \end_layout
 
 \begin_layout Itemize
@@ -831,40 +832,25 @@ Lina Reiss and Nishad Sathe (OHSU): cochlear implants
 \begin_layout Itemize
 Matthew Brodsky and Linda Bryans (OHSU): Speech assessment protocol for
  Deep Brain Stimulation
+\end_layout
+
+\begin_layout Standard
 \begin_inset Note Note
-status open
+status collapsed
 
 \begin_layout Plain Layout
-?
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Itemize
 Michelle Molis (VA): speech intelligibility
-\begin_inset Note Note
-status open
-
-\begin_layout Plain Layout
-?
 \end_layout
 
 \end_inset
 
 
-\end_layout
+\begin_inset Note Note
+status collapsed
 
-\begin_layout Itemize
+\begin_layout Plain Layout
 Frederick Shic (University of Washington), Tyler Duffield (OHSU), Trevor
  Hall (OHSU): ASD and Virtual Reality
-\begin_inset Note Note
-status open
-
-\begin_layout Plain Layout
-?
 \end_layout
 
 \end_inset
@@ -964,6 +950,10 @@ status open
 \end_inset
 
 
+\end_layout
+
+\begin_layout Enumerate
+National Institute of Health R01, fNIRS, PI: Guise
 \end_layout
 
 \begin_layout Subsubsection*
