@@ -891,20 +891,16 @@ Planned
 \end_layout
 
 \begin_layout Enumerate
-National Institute of Health R21, 
+National Institute of Health R01, 
 \begin_inset Quotes eld
 \end_inset
 
-Unobtrusive Determination of the location of airway obstructions
-\begin_inset Quotes erd
-\end_inset
-
-, PI: Lam (OHSU), pre-submission.
+Improving Articulation Testing for Speech Sound Disorders in Children.
 \begin_inset Note Note
 status open
 
 \begin_layout Plain Layout
-0.15
+.4
 \end_layout
 
 \end_inset
@@ -935,16 +931,12 @@ status open
 \end_layout
 
 \begin_layout Enumerate
-National Institute of Health R01, 
-\begin_inset Quotes eld
-\end_inset
-
-Improving Articulation Testing for Speech Sound Disorders in Children.
+National Institute of Health R01, fNIRS, PI: Guise
 \begin_inset Note Note
 status open
 
 \begin_layout Plain Layout
-.4
+0.2
 \end_layout
 
 \end_inset
@@ -953,7 +945,25 @@ status open
 \end_layout
 
 \begin_layout Enumerate
-National Institute of Health R01, fNIRS, PI: Guise
+National Institute of Health R21, 
+\begin_inset Quotes eld
+\end_inset
+
+Unobtrusive Determination of the location of airway obstructions
+\begin_inset Quotes erd
+\end_inset
+
+, PI: Lam (OHSU), pre-submission.
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+0.15
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Subsubsection*
@@ -2149,6 +2159,46 @@ Automatic Sleep Apnea Detection
 , Sleep Journal
 \end_layout
 
+\begin_layout Itemize
+A.
+\begin_inset space ~
+\end_inset
+
+
+\bar under
+Roten
+\bar default
+, A.
+\begin_inset space ~
+\end_inset
+
+
+\series bold
+Kain
+\series default
+, R.
+\begin_inset space ~
+\end_inset
+
+Gale, M.
+\begin_inset space ~
+\end_inset
+
+Asgari, J.
+\begin_inset space ~
+\end_inset
+
+Dolata, 
+\begin_inset Quotes eld
+\end_inset
+
+Mispronunciation Detection with Phonological Feedback
+\begin_inset Quotes erd
+\end_inset
+
+, Interspeech 2020
+\end_layout
+
 \end_inset
 
 
@@ -2240,116 +2290,15 @@ e to forced airflow
 , JSLHR
 \end_layout
 
-\begin_layout Itemize
-A.
-\begin_inset space ~
-\end_inset
-
-
-\bar under
-Roten
-\bar default
-, A.
-\begin_inset space ~
-\end_inset
-
-
-\series bold
-Kain
-\series default
-, R.
-\begin_inset space ~
-\end_inset
-
-Gale, M.
-\begin_inset space ~
-\end_inset
-
-Asgari, J.
-\begin_inset space ~
-\end_inset
-
-Dolata, 
-\begin_inset Quotes eld
-\end_inset
-
-Mispronunciation Detection with Phonological Feedback
-\begin_inset Quotes erd
-\end_inset
-
-, Interspeech 2020
+\begin_layout Paragraph
+Published
 \end_layout
 
-\begin_layout Itemize
-T.
-\begin_inset space ~
-\end_inset
-
-
-\bar under
-Dinh
-\bar default
-, A.
-\begin_inset space ~
-\end_inset
-
-
-\series bold
-Kain
-\series default
-, K.
-\begin_inset space ~
-\end_inset
-
-Tjaden, 
-\begin_inset Quotes eld
-\end_inset
-
-Improving Speech Intelligibility through Speaker Dependent and Independent
- Spectral Style Conversion
-\begin_inset Quotes erd
-\end_inset
-
-, Interspeech 2020
+\begin_layout Paragraph
+2021
 \end_layout
 
-\begin_layout Itemize
-T.
-\begin_inset space ~
-\end_inset
-
-
-\bar under
-Dinh
-\bar default
-, A.
-\begin_inset space ~
-\end_inset
-
-
-\series bold
-Kain
-\series default
-, B.
-\begin_inset space ~
-\end_inset
-
-Cao, J.
-\begin_inset space ~
-\end_inset
-
-Wang, 
-\begin_inset Quotes eld
-\end_inset
-
-Increasing the Intelligibility and Naturalness of Speech of Laryngectomees
-\begin_inset Quotes erd
-\end_inset
-
-, Interspeech 2020
-\end_layout
-
-\begin_layout Itemize
+\begin_layout Enumerate
 F.
 \begin_inset space ~
 \end_inset
@@ -2379,14 +2328,60 @@ Investigating Acoustic Correlates of Intelligibility Gains and Losses During
 \end_layout
 
 \begin_layout Paragraph
-Published
-\end_layout
-
-\begin_layout Paragraph
 2020
 \end_layout
 
-\begin_layout Enumerate
+\begin_layout Enumerate-Resume
+D.
+\begin_inset space ~
+\end_inset
+
+Britton, A.
+\begin_inset space ~
+\end_inset
+
+
+\series bold
+Kain
+\series default
+, Y-W.
+\begin_inset space ~
+\end_inset
+
+Chen, J.
+\begin_inset space ~
+\end_inset
+
+Wiedrick, J.
+\begin_inset space \thinspace{}
+\end_inset
+
+O.
+\begin_inset space ~
+\end_inset
+
+Benditt, A.
+\begin_inset space \thinspace{}
+\end_inset
+
+L.
+\begin_inset space ~
+\end_inset
+
+Merati, D.
+\begin_inset space ~
+\end_inset
+
+Graville, Extreme sawtooth sign in motor neuron disease (MND) suggests laryngeal
+ resistance to forced expiratory airflow
+\begin_inset Quotes erd
+\end_inset
+
+, Annual Convention of the American Speech-Language-Hearing Association,
+ 2020.
+\end_layout
+
+\begin_layout Enumerate-Resume
 A.
 \begin_inset space ~
 \end_inset
@@ -2418,7 +2413,7 @@ Diacritic-Level Pronunciation Analysis using Phonological Features
 , ICASSP 2020.
 \end_layout
 
-\begin_layout Enumerate
+\begin_layout Enumerate-Resume
 P.
 \begin_inset space ~
 \end_inset
@@ -2460,7 +2455,80 @@ Automatic Event Detection of REM Sleep Without Atonia from Polysomnography
 \begin_inset Quotes erd
 \end_inset
 
-, ICASSP 2020
+, ICASSP 2020.
+\end_layout
+
+\begin_layout Enumerate-Resume
+T.
+\begin_inset space ~
+\end_inset
+
+
+\bar under
+Dinh
+\bar default
+, A.
+\begin_inset space ~
+\end_inset
+
+
+\series bold
+Kain
+\series default
+, K.
+\begin_inset space ~
+\end_inset
+
+Tjaden, 
+\begin_inset Quotes eld
+\end_inset
+
+Improving Speech Intelligibility through Speaker Dependent and Independent
+ Spectral Style Conversion
+\begin_inset Quotes erd
+\end_inset
+
+, Interspeech 2020.
+\end_layout
+
+\begin_layout Enumerate-Resume
+T.
+\begin_inset space ~
+\end_inset
+
+
+\bar under
+Dinh
+\bar default
+, A.
+\begin_inset space ~
+\end_inset
+
+
+\series bold
+Kain
+\series default
+, R.
+\begin_inset space ~
+\end_inset
+
+Samlan, B.
+\begin_inset space ~
+\end_inset
+
+Cao, J.
+\begin_inset space ~
+\end_inset
+
+Wang, 
+\begin_inset Quotes eld
+\end_inset
+
+Increasing the Intelligibility and Naturalness of Speech of Laryngectomees
+\begin_inset Quotes erd
+\end_inset
+
+, Interspeech 2020
 \end_layout
 
 \begin_layout Paragraph
@@ -5420,11 +5488,7 @@ Compression of Line Spectral Frequency Parameters using the Asynchronous
 \end_layout
 
 \begin_layout Enumerate
-
-\series bold
-Invited
-\series default
- conference presentation: 
+Conference presentation: 
 \begin_inset Quotes erd
 \end_inset
 
@@ -5434,15 +5498,20 @@ ion of Acoustic Features to Intelligibility
 \end_inset
 
 , Meeting of the Acoustical Society of America, 2009, San Diego, CA.
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+invited
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Enumerate
-
-\series bold
-Invited
-\series default
- conference presentation for a Special Session on Voice Transformation:
- 
+Conference presentation for a Special Session on Voice Transformation: 
 \begin_inset Quotes erd
 \end_inset
 
@@ -5452,6 +5521,16 @@ Using Speech Transformation to Increase Speech Intelligibility for the Hearing-
 \end_inset
 
 , ICASSP, Taipei, Taiwan, 2009.
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+invited
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Enumerate
