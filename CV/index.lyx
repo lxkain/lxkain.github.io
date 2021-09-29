@@ -171,87 +171,11 @@ Associate Professor
 \begin_inset Newline newline
 \end_inset
 
-Computer Science & Electrical Engineering (
-\begin_inset CommandInset href
-LatexCommand href
-name "CSEE"
-target "http://www.ohsu.edu/csee"
-literal "false"
-
-\end_inset
-
-)
-\begin_inset Newline newline
-\end_inset
-
-Institute on Development and Disability (
-\begin_inset CommandInset href
-LatexCommand href
-name "IDD"
-target "http://www.ohsu.edu/xd/research/centers-institutes/institute-on-development-and-disability/"
-literal "false"
-
-\end_inset
-
-)
-\begin_inset Newline newline
-\end_inset
-
-Department of Otolaryngology and Department of Pediatrics
-\begin_inset Newline newline
-\end_inset
-
-
-\begin_inset Note Comment
-status collapsed
-
-\begin_layout Plain Layout
-\noindent
-Institute on Development & Disability (
-\begin_inset CommandInset href
-LatexCommand href
-name "IDD"
-target "http://www.ohsu.edu/xd/research/centers-institutes/institute-on-development-and-disability/index.cfm/reknew"
-literal "false"
-
-\end_inset
-
-)
-\end_layout
-
-\end_inset
-
-School of Medicine (
-\begin_inset CommandInset href
-LatexCommand href
-name "SOM"
-target "http://www.ohsu.edu/xd/education/schools/school-of-medicine"
-literal "false"
-
-\end_inset
-
-)
-\begin_inset Newline newline
-\end_inset
-
-Oregon Health & Science University (
-\begin_inset CommandInset href
-LatexCommand href
-name "OHSU"
-target "http://www.ohsu.edu"
-literal "false"
-
-\end_inset
-
-)
-\begin_inset Newline newline
-\end_inset
-
 3181 SW Sam Jackson Park Road
 \begin_inset Newline newline
 \end_inset
 
-Portland, Oregon 97239-3098
+Portland, OR 97239
 \begin_inset Newline newline
 \end_inset
 
@@ -453,7 +377,7 @@ status open
 \end_layout
 
 \begin_layout Itemize
-2020–, Principal Artificial Intelligence Systems Engineer
+2020–present, Principal Artificial Intelligence Systems Engineer
 \begin_inset Newline newline
 \end_inset
 
