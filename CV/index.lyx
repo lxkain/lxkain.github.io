@@ -129,6 +129,39 @@ Present Positions
 \end_layout
 
 \begin_layout Subsection*
+Skyworks Solutions, Inc.
+\end_layout
+
+\begin_layout Standard
+Senior Principal Artificial Intelligence Systems Engineer
+\begin_inset Newline newline
+\end_inset
+
+5260 California Avenue
+\begin_inset Newline newline
+\end_inset
+
+Irvine, CA 92617
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset href
+LatexCommand href
+target "alexander.kain@skyworksinc.com"
+type "mailto:"
+literal "false"
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection*
 Oregon Health & Science University
 \end_layout
 
@@ -143,19 +176,6 @@ Computer Science & Electrical Engineering (
 LatexCommand href
 name "CSEE"
 target "http://www.ohsu.edu/csee"
-literal "false"
-
-\end_inset
-
-)
-\begin_inset Newline newline
-\end_inset
-
-Center for Spoken Language Understanding (
-\begin_inset CommandInset href
-LatexCommand href
-name "CSLU"
-target "http://cslu.ohsu.edu"
 literal "false"
 
 \end_inset
@@ -240,69 +260,6 @@ Portland, Oregon 97239-3098
 LatexCommand href
 name "kaina@ohsu.edu"
 target "kaina@ohsu.edu"
-type "mailto:"
-literal "false"
-
-\end_inset
-
-
-\begin_inset Newline newline
-\end_inset
-
-
-\end_layout
-
-\begin_layout Subsection*
-Skyworks Solutions, Inc.
-\end_layout
-
-\begin_layout Standard
-Principal Artificial Intelligence Systems Engineer
-\begin_inset Newline newline
-\end_inset
-
-5260 California Avenue
-\begin_inset Newline newline
-\end_inset
-
-Irvine, CA 92617
-\begin_inset Newline newline
-\end_inset
-
-
-\begin_inset CommandInset href
-LatexCommand href
-target "alexander.kain@skyworksinc.com"
-type "mailto:"
-literal "false"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Subsection*
-BioSpeech, Inc.
-\end_layout
-
-\begin_layout Standard
-Chief Technology Innovation Officer (CTIO)
-\begin_inset Newline newline
-\end_inset
-
-9946 SW 61st Ave
-\begin_inset Newline newline
-\end_inset
-
-Portland, Oregon 97239-3098
-\begin_inset Newline newline
-\end_inset
-
-
-\begin_inset CommandInset href
-LatexCommand href
-name "kain@biospeech.com"
-target "kain@biospeech.com"
 type "mailto:"
 literal "false"
 
@@ -482,7 +439,7 @@ status open
 \end_layout
 
 \begin_layout Subsection*
-Other
+Industrial
 \begin_inset Note Note
 status open
 
@@ -504,7 +461,7 @@ Skyworks Solutions, Inc., Hillsboro, OR
 \end_layout
 
 \begin_layout Itemize
-2018–, Chief Technology Innovation Officer
+2018–2020, Chief Technology Innovation Officer
 \begin_inset Newline newline
 \end_inset
 
@@ -572,19 +529,14 @@ g rules that govern their decisions; this in turn will enable the possibility
 
 \end_inset
 
-I am interested in 
-\series bold
-innovation
-\series default
-, 
-\series bold
-application
-\series default
-, and 
-\series bold
-education
-\series default
- in computational biomedicine, drawing on many years of 
+I am interested in innovation, application, and education in the field of
+ machine learning and biological signal processing.
+ 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+computational biomedicine, drawing on many years of 
 \series bold
 machine learning
 \series default
@@ -593,7 +545,16 @@ machine learning
 signal processing
 \series default
  experience.
- Recent innovations include:
+\end_layout
+
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+Recent innovations include:
 \end_layout
 
 \begin_layout Itemize
@@ -639,7 +600,13 @@ style
 .
 \end_layout
 
-\begin_layout Standard
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
 Recent applications include:
 \end_layout
 
@@ -764,7 +731,13 @@ Spirometry Flow
 
 \end_layout
 
-\begin_layout Standard
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
 As an educator in machine learning, I have created the curriculum for, and
  regularly teach, the course 
 \series bold
@@ -791,12 +764,17 @@ Speech Signal Processing
  My lectures make use of a python-based jupyter-notebook approach.
 \end_layout
 
+\end_inset
+
+
+\end_layout
+
 \begin_layout Subsection
 Collaborators
 \end_layout
 
 \begin_layout Itemize
-Kris Tjaden, Fredrik Van Brenk (University at Buffalo): dysarthria
+Kris Tjaden, Fredrik Van Brenk (University at Buffalo): Dysarthria
 \end_layout
 
 \begin_layout Itemize
@@ -804,7 +782,7 @@ Jun Wang (University of Texas, Austin): Silent Speech Interface
 \end_layout
 
 \begin_layout Itemize
-Deanna Britton (PSU/OHSU): dystussia
+Deanna Britton (PSU/OHSU): Dystussia
 \end_layout
 
 \begin_layout Itemize
@@ -822,11 +800,11 @@ Marian Dale (OHSU): Speech analysis of patients with progressive supranuclear
 \end_layout
 
 \begin_layout Itemize
-Derek Lam and Holden Richards (OHSU): airway obstruction
+Derek Lam and Holden Richards (OHSU): Airway obstruction
 \end_layout
 
 \begin_layout Itemize
-Lina Reiss and Nishad Sathe (OHSU): cochlear implants
+Lina Reiss and Nishad Sathe (OHSU): Cochlear implants
 \end_layout
 
 \begin_layout Itemize
@@ -884,7 +862,7 @@ status open
 
 \begin_layout Subsubsection*
 \begin_inset Note Note
-status open
+status collapsed
 
 \begin_layout Subsubsection*
 Planned
@@ -1019,7 +997,7 @@ MRF
 
 \begin_layout Subsubsection*
 \begin_inset Note Note
-status open
+status collapsed
 
 \begin_layout Plain Layout
 Pending
@@ -1032,38 +1010,51 @@ Pending
 
 \begin_layout Subsubsection*
 Current
-\begin_inset Note Note
-status open
+\end_layout
 
 \begin_layout Enumerate
-2020/01/01–2020/08/01: National Institute of Health K23, 
+2015/09/01–2021/08/31: National Institute of Health 2R01DC004689-11A1, 
 \begin_inset Quotes eld
 \end_inset
 
-Cerebellar transcranial magnetic stimulation affects speech
+Therapeutic Approaches to Dysarthria: Acoustic and Perceptual Correlates
 \begin_inset Quotes erd
 \end_inset
 
-, PI: Dale (OHSU).
-\begin_inset Note Note
-status open
-
-\begin_layout Plain Layout
-.02
+, PIs: Tjaden (State University of New York at Buffalo) and 
+\series bold
+Kain
+\series default
+ (OHSU).
+ 90% of the one million Americans living with idiopathic Parkinson’s disease
+ (PD) and 50% of the 500,000 Americans living with Multiple Sclerosis (MS)
+ will experience dysarthria at some point during the disease.
+ The perceptual sequelae of dysarthria have devastating consequences for
+ quality of life and participation in society by virtue of their effect
+ on social and psychological variables such as employment, leisure activities
+ and relationships.
+ Knowledge of therapy techniques for maximizing perceived speech adequacy,
+ as indexed by intelligibility, therefore is of paramount importance.
+ As a result of our incomplete knowledge of the comparative merits of dysarthria
+ therapy techniques and their variants, however, the choice of a particular
+ technique is not based on a rigorous research base, but is based on either
+ trial and error or the clinician’s educational and experience biases.
+ The proposed project will address these barriers by comparing the acoustic
+ and perceptual consequences of rate reduction, increased vocal intensity
+ and clear speech variants in MS and PD.
+ Our approach is to employ established acoustic measures and perceptual
+ paradigms as well as a state-of-the-art speech re-synthesis technique that
+ will permit conclusions concerning the underlying speech production characteris
+tics, as inferred from the acoustic signal, causing improved intelligibility.
+ Amount: $3.3M.
 \end_layout
 
-\end_inset
-
-
+\begin_layout Subsubsection*
+Completed
 \end_layout
 
-\end_inset
-
-
-\end_layout
-
-\begin_layout Enumerate
-2020/06/01–2022/06/01: National Institute of Health R01DC013307-06A1, 
+\begin_layout Enumerate-Resume
+2020/06/01–2020/08/31: National Institute of Health R01DC013307-06A1, 
 \begin_inset Quotes eld
 \end_inset
 
@@ -1114,19 +1105,9 @@ Binaural Spectral Integration with Hearing Loss and Hearing Devices
  listeners attain the same benefits of binaural hearing as NH listeners.
  My role: I provide signal processing and machine-learning expertise, and
  assist with all scientific aspects of the project.
-\begin_inset Note Note
-status open
-
-\begin_layout Plain Layout
-.1
 \end_layout
 
-\end_inset
-
-
-\end_layout
-
-\begin_layout Enumerate
+\begin_layout Enumerate-Resume
 2019/12/19–2020/08/31: National Institute of Health 1R44DC017403-01A1, 
 \begin_inset Quotes eld
 \end_inset
@@ -1146,8 +1127,8 @@ Audiobooks for Hearing Loss
  Amount: $225K.
 \end_layout
 
-\begin_layout Enumerate
-2019/12/15–2024/06/31: National Institute of Health 1R01DC016621-01A1, 
+\begin_layout Enumerate-Resume
+2019/12/15–2020/08/31: National Institute of Health 1R01DC016621-01A1, 
 \begin_inset Quotes eld
 \end_inset
 
@@ -1178,47 +1159,6 @@ e SSI based on electromagnetic motion tracking.
  silent speech interfaces based on electromagnetic articulography for future
  clinical applications.
  My role: I provide signal processing and machine-learning expertise.
-\end_layout
-
-\begin_layout Enumerate
-2015/09/01–2020/08/31: National Institute of Health 2R01DC004689-11A1, 
-\begin_inset Quotes eld
-\end_inset
-
-Therapeutic Approaches to Dysarthria: Acoustic and Perceptual Correlates
-\begin_inset Quotes erd
-\end_inset
-
-, PIs: Tjaden (State University of New York at Buffalo) and 
-\series bold
-Kain
-\series default
- (OHSU).
- 90% of the one million Americans living with idiopathic Parkinson’s disease
- (PD) and 50% of the 500,000 Americans living with Multiple Sclerosis (MS)
- will experience dysarthria at some point during the disease.
- The perceptual sequelae of dysarthria have devastating consequences for
- quality of life and participation in society by virtue of their effect
- on social and psychological variables such as employment, leisure activities
- and relationships.
- Knowledge of therapy techniques for maximizing perceived speech adequacy,
- as indexed by intelligibility, therefore is of paramount importance.
- As a result of our incomplete knowledge of the comparative merits of dysarthria
- therapy techniques and their variants, however, the choice of a particular
- technique is not based on a rigorous research base, but is based on either
- trial and error or the clinician’s educational and experience biases.
- The proposed project will address these barriers by comparing the acoustic
- and perceptual consequences of rate reduction, increased vocal intensity
- and clear speech variants in MS and PD.
- Our approach is to employ established acoustic measures and perceptual
- paradigms as well as a state-of-the-art speech re-synthesis technique that
- will permit conclusions concerning the underlying speech production characteris
-tics, as inferred from the acoustic signal, causing improved intelligibility.
- Amount: $3.3M.
-\end_layout
-
-\begin_layout Subsubsection*
-Completed
 \end_layout
 
 \begin_layout Enumerate-Resume
@@ -1983,225 +1923,8 @@ In the following lists, students or interns under my mentorship are underlined.
 Peer-reviewed Journal Articles and 4–5 page Conference Papers
 \end_layout
 
-\begin_layout Standard
-\begin_inset Note Note
-status open
-
-\begin_layout Plain Layout
-TODO: Put this info into .bib file
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
 \begin_layout Paragraph
 In preparation / submitted
-\begin_inset Note Note
-status collapsed
-
-\begin_layout Plain Layout
-Molis, 
-\begin_inset Quotes eld
-\end_inset
-
-Time Compressed Speech
-\begin_inset Quotes erd
-\end_inset
-
-?
-\end_layout
-
-\end_inset
-
-
-\begin_inset Note Note
-status collapsed
-
-\begin_layout Plain Layout
-B.
-\begin_inset space ~
-\end_inset
-
-
-\bar under
-Bush
-\bar default
-, A.
-\series bold
-
-\begin_inset space ~
-\end_inset
-
-Kain
-\series default
-, 
-\begin_inset Quotes eld
-\end_inset
-
-A Continuous Speech Coarticulation Model and Its Application to Conversational
- and Clear Speech
-\begin_inset Quotes erd
-\end_inset
-
-, submitted to PLOS
-\end_layout
-
-\end_inset
-
-
-\begin_inset Note Note
-status open
-
-\begin_layout Itemize
-K.
-\begin_inset space ~
-\end_inset
-
-Tjaden, A.
-\begin_inset space ~
-\end_inset
-
-
-\series bold
-Kain
-\series default
-, G.
-\begin_inset space ~
-\end_inset
-
-Wilding, 
-\begin_inset Quotes eld
-\end_inset
-
-Clear Speech Variants: An Investigation of Intelligibility in Parkinson’s
- Disease
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Itemize
-A.
-\begin_inset space ~
-\end_inset
-
-
-\series bold
-Kain
-\series default
-, T.
-\begin_inset space ~
-\end_inset
-
-
-\bar under
-Dinh
-\bar default
-, Y.
-\begin_inset space ~
-\end_inset
-
-
-\bar under
-Chen
-\bar default
-, J.
-\begin_inset space ~
-\end_inset
-
-
-\bar under
-Melanson
-\bar default
-, K.
-\begin_inset space ~
-\end_inset
-
-Tjaden, 
-\begin_inset Quotes eld
-\end_inset
-
-Intra- and Inter-Speaker Sub-Segmental Duration Conversion
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Itemize
-B.
-\begin_inset space ~
-\end_inset
-
-
-\bar under
-Snider
-\bar default
-, A.
-\begin_inset space ~
-\end_inset
-
-
-\series bold
-Kain
-\series default
-, 
-\begin_inset Quotes eld
-\end_inset
-
-Automatic Sleep Apnea Detection
-\begin_inset Quotes erd
-\end_inset
-
-, Sleep Journal
-\end_layout
-
-\begin_layout Itemize
-A.
-\begin_inset space ~
-\end_inset
-
-
-\bar under
-Roten
-\bar default
-, A.
-\begin_inset space ~
-\end_inset
-
-
-\series bold
-Kain
-\series default
-, R.
-\begin_inset space ~
-\end_inset
-
-Gale, M.
-\begin_inset space ~
-\end_inset
-
-Asgari, J.
-\begin_inset space ~
-\end_inset
-
-Dolata, 
-\begin_inset Quotes eld
-\end_inset
-
-Mispronunciation Detection with Phonological Feedback
-\begin_inset Quotes erd
-\end_inset
-
-, Interspeech 2020
-\end_layout
-
-\end_inset
-
-
 \end_layout
 
 \begin_layout Itemize
@@ -2238,11 +1961,11 @@ mpaired Listeners
 \end_layout
 
 \begin_layout Itemize
-D.
+F.
 \begin_inset space ~
 \end_inset
 
-Britton, A.
+Van Brenk, A.
 \begin_inset space ~
 \end_inset
 
@@ -2250,44 +1973,24 @@ Britton, A.
 \series bold
 Kain
 \series default
-, Y-W.
+, K.
 \begin_inset space ~
 \end_inset
 
-Chen, J.
+Tjaden, K.
 \begin_inset space ~
 \end_inset
 
-Wiedrick, J.
-\begin_inset space \thinspace{}
-\end_inset
-
-O.
-\begin_inset space ~
-\end_inset
-
-Benditt, A.
-\begin_inset space \thinspace{}
-\end_inset
-
-L.
-\begin_inset space ~
-\end_inset
-
-Merati, D.
-\begin_inset space ~
-\end_inset
-
-Graville, 
+Stipancic, 
 \begin_inset Quotes eld
 \end_inset
 
-Extreme sawtooth sign in motor neuron disease (MND) suggests laryngeal resistanc
-e to forced airflow
+Intelligibility across a reading passage: The effect of dysarthria and cued
+ speaking styles
 \begin_inset Quotes erd
 \end_inset
 
-, JSLHR
+, American Journal of Speech-Language Pathology
 \end_layout
 
 \begin_layout Paragraph
@@ -2324,7 +2027,7 @@ Investigating Acoustic Correlates of Intelligibility Gains and Losses During
 \begin_inset Quotes erd
 \end_inset
 
-, American Journal of Speech-Language Pathology
+, American Journal of Speech-Language Pathology, May 2021
 \end_layout
 
 \begin_layout Paragraph
@@ -4872,7 +4575,36 @@ van Brenk, A.
 \begin_inset space ~
 \end_inset
 
-Kain, and K.
+
+\series bold
+Kain
+\series default
+, and K.
+\begin_inset space ~
+\end_inset
+
+Tjaden, Acoustic Correlates of Intelligibility in Dysarthria: Findings from
+ Between-Speaker Hybridization
+\begin_inset Quotes erd
+\end_inset
+
+, Boston Speech Motor Control Symposium, 2021.
+\end_layout
+
+\begin_layout Enumerate
+F.
+\begin_inset space ~
+\end_inset
+
+van Brenk, A.
+\begin_inset space ~
+\end_inset
+
+
+\series bold
+Kain
+\series default
+, and K.
 \begin_inset space ~
 \end_inset
 
